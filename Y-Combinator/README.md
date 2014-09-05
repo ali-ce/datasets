@@ -24,6 +24,8 @@ The variables included are:
 - Seed-DB Profile	
 - Crunchbase / Angel List Profile	Website
 
+
+
 2. Founders.csv
 
 - Name of founder
