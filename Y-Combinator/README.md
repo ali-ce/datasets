@@ -2,6 +2,7 @@ The data contains information on almost 700 startup companies backed by Y Combin
 The data is collected and aggregated from SeedDB, CrunchBase and AngelList. The it has been cleaned and made consistent.
 
 The variables included are:
+
 1. Startups.csv
 
 - Company	
