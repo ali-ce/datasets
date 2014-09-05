@@ -25,6 +25,6 @@ The variables included are:
 
 
 2. Founders.csv
-  - Name of founder
-  - Startup(s) founded
+  - Founder
+  - Company
   - Gender
