@@ -1,4 +1,4 @@
-The datasets in this collection contain all the data available from (WikiLeaks' Spy Files releases)[https://wikileaks.org/the-spyfiles.html], up to the latest SpyFile 4 released on September 15th 2014.
+The datasets in this collection contain all the data available from [WikiLeaks' Spy Files releases](https://wikileaks.org/the-spyfiles.html), up to the latest SpyFile 4 released on September 15th 2014.
 The spreadsheets in the collection are:
 
 1. Leaked Company Documents
