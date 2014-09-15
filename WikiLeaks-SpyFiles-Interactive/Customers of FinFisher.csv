@@ -1,4 +1,4 @@
-Username,ID,Attribution,Licenses,Current Customer,Total Costs,"Total considering also ""deleted"" licences",Software Licenses
+Username,ID,Country Attribution,Number of Licenses,Current Customer?,Total Costs,"Total Costs (with ""deleted"" licenses)",Software Purchased
 Gamma1,5,,0,,,,
 Aducate1,6,,0,,,,
 Gss1,7,,0,,,,
@@ -86,3 +86,4 @@ C1D31255,97,,7,Yes,"€1,132,860","€1,132,860","FinUSB Suite, FinFireWire, Fin
 72EDF7D3,98,,2,Yes,"€404,400","€404,400","FinSpy, FinSpy Mobile"
 78D08C85,99,,10,Yes,"€1,252,920","€1,252,920","FinIntrusion Kit, FinSpy, FinSpy Mobile, FinFly LAN, FinUSB Suite, FinFireWire, FinFly Web"
 DAF42FBC,100,,8,Yes,"€2,840,100","€2,840,100","FinSpy, FinSpy Mobile, FinIntrusion Kit, FinFly Web, FinUSB Suite, FinFly USB"
+*DUMMY,a,"a,a",a,a,a,a,"a,a link"
