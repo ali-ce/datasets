@@ -59,7 +59,7 @@ Information on the 36 Tech Giants:
   - News
   - News Link
   
-  4. Founders and Board Members.csv
+4. Founders and Board Members.csv
   Data on the founders of the 36 tech giants and on who sits in their board. Variables are:
   - Name
   - CrunchBase Profile	
