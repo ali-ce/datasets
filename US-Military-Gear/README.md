@@ -10,30 +10,30 @@ We've grouped this data by State and by year, created rankings and averages, add
 1. State Totals Comaprisons.csv
 Aggregates on a state level the single military gear acquired since 2006, and on the amounts for last year (2013). Totals are also normalized by a series of parameters, and enriched with other relevant information.
 Variables available:
-- Total acquisition cost ($) (2006 - 2014)	
-- Total number of Items	
-- Average price per item	
-- Total acquisition cost ($ per inhabitant)	
-- Total acquisition cost ($ per police agency)	
-- Total acquisition cost ($ per inhabitant) (Rank)	
-- Total acquisition cost ($ per police agency) (Rank)	
-- Police officers (per 1,000 inhabitants)	
-- Police officers (per 1,000 inhabitants) (Rank)	
-- 2013 acquisition cost ($ per inhabitant) (Rank)	
-- Police officers killed or assaulted (2012) (per 100 officers) (Rank)	
-- Violent Crime Rate (Rank)	
-- Population (2010 Census)	
-- Police officers (Full-time) (2012)	
-- Number of police agencies	
-- Law Enforcement Felonoiusly Killed	
-- Law Enforcement Officers Assaulted	
-- Total Law Enforcement Officers Killed or Assaulted (2012)
-- Total Law Enforcement Officers Killed or Assaulted (2012) (per 100 police officers)	
-- Violent Crime Rate
+
+  - Total acquisition cost ($) (2006 - 2014)	
+  - Total number of Items	
+  - Average price per item	
+  - Total acquisition cost ($ per inhabitant)	
+  - Total acquisition cost ($ per police agency)	
+  - Total acquisition cost ($ per inhabitant) (Rank)	
+  - Total acquisition cost ($ per police agency) (Rank)	
+  - Police officers (per 1,000 inhabitants)	
+  - Police officers (per 1,000 inhabitants) (Rank)	
+  - 2013 acquisition cost ($ per inhabitant) (Rank)	
+  - Police officers killed or assaulted (2012) (per 100 officers) (Rank)	
+  - Violent Crime Rate (Rank)	
+  - Population (2010 Census)	
+  - Police officers (Full-time) (2012)	
+  - Number of police agencies	
+  - Law Enforcement Felonoiusly Killed	
+  - Law Enforcement Officers Assaulted	
+  - Total Law Enforcement Officers Killed or Assaulted (2012)
+  - Total Law Enforcement Officers Killed or Assaulted (2012) (per 100 police officers)	
+  - Violent Crime Rate
 
 2. Yearly State totals.csv
 Looks at the acquisitions costs and number of items received on a per-state and per-year basis.
-
 
 
 <b>Sources</b>
