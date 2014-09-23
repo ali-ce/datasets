@@ -8,6 +8,7 @@ We've grouped this data by State and by year, created rankings and averages, add
 
 
 1. State Totals Comaprisons.csv
+
 Aggregates on a state level the single military gear acquired since 2006, and on the amounts for last year (2013). Totals are also normalized by a series of parameters, and enriched with other relevant information.
 Variables available:
 
@@ -33,6 +34,7 @@ Variables available:
   - Violent Crime Rate
 
 2. Yearly State totals.csv
+
 Looks at the acquisitions costs and number of items received on a per-state and per-year basis.
 
 
