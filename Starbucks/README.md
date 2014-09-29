@@ -29,8 +29,8 @@ Variables include are:
   - Drive-Thru	
   - Link
   
-  2. Starbucks in California - City Stats.csv
-  Information on the number of Starbucks in each city, combined with census data from (ca.gov)[http://www.dof.ca.gov/research/demographic/state_census_data_center/census_2010/].
+2. Starbucks in California - City Stats.csv
+Information on the number of Starbucks in each city, combined with census data from (ca.gov)[http://www.dof.ca.gov/research/demographic/state_census_data_center/census_2010/].
   Variables included are:
   - ID
   - City
@@ -50,8 +50,8 @@ Variables include are:
   - Median Household Income (Rank)	
   - Percentage of white population (Rank)
   
-  3. Starbucks in California - County Stats.csv
-  Information on the number of Starbucks in each county, combined with census data from (ca.gov)[http://www.dof.ca.gov/research/demographic/state_census_data_center/census_2010/].
+3. Starbucks in California - County Stats.csv
+Information on the number of Starbucks in each county, combined with census data from (ca.gov)[http://www.dof.ca.gov/research/demographic/state_census_data_center/census_2010/].
   Variables included are:
   - County	
   - Number of Starbucks	
@@ -69,8 +69,8 @@ Variables include are:
   - Median Household Income (Rank)	
   - Percentage of white population (Rank)
   
-  4. World Starbucks Stats.csv
-  Country information on:
+4. World Starbucks Stats.csv
+Country information on:
    - Number of Starbucks (from (Socrata)[https://opendata.socrata.com/Business/All-Starbucks-Locations-in-the-World/xy4y-c4mk])
    - 2013 Population Estimate (World Bank)[http://data.worldbank.org/indicator/SP.POP.TOTL]
    - Number of Starbcks per million inhabitants
