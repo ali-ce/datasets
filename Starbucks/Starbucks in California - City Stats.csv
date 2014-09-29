@@ -1,0 +1,434 @@
+ID,City,County,Number of Starbucks,Starbucks per million inhabitants,Starbucks per 10 sq. mile,Median Age,Median Household Income,2010 Population,Percentage of white population,Land Area (Sq. miles),Number of Starbucks (Rank),Starbucks per million inhabitants (Rank),Starbucks per sq. mile (Rank),Median Age (Rank),Median Household Income (Rank),Percentage of white population (Rank)
+Monterey Park - Los Angeles County,Monterey Park,Los Angeles County,1,17,1.30,43.1,"$51,736",60269,19,7.67,1,1,68,364,125,1
+Milpitas - Santa Clara County,Milpitas,Santa Clara County,10,150,7.36,36.1,"$94,589",66790,21,13.59,376,334,380,205,374,2
+Rosemead - Los Angeles County,Rosemead,Los Angeles County,3,56,5.81,38.1,"$47,964",53764,21,5.16,190,96,350,258,93,3
+Hercules - Contra Costa County,Hercules,Contra Costa County,2,83,3.22,39,"$94,493",24060,22,6.21,113,183,210,277,373,4
+Cerritos - Los Angeles County,Cerritos,Los Angeles County,4,82,4.58,44,"$87,853",49041,23,8.73,247,177,304,374,358,5
+Inglewood - Los Angeles County,Inglewood,Los Angeles County,3,27,3.31,33.4,"$44,021",109673,23,9.07,190,15,216,132,67,6
+Rowland Heights - Los Angeles County,Rowland Heights,Los Angeles County,3,61,2.29,40.2,"$63,750",48993,23,13.08,190,112,132,299,222,7
+Daly City - San Mateo County,Daly City,San Mateo County,5,49,6.53,38.3,"$75,399",101123,24,7.66,285,78,363,263,288,8
+Walnut - Los Angeles County,Walnut,Los Angeles County,2,69,2.22,43.1,"$101,358",29172,24,8.99,113,133,125,364,391,9
+Carson - Los Angeles County,Carson,Los Angeles County,8,87,4.27,37.6,"$70,416",91714,24,18.72,352,200,281,245,267,10
+Union City - Alameda County,Union City,Alameda County,5,72,2.57,36.2,"$82,634",69516,24,19.47,285,145,157,207,337,11
+Gardena - Los Angeles County,Gardena,Los Angeles County,3,51,5.15,37.9,"$46,961",58829,25,5.83,190,82,323,250,86,12
+Compton - Los Angeles County,Compton,Los Angeles County,4,41,4.00,28,"$43,311",96455,26,10.01,247,49,256,23,61,13
+Alhambra - Los Angeles County,Alhambra,Los Angeles County,5,60,6.55,39.3,"$52,717",83089,28,7.63,285,108,365,282,137,14
+Mecca - Riverside County,Mecca,Riverside County,1,117,1.44,23.7,"$26,176",8577,31,6.96,1,275,76,6,3,15
+Cupertino - Santa Clara County,Cupertino,Santa Clara County,6,103,5.33,39.9,"$124,825",58302,31,11.26,309,243,332,292,418,16
+Richmond - Contra Costa County,Richmond,Contra Costa County,3,29,1.00,34.8,"$54,554",103701,31,30.07,190,20,49,170,156,17
+San Pablo - Contra Costa County,San Pablo,Contra Costa County,2,69,7.60,31.6,"$45,305",29139,32,2.63,113,134,381,89,70,18
+Arcadia - Los Angeles County,Arcadia,Los Angeles County,4,71,3.66,43.1,"$77,221",56364,32,10.93,247,143,241,364,309,19
+Vallejo - Solano County,Vallejo,Solano County,6,52,1.96,37.9,"$62,325",115942,33,30.67,309,83,103,250,206,20
+Hawthorne - Los Angeles County,Hawthorne,Los Angeles County,5,59,8.22,31.5,"$45,622",84293,33,6.08,285,106,388,88,75,21
+Fremont - Alameda County,Fremont,Alameda County,14,65,1.81,36.8,"$98,513",214089,33,77.46,405,120,95,222,383,22
+Diamond Bar - Los Angeles County,Diamond Bar,Los Angeles County,4,72,2.69,41,"$90,153",55544,33,14.88,247,146,171,327,364,23
+Kettleman City - Kings County,Kettleman City,Kings County,1,695,47.62,25.5,"$34,323",1439,33,0.21,1,419,430,12,14,24
+Temple City - Los Angeles County,Temple City,Los Angeles County,1,28,2.49,42,"$65,445",35558,34,4.01,1,16,152,346,233,25
+Hayward - Alameda County,Hayward,Alameda County,11,76,2.43,33.5,"$62,115",144186,34,45.32,385,161,145,136,205,26
+Oakland - Alameda County,Oakland,Alameda County,17,44,3.05,36.2,"$51,144",390724,35,55.79,413,54,197,207,122,27
+Colma - San Mateo County,Colma,San Mateo County,2,1116,10.47,36.4,"$80,972",1792,35,1.91,113,425,411,215,329,28
+Buttonwillow - Kern County,Buttonwillow,Kern County,1,663,1.44,26.5,"$33,333",1508,35,6.93,1,417,77,15,11,29
+Westminster - Orange County,Westminster,Orange County,7,78,6.97,38.7,"$56,867",89701,36,10.05,339,167,374,269,168,30
+Delano - Kern County,Delano,Kern County,1,19,0.70,28.5,"$37,810",53041,36,14.3,1,4,27,28,31,31
+Pittsburg - Contra Costa County,Pittsburg,Contra Costa County,4,63,2.32,32.5,"$57,965",63264,37,17.22,247,117,134,110,174,32
+Stockton - San Joaquin County,Stockton,San Joaquin County,16,55,2.59,30.8,"$47,365",291707,37,61.67,409,93,158,74,89,33
+South San Francisco - San Mateo County,South San Francisco,San Mateo County,3,47,3.28,38.1,"$75,543",63632,37,9.14,190,69,215,258,290,34
+San Leandro - Alameda County,San Leandro,Alameda County,6,71,4.50,39.3,"$61,857",84950,38,13.34,309,141,297,282,204,35
+Suisun City - Solano County,Suisun City,Solano County,1,36,2.43,33,"$71,411",28111,38,4.11,1,35,146,120,271,36
+El Monte - Los Angeles County,El Monte,Los Angeles County,4,35,4.18,31.6,"$41,820",113475,39,9.56,247,34,273,89,49,37
+American Canyon - Napa County,American Canyon,Napa County,2,103,4.13,35.5,"$83,581",19454,39,4.84,113,242,269,190,343,38
+Marin City - Marin County,Marin City,Marin County,1,375,18.52,35.6,"$46,250",2666,39,0.54,1,404,420,191,81,39
+Artesia - Los Angeles County,Artesia,Los Angeles County,1,61,6.17,38.2,"$58,281",16522,39,1.62,1,109,355,262,177,40
+Lynwood - Los Angeles County,Lynwood,Los Angeles County,2,29,4.13,27.8,"$43,782",69772,39,4.84,113,19,269,22,66,41
+Garden Grove - Orange County,Garden Grove,Orange County,9,53,5.02,35.6,"$60,036",170883,40,17.94,365,86,319,191,189,42
+Livingston - Merced County,Livingston,Merced County,1,77,2.69,27.4,"$45,313",13058,40,3.72,1,162,171,21,71,43
+Hacienda Heights - Los Angeles County,Hacienda Heights,Los Angeles County,2,37,1.79,40.1,"$72,759",54038,40,11.18,113,38,94,296,277,44
+Lathrop - San Joaquin County,Lathrop,San Joaquin County,2,111,0.91,30.5,"$64,732",18023,41,21.93,113,265,42,67,229,45
+Newark - Alameda County,Newark,Alameda County,5,117,3.60,35.4,"$81,777",42573,41,13.87,285,280,235,188,333,46
+San Marino - Los Angeles County,San Marino,Los Angeles County,1,76,2.65,45.3,"$154,318",13147,41,3.77,1,160,165,388,429,47
+Moreno Valley - Riverside County,Moreno Valley,Riverside County,6,31,1.17,28.6,"$56,768",193365,42,51.27,309,23,58,30,166,48
+National City - San Diego County,National City,San Diego County,5,85,6.87,30.2,"$36,907",58582,42,7.28,285,190,373,61,25,49
+Bellflower - Los Angeles County,Bellflower,Los Angeles County,2,26,3.27,31.9,"$50,244",76616,42,6.12,113,12,212,96,108,50
+Signal Hill - Los Angeles County,Signal Hill,Los Angeles County,1,91,4.57,36,"$69,946",11016,42,2.19,1,210,303,200,265,51
+Gonzales - Monterey County,Gonzales,Monterey County,1,122,5.21,27,"$52,928",8187,42,1.92,1,289,327,18,139,52
+Perris - Riverside County,Perris,Riverside County,3,44,0.96,25.9,"$49,812",68386,42,31.39,190,55,46,13,105,53
+Paramount - Los Angeles County,Paramount,Los Angeles County,2,37,4.23,28.6,"$42,831",54098,42,4.73,113,37,277,30,58,54
+San Jose - Santa Clara County,San Jose,Santa Clara County,73,77,4.14,35.2,"$80,764",945942,43,176.53,430,164,271,182,326,55
+West Covina - Los Angeles County,West Covina,Los Angeles County,6,57,3.74,36,"$68,308",106098,43,16.04,309,98,247,200,254,56
+Eastvale - Riverside County,Eastvale,Riverside County,1,19,0.88,30.9,"$115,025",53668,43,11.41,1,2,39,76,406,57
+Sunnyvale - Santa Clara County,Sunnyvale,Santa Clara County,11,79,5.00,35.6,"$93,292",140081,43,21.99,385,168,318,191,369,58
+Colton - San Bernardino County,Colton,San Bernardino County,3,58,1.96,28.4,"$41,788",52154,43,15.32,190,100,104,26,48,59
+Lawndale - Los Angeles County,Lawndale,Los Angeles County,1,31,5.08,31.9,"$48,813",32769,44,1.97,1,22,321,96,98,60
+Watsonville - Santa Cruz County,Watsonville,Santa Cruz County,2,39,2.99,29.2,"$46,073",51199,44,6.69,113,42,193,43,78,61
+Adelanto - San Bernardino County,Adelanto,San Bernardino County,1,31,0.18,25.3,"$42,208",31765,44,56.01,1,24,2,11,54,62
+Baldwin Park - Los Angeles County,Baldwin Park,Los Angeles County,3,40,4.52,30.5,"$52,094",75390,44,6.63,190,43,301,67,129,63
+Rialto - San Bernardino County,Rialto,San Bernardino County,2,20,0.89,28.3,"$50,452",99171,44,22.35,113,6,40,25,110,64
+Stanton - Orange County,Stanton,Orange County,1,26,3.17,33,"$51,933",38186,44,3.15,1,13,207,120,127,65
+Emeryville - Alameda County,Emeryville,Alameda County,4,397,32.00,35,"$69,274",10080,45,1.25,247,407,427,177,259,66
+Santa Clara - Santa Clara County,Santa Clara,Santa Clara County,14,120,7.60,34.1,"$89,004",116468,45,18.41,405,285,381,154,361,67
+Sacramento - Sacramento County,Sacramento,Sacramento County,65,139,6.64,33,"$50,781",466488,45,97.92,429,317,369,120,116,68
+Marina - Monterey County,Marina,Monterey County,2,101,2.25,34,"$51,817",19718,45,8.88,113,239,127,151,126,69
+Buena Park - Orange County,Buena Park,Orange County,6,75,5.70,35.1,"$64,809",80530,45,10.52,309,153,347,180,230,70
+Hawaiian Gardens - Los Angeles County,Hawaiian Gardens,Los Angeles County,1,70,10.53,28.4,"$42,898",14254,45,0.95,1,139,412,26,59,71
+Foster City - San Mateo County,Foster City,San Mateo County,2,65,5.32,39.3,"$115,053",30567,46,3.76,113,122,330,282,407,72
+San Bernardino - San Bernardino County,San Bernardino,San Bernardino County,8,38,1.35,28.5,"$40,161",209924,46,59.2,352,39,71,28,41,73
+Salinas - Monterey County,Salinas,Monterey County,10,66,4.31,28.8,"$50,568",150441,46,23.18,376,126,286,36,111,74
+Santa Ana - Orange County,Santa Ana,Orange County,17,52,6.23,29.1,"$54,399",324528,46,27.27,413,85,357,40,152,75
+Fairfield - Solano County,Fairfield,Solano County,8,76,2.14,33.7,"$68,037",105321,46,37.39,352,158,118,142,250,76
+Elk Grove - Sacramento County,Elk Grove,Sacramento County,11,72,2.61,34.3,"$78,564",153015,46,42.19,385,144,162,160,315,77
+Long Beach - Los Angeles County,Long Beach,Los Angeles County,26,56,5.17,33.2,"$52,945",462257,46,50.29,426,97,326,127,140,78
+Pinole - Contra Costa County,Pinole,Contra Costa County,2,109,3.76,42.6,"$80,042",18390,46,5.32,113,259,248,355,325,79
+Millbrae - San Mateo County,Millbrae,San Mateo County,2,93,6.15,44.8,"$83,992",21532,47,3.25,113,215,354,380,344,80
+Fowler - Fresno County,Fowler,Fresno County,1,180,3.95,31.6,"$54,698",5570,47,2.53,1,362,255,89,159,81
+Freedom - Santa Cruz County,Freedom,Santa Cruz County,2,651,18.18,30.2,"$48,958",3070,47,1.1,113,416,419,61,101,82
+San Lorenzo - Alameda County,San Lorenzo,Alameda County,1,43,3.62,37.9,"$73,053",23452,47,2.76,1,52,237,250,280,83
+Fontana - San Bernardino County,Fontana,San Bernardino County,7,36,1.65,28.7,"$64,058",196069,47,42.43,339,36,90,35,226,84
+Loma Linda - San Bernardino County,Loma Linda,San Bernardino County,2,86,2.66,33.2,"$61,116",23261,48,7.52,113,194,167,127,198,85
+King City - Monterey County,King City,Monterey County,1,78,2.60,25.9,"$52,634",12874,48,3.84,1,166,159,13,136,86
+Pomona - Los Angeles County,Pomona,Los Angeles County,6,40,2.61,29.5,"$50,893",149058,48,22.95,309,45,163,50,118,87
+Coachella - Riverside County,Coachella,Riverside County,1,25,0.35,24.5,"$43,357",40704,48,28.95,1,9,5,8,62,88
+Oxnard - Ventura County,Oxnard,Ventura County,9,45,3.35,29.9,"$60,191",197899,48,26.89,365,60,221,55,192,89
+Seaside - Monterey County,Seaside,Monterey County,2,61,2.16,30.6,"$58,403",33025,48,9.24,113,110,120,70,178,90
+San Francisco - San Francisco County,San Francisco,San Francisco County,88,109,18.78,38.5,"$72,947",805235,48,46.87,431,261,422,266,279,91
+Victorville - San Bernardino County,Victorville,San Bernardino County,6,52,0.82,29.5,"$52,357",115903,49,73.18,309,84,34,50,133,92
+Antioch - Contra Costa County,Antioch,Contra Costa County,6,59,2.12,33.8,"$66,479",102372,49,28.35,309,105,115,147,243,93
+Palmdale - Los Angeles County,Palmdale,Los Angeles County,7,46,0.66,29.7,"$55,213",152750,49,105.96,339,62,24,52,160,94
+Soledad - Monterey County,Soledad,Monterey County,1,39,2.27,34.9,"$53,140",25738,49,4.41,1,41,129,173,141,95
+Norwalk - Los Angeles County,Norwalk,Los Angeles County,6,57,6.18,32.5,"$60,090",105549,49,9.71,309,99,356,110,190,96
+Bell Gardens - Los Angeles County,Bell Gardens,Los Angeles County,1,24,4.07,27.3,"$38,971",42072,49,2.46,1,8,262,20,36,97
+San Bruno - San Mateo County,San Bruno,San Mateo County,5,122,9.12,38.8,"$77,468",41114,49,5.48,285,287,398,273,310,98
+Fresno - Fresno County,Fresno,Fresno County,33,67,2.95,29.3,"$43,440",494665,50,111.96,428,129,191,46,64,99
+Lancaster - Los Angeles County,Lancaster,Los Angeles County,5,32,0.53,30.4,"$52,290",156633,50,94.28,285,27,14,65,132,100
+Los Angeles - Los Angeles County,Los Angeles,Los Angeles County,221,58,4.72,34.1,"$50,028",3792621,50,468.67,433,102,309,154,107,101
+Madera - Madera County,Madera,Madera County,2,33,1.27,26.6,"$41,991",61416,50,15.79,113,28,66,17,53,102
+South Gate - Los Angeles County,South Gate,Los Angeles County,3,32,4.14,29.4,"$41,990",94396,50,7.24,190,26,272,48,52,103
+Irvine - Orange County,Irvine,Orange County,22,104,3.33,33.9,"$92,599",212375,50,66.11,423,245,218,149,368,104
+El Sobrante - Contra Costa County,El Sobrante,Contra Costa County,2,158,7.22,40.6,"$58,706",12669,51,2.77,113,347,377,312,179,105
+Alameda - Alameda County,Alameda,Alameda County,6,81,5.66,40.7,"$75,832",73812,51,10.61,309,176,345,317,293,106
+San Fernando - Los Angeles County,San Fernando,Los Angeles County,1,42,4.22,30.7,"$52,021",23645,51,2.37,1,51,275,72,128,107
+Ontario - San Bernardino County,Ontario,San Bernardino County,10,61,2.00,29.9,"$55,902",163924,51,49.94,376,111,108,55,163,108
+Torrance - Los Angeles County,Torrance,Los Angeles County,17,117,8.30,41.3,"$75,885",145438,51,20.48,413,276,389,331,294,109
+Huntington Park - Los Angeles County,Huntington Park,Los Angeles County,2,34,6.64,28.9,"$36,788",58114,51,3.01,113,32,370,38,24,110
+Dublin - Alameda County,Dublin,Alameda County,6,130,4.02,35.3,"$111,481",46036,51,14.91,309,301,260,184,401,111
+Lemon Grove - San Diego County,Lemon Grove,San Diego County,2,79,5.15,35,"$50,353",25320,52,3.88,113,170,324,177,109,112
+Duarte - Los Angeles County,Duarte,Los Angeles County,1,47,1.49,39.9,"$64,329",21321,52,6.69,1,67,81,292,227,113
+Dinuba - Tulare County,Dinuba,Tulare County,1,47,1.55,27.2,"$40,463",21453,52,6.47,1,64,85,19,42,114
+Merced - Merced County,Merced,Merced County,4,51,1.72,28.1,"$37,025",78958,52,23.32,247,80,92,24,26,115
+Barstow - San Bernardino County,Barstow,San Bernardino County,3,133,0.72,31.1,"$45,417",22639,52,41.38,190,307,28,81,72,116
+Highland - San Bernardino County,Highland,San Bernardino County,1,19,0.53,30.6,"$59,419",53104,52,18.76,1,3,15,70,183,117
+Tustin - Orange County,Tustin,Orange County,7,93,6.32,33.4,"$73,231",75540,53,11.08,339,214,358,132,281,118
+Anaheim - Orange County,Anaheim,Orange County,22,65,4.41,32.4,"$59,330",336265,53,49.84,423,121,294,107,182,119
+Tracy - San Joaquin County,Tracy,San Joaquin County,6,72,2.73,32.3,"$76,739",82922,53,22,309,148,175,106,303,120
+Montclair - San Bernardino County,Montclair,San Bernardino County,2,55,3.62,30.7,"$50,959",36664,53,5.52,113,92,237,72,120,121
+El Cerrito - Contra Costa County,El Cerrito,Contra Costa County,3,127,8.13,43.5,"$69,301",23549,53,3.69,190,296,387,370,260,122
+San Ramon - Contra Costa County,San Ramon,Contra Costa County,8,111,4.43,37.1,"$124,014",72148,54,18.06,352,264,295,234,417,123
+Chula Vista - San Diego County,Chula Vista,San Diego County,12,49,2.42,33.7,"$65,526",243916,54,49.63,393,76,143,142,236,124
+Montebello - Los Angeles County,Montebello,Los Angeles County,3,48,3.60,34.7,"$52,496",62500,54,8.33,190,70,234,166,134,125
+Bell - Los Angeles County,Bell,Los Angeles County,1,28,4.00,28.9,"$37,121",35477,54,2.5,1,17,257,38,27,126
+Saratoga - Santa Clara County,Saratoga,Santa Clara County,4,134,3.23,47.8,"$155,182",29926,54,12.38,247,308,211,408,430,127
+Fullerton - Orange County,Fullerton,Orange County,13,96,5.82,34.8,"$69,432",135161,54,22.35,400,225,351,170,261,128
+Commerce - Los Angeles County,Commerce,Los Angeles County,3,234,4.59,31.2,"$48,878",12823,54,6.54,190,386,305,84,100,129
+South Pasadena - Los Angeles County,South Pasadena,Los Angeles County,3,117,8.80,40.1,"$84,914",25619,54,3.41,190,278,396,296,349,130
+Brawley - Imperial County,Brawley,Imperial County,2,80,2.60,30.2,"$36,233",24953,54,7.68,113,173,159,61,22,131
+Cypress - Orange County,Cypress,Orange County,3,63,4.56,39.9,"$82,954",47802,54,6.58,190,116,302,292,339,132
+Albany - Alameda County,Albany,Alameda County,1,54,5.59,37,"$72,479",18539,55,1.79,1,89,342,228,274,133
+Lindsay - Tulare County,Lindsay,Tulare County,1,85,3.83,24.6,"$29,750",11768,55,2.61,1,188,253,9,4,134
+Pasadena - Los Angeles County,Pasadena,Los Angeles County,23,168,10.01,37.2,"$67,920",137122,56,22.97,425,354,408,237,248,135
+Mountain View - Santa Clara County,Mountain View,Santa Clara County,10,135,8.33,35.9,"$91,446",74066,56,12,376,311,390,198,367,136
+Lakewood - Los Angeles County,Lakewood,Los Angeles County,6,75,6.38,37.5,"$78,360",80048,56,9.41,309,157,359,243,314,137
+Santa Maria - Santa Barbara County,Santa Maria,Santa Barbara County,5,50,2.20,28.6,"$51,664",99553,56,22.76,285,79,122,30,124,138
+Chino - San Bernardino County,Chino,San Bernardino County,11,141,3.71,33.2,"$73,400",77983,56,29.64,385,321,244,127,283,139
+Fountain Valley - Orange County,Fountain Valley,Orange County,5,90,5.54,42.6,"$81,661",55313,56,9.02,285,208,340,355,331,140
+Riverside - Riverside County,Riverside,Riverside County,20,66,2.46,30,"$57,555",303871,56,81.14,419,124,148,58,172,141
+Downey - Los Angeles County,Downey,Los Angeles County,3,27,2.42,33.3,"$59,773",111772,57,12.41,190,14,142,130,185,142
+Lemoore - Kings County,Lemoore,Kings County,1,41,1.17,28.6,"$58,706",24531,57,8.52,1,46,59,30,179,143
+Bakersfield - Kern County,Bakersfield,Kern County,29,83,2.04,30,"$54,656",347483,57,142.16,427,185,110,58,158,144
+Port Hueneme - Ventura County,Port Hueneme,Ventura County,1,46,2.25,31.3,"$52,244",21723,57,4.45,1,63,126,85,131,145
+San Jacinto - Riverside County,San Jacinto,Riverside County,2,45,0.78,30.3,"$47,645",44199,57,25.72,113,59,31,64,91,146
+Fillmore - Ventura County,Fillmore,Ventura County,1,67,2.98,31.9,"$60,605",15002,57,3.36,1,128,192,96,193,147
+Mira Loma - Riverside County,Mira Loma,Riverside County,1,46,1.25,30.4,"$66,635",21930,57,8,1,61,62,65,244,148
+Stanford - Santa Clara County,Stanford,Santa Clara County,1,72,3.66,22.6,"$60,189",13809,57,2.73,1,149,242,3,191,149
+Yuba City - Sutter County,Yuba City,Sutter County,5,77,3.43,33,"$48,830",64925,58,14.58,285,163,227,120,99,150
+Azusa - Los Angeles County,Azusa,Los Angeles County,3,65,3.11,29.3,"$53,826",46361,58,9.66,190,118,201,46,146,151
+Ceres - Stanislaus County,Ceres,Stanislaus County,2,44,2.50,29.4,"$48,550",45417,58,8.01,113,56,153,48,94,152
+Coalinga - Fresno County,Coalinga,Fresno County,1,75,1.63,31.9,"$47,101",13380,58,6.12,1,155,89,96,87,153
+San Mateo - San Mateo County,San Mateo,San Mateo County,12,123,9.89,38.9,"$86,772",97207,58,12.13,393,290,406,274,355,154
+Los Banos - Merced County,Los Banos,Merced County,3,83,3.00,29.8,"$51,478",35972,58,9.99,190,184,195,53,123,155
+Castro Valley - Alameda County,Castro Valley,Alameda County,4,65,2.41,41.2,"$82,370",61388,58,16.63,247,119,140,330,335,156
+Desert Hot Springs - Riverside County,Desert Hot Springs,Riverside County,1,39,0.42,31,"$34,606",25938,58,23.62,1,40,8,78,15,157
+Reedley - Fresno County,Reedley,Fresno County,1,41,1.97,29.1,"$46,776",24194,58,5.08,1,48,105,40,85,158
+La Habra - Orange County,La Habra,Orange County,5,83,6.78,33.6,"$63,356",60239,58,7.37,285,182,372,137,216,159
+Covina - Los Angeles County,Covina,Los Angeles County,2,42,2.84,35.7,"$67,638",47796,58,7.03,113,50,185,197,247,160
+Irwindale - Los Angeles County,Irwindale,Los Angeles County,1,703,1.13,34,"$65,455",1422,59,8.83,1,420,55,151,234,161
+Santa Fe Springs - Los Angeles County,Santa Fe Springs,Los Angeles County,3,185,3.38,35.3,"$53,638",16223,59,8.87,190,366,223,184,144,162
+Gilroy - Santa Clara County,Gilroy,Santa Clara County,4,82,2.48,32.4,"$75,483",48821,59,16.15,247,178,150,107,289,163
+Porterville - Tulare County,Porterville,Tulare County,4,74,2.27,28.8,"$39,933",54165,59,17.61,247,152,130,36,39,164
+San Diego - San Diego County,San Diego,San Diego County,139,106,4.27,33.6,"$63,739",1307402,59,325.19,432,251,283,137,221,165
+Industry - Los Angeles County,Industry,Los Angeles County,1,4566,0.85,37.5,"$49,792",219,59,11.78,1,430,36,243,104,166
+Lomita - Los Angeles County,Lomita,Los Angeles County,1,49,5.24,39.6,"$61,327",20256,59,1.91,1,77,328,288,202,167
+Pico Rivera - Los Angeles County,Pico Rivera,Los Angeles County,2,32,2.41,34,"$55,632",62942,59,8.3,113,25,141,151,161,168
+Hollister - San Benito County,Hollister,San Benito County,3,86,4.12,30.8,"$62,570",34928,59,7.29,190,193,267,74,208,169
+Spring Valley - San Diego County,Spring Valley,San Diego County,2,71,2.79,35,"$65,822",28205,59,7.17,113,142,179,177,239,170
+Berkeley - Alameda County,Berkeley,Alameda County,5,44,4.78,31,"$60,908",112580,60,10.47,285,58,312,78,195,171
+Blythe - Riverside County,Blythe,Riverside County,2,96,0.76,38,"$46,235",20817,60,26.19,113,224,30,256,80,172
+Sanger - Fresno County,Sanger,Fresno County,1,41,1.81,29.2,"$41,987",24270,60,5.52,1,47,97,43,51,173
+El Centro - Imperial County,El Centro,Imperial County,4,94,3.61,31.8,"$38,297",42598,60,11.08,247,218,236,94,34,174
+Corona - Riverside County,Corona,Riverside County,12,79,3.09,32.5,"$79,877",152374,60,38.83,393,169,199,110,324,175
+Monrovia - Los Angeles County,Monrovia,Los Angeles County,3,82,2.21,37.9,"$68,071",36590,60,13.6,190,179,123,250,252,176
+Lake Elsinore - Riverside County,Lake Elsinore,Riverside County,5,96,1.38,29.8,"$63,771",51821,60,36.21,285,226,73,53,224,177
+Calexico - Imperial County,Calexico,Imperial County,1,26,1.19,31.8,"$35,988",38572,60,8.39,1,11,60,94,20,178
+Redwood City - San Mateo County,Redwood City,San Mateo County,9,117,4.63,36.7,"$77,111",76815,60,19.42,365,279,308,218,307,179
+Culver City - Los Angeles County,Culver City,Los Angeles County,5,129,9.78,40.5,"$75,596",38883,60,5.11,285,297,403,308,291,180
+Escondido - San Diego County,Escondido,San Diego County,15,104,4.07,32.5,"$50,597",143911,60,36.81,407,246,263,110,112,181
+Rancho Cordova - Sacramento County,Rancho Cordova,Sacramento County,8,124,2.39,33.1,"$53,878",64776,60,33.51,352,291,139,125,147,182
+La Mirada - Los Angeles County,La Mirada,Los Angeles County,3,62,3.83,37.9,"$81,913",48527,61,7.84,190,114,252,250,334,183
+Hesperia - San Bernardino County,Hesperia,San Bernardino County,4,44,0.55,30.5,"$48,624",90173,61,73.1,247,57,17,67,96,184
+Lompoc - Santa Barbara County,Lompoc,Santa Barbara County,2,47,1.72,33.9,"$47,592",42434,61,11.6,113,68,93,149,90,185
+Tulare - Tulare County,Tulare,Tulare County,2,34,0.96,29.1,"$46,274",59278,61,20.93,113,31,45,40,83,186
+Indio - Riverside County,Indio,Riverside County,5,66,1.71,32.2,"$52,199",76036,61,29.18,285,123,91,104,130,187
+Chowchilla - Madera County,Chowchilla,Madera County,1,53,1.31,34.7,"$41,858",18720,62,7.66,1,88,69,166,50,188
+Rancho Palos Verdes - Los Angeles County,Rancho Palos Verdes,Los Angeles County,2,48,1.49,47.8,"$116,643",41643,62,13.46,113,72,80,408,410,189
+Rancho Cucamonga - San Bernardino County,Rancho Cucamonga,San Bernardino County,12,73,3.01,34.5,"$78,782",165269,62,39.85,393,151,196,163,319,190
+Fort Irwin - San Bernardino County,Fort Irwin,San Bernardino County,2,226,2.84,23.9,"$52,798",8845,62,7.05,113,385,184,7,138,191
+Rosamond - Kern County,Rosamond,Kern County,1,55,0.19,32,"$56,974",18150,62,52.12,1,94,3,100,170,192
+Winchester - Riverside County,Winchester,Riverside County,1,395,1.29,34.6,"$69,798",2534,62,7.73,1,406,67,164,263,193
+Manteca - San Joaquin County,Manteca,San Joaquin County,5,75,2.82,33.6,"$60,963",67096,62,17.73,285,154,183,137,196,194
+Hanford - Kings County,Hanford,Kings County,3,56,1.81,30.9,"$54,421",53967,62,16.59,190,95,96,76,153,195
+Susanville - Lassen County,Susanville,Lassen County,2,111,2.52,33.6,"$49,160",17947,63,7.93,113,266,154,137,102,196
+Beaumont - Riverside County,Beaumont,Riverside County,2,54,0.65,32.5,"$66,132",36877,63,30.91,113,90,22,110,241,197
+Woodland - Yolo County,Woodland,Yolo County,5,90,3.27,33.7,"$56,859",55468,63,15.3,285,207,212,142,167,198
+Santa Paula - Ventura County,Santa Paula,Ventura County,2,68,4.36,31.1,"$53,359",29321,63,4.59,113,132,291,81,142,199
+North Highlands - Sacramento County,North Highlands,Sacramento County,2,47,2.27,32.1,"$41,774",42694,63,8.83,113,66,128,103,47,200
+Vista - San Diego County,Vista,San Diego County,8,85,4.28,31.1,"$50,777",93834,63,18.68,352,189,284,81,115,201
+San Marcos - San Diego County,San Marcos,San Diego County,9,107,3.69,32.9,"$55,815",83781,64,24.37,365,256,243,119,162,202
+Cathedral City - Riverside County,Cathedral City,Riverside County,3,59,1.40,36,"$45,088",51200,64,21.5,190,104,74,200,68,203
+Antelope - Sacramento County,Antelope,Sacramento County,1,22,1.46,31.4,"$71,211",45770,64,6.84,1,7,79,86,268,204
+Oakley - Contra Costa County,Oakley,Contra Costa County,1,28,0.63,32,"$78,102",35432,64,15.85,1,18,21,100,313,205
+Stevenson Ranch - Los Angeles County,Stevenson Ranch,Los Angeles County,6,342,9.43,36.5,"$114,036",17557,64,6.36,309,401,400,216,404,206
+Palo Alto - Santa Clara County,Palo Alto,Santa Clara County,10,155,4.19,41.9,"$122,532",64403,64,23.88,376,341,274,343,415,207
+Isla Vista - Santa Barbara County,Isla Vista,Santa Barbara County,1,43,5.41,20.7,"$22,834",23096,64,1.85,1,53,334,1,2,208
+Visalia - Tulare County,Visalia,Tulare County,9,72,2.48,31.6,"$54,019",124442,64,36.25,365,147,151,89,149,209
+Concord - Contra Costa County,Concord,Contra Costa County,11,90,3.60,37,"$65,769",122067,65,30.55,385,206,233,228,238,210
+Whittier - Los Angeles County,Whittier,Los Angeles County,7,82,4.78,35.4,"$68,055",85331,65,14.65,339,180,313,188,251,211
+Banning - Riverside County,Banning,Riverside County,2,68,0.87,42.3,"$37,373",29603,65,23.1,113,130,37,351,28,212
+Davis - Yolo County,Davis,Yolo County,8,122,8.09,25.2,"$61,182",65622,65,9.89,352,288,386,10,199,213
+Pacifica - San Mateo County,Pacifica,San Mateo County,4,107,3.16,41.5,"$93,436",37234,65,12.66,247,257,206,334,370,214
+Modesto - Stanislaus County,Modesto,Stanislaus County,16,80,4.34,34.2,"$49,852",201165,65,36.87,409,171,288,159,106,215
+Gridley - Butte County,Gridley,Butte County,1,152,4.83,33.1,"$36,563",6584,65,2.07,1,337,315,125,23,216
+La Crescenta - Los Angeles County,La Crescenta,Los Angeles County,4,204,11.66,41.6,"$83,048",19653,65,3.43,247,376,417,337,340,217
+Morgan Hill - Santa Clara County,Morgan Hill,Santa Clara County,7,185,5.43,36.8,"$94,301",37882,65,12.88,339,365,336,222,372,218
+Oceanside - San Diego County,Oceanside,San Diego County,10,60,2.43,35.2,"$63,394",167086,65,41.23,376,107,144,182,217,219
+Atwater - Merced County,Atwater,Merced County,3,107,4.93,30,"$40,752",28168,65,6.09,190,252,317,58,43,220
+Tehachapi - Kern County,Tehachapi,Kern County,1,69,1.01,34.4,"$46,250",14414,65,9.87,1,135,51,162,81,221
+Upland - San Bernardino County,Upland,San Bernardino County,4,54,2.56,36.1,"$67,449",73732,66,15.62,247,91,155,205,245,222
+Naval Air Station Lemoore - Military Area,Naval Air Station Lemoore,Military Area,1,134,2.38,22.5,"$42,225",7438,66,4.21,1,310,136,2,55,223
+Riverbank - Stanislaus County,Riverbank,Stanislaus County,3,132,7.33,31,"$59,779",22678,66,4.09,190,306,379,78,186,224
+Crescent City - Del Norte County,Crescent City,Del Norte County,1,131,5.10,34.9,"$30,058",7643,66,1.96,1,305,322,173,5,225
+Vacaville - Solano County,Vacaville,Solano County,8,87,2.82,37.2,"$73,302",92428,66,28.37,352,195,182,237,282,226
+Sand City - Monterey County,Sand City,Monterey County,2,5988,35.71,34.1,"$39,500",334,67,0.56,113,431,428,154,38,227
+Bonita - San Diego County,Bonita,San Diego County,2,160,4.00,43.9,"$75,670",12538,67,5,113,348,257,373,292,228
+Campbell - Santa Clara County,Campbell,Santa Clara County,7,178,12.07,38.3,"$82,687",39349,67,5.8,339,361,418,263,338,229
+Pleasanton - Alameda County,Pleasanton,Alameda County,7,100,2.90,40.5,"$118,713",70285,67,24.11,339,236,189,308,412,230
+Fallbrook - San Diego County,Fallbrook,San Diego County,1,33,0.57,34.7,"$58,279",30534,67,17.53,1,29,19,166,176,231
+Prunedale - Monterey County,Prunedale,Monterey County,2,114,0.43,40.1,"$76,431",17560,67,46.05,113,269,10,296,300,232
+Orange - Orange County,Orange,Orange County,13,95,5.24,34.8,"$78,654",136416,67,24.8,400,223,329,170,317,233
+Brea - Orange County,Brea,Orange County,8,204,6.62,38.7,"$81,278",39282,67,12.08,352,377,368,269,330,234
+Belmont - San Mateo County,Belmont,San Mateo County,3,116,6.49,40.9,"$100,417",25835,68,4.62,190,274,362,325,388,235
+Hemet - Riverside County,Hemet,Riverside County,4,51,1.44,39,"$34,273",78657,68,27.85,247,81,75,277,13,236
+Burlingame - San Mateo County,Burlingame,San Mateo County,5,174,11.34,40.5,"$79,760",28806,68,4.41,285,356,416,308,322,237
+Brentwood - Contra Costa County,Brentwood,Contra Costa County,1,19,0.68,35.6,"$87,642",51481,68,14.79,1,5,26,191,357,238
+Costa Mesa - Orange County,Costa Mesa,Orange County,16,146,10.22,33.6,"$65,471",109960,69,15.65,409,326,410,137,235,239
+Lodi - San Joaquin County,Lodi,San Joaquin County,6,97,4.41,34.3,"$49,318",62134,69,13.61,309,227,293,160,103,240
+La Cañada Flintridge - Los Angeles County,La Cañada Flintridge,Los Angeles County,2,99,2.32,45.9,"$148,214",20246,69,8.63,113,234,133,393,426,241
+Redlands - San Bernardino County,Redlands,San Bernardino County,7,102,1.94,36.2,"$68,015",68747,69,36.13,339,240,102,207,249,242
+Cabazon - Riverside County,Cabazon,Riverside County,1,394,2.05,31.4,"$30,288",2535,69,4.87,1,405,111,86,6,243
+Apple Valley - San Bernardino County,Apple Valley,San Bernardino County,4,58,0.55,37,"$50,664",69135,69,73.19,247,101,16,228,113,244
+El Cajon - San Diego County,El Cajon,San Diego County,13,131,9.01,33.7,"$47,303",99478,69,14.43,400,304,397,142,88,245
+Wildomar - Riverside County,Wildomar,Riverside County,3,93,1.27,34.6,"$63,519",32176,70,23.69,190,216,65,164,219,246
+Goleta - Santa Barbara County,Goleta,Santa Barbara County,3,100,3.80,36.5,"$72,870",29888,70,7.9,190,238,251,216,278,247
+Murrieta - Riverside County,Murrieta,Riverside County,9,87,2.68,33.4,"$80,792",103466,70,33.58,365,197,169,132,327,248
+Willows - Glenn County,Willows,Glenn County,1,162,3.51,32.6,"$43,493",6166,70,2.85,1,350,229,117,65,249
+Turlock - Stanislaus County,Turlock,Stanislaus County,6,88,3.54,32.5,"$50,862",68549,70,16.93,309,202,231,110,117,250
+Gustine - Merced County,Gustine,Merced County,1,181,6.45,35.3,"$45,639",5520,70,1.55,1,364,361,184,76,251
+Menlo Park - San Mateo County,Menlo Park,San Mateo County,6,187,6.13,38.7,"$111,244",32026,70,9.79,309,370,353,269,400,252
+Lake Forest - Orange County,Lake Forest,Orange County,6,78,3.37,37.2,"$94,632",77264,70,17.82,309,165,222,237,375,253
+San Rafael - Marin County,San Rafael,Marin County,7,121,4.25,40.2,"$71,343",57713,71,16.47,339,286,278,299,269,254
+Los Altos - Santa Clara County,Los Altos,Santa Clara County,3,104,4.62,46.2,"$151,856",28976,71,6.49,190,244,306,399,428,255
+Claremont - Los Angeles County,Claremont,Los Angeles County,4,115,3.00,38.6,"$81,715",34926,71,13.35,247,270,194,268,332,256
+Temecula - Riverside County,Temecula,Riverside County,11,110,3.65,33.4,"$76,276",100097,71,30.15,385,262,240,132,299,257
+Clovis - Fresno County,Clovis,Fresno County,10,105,4.30,34.1,"$65,300",95631,71,23.28,376,247,285,154,232,258
+Santa Clarita - Los Angeles County,Santa Clarita,Los Angeles County,18,102,3.41,36.2,"$83,579",176320,71,52.72,417,241,225,207,342,259
+Dixon - Solano County,Dixon,Solano County,2,109,2.86,33.3,"$72,626",18351,71,7,113,260,186,130,276,260
+Santa Rosa - Sonoma County,Santa Rosa,Sonoma County,20,119,4.84,36.7,"$60,850",167815,71,41.29,419,282,316,218,194,261
+Los Alamitos - Orange County,Los Alamitos,Orange County,1,87,2.47,38.7,"$79,861",11449,71,4.05,1,201,149,269,323,262
+Marysville - Yuba County,Marysville,Yuba County,1,83,2.89,32.5,"$37,836",12072,71,3.46,1,181,187,110,32,263
+Glendale - Los Angeles County,Glendale,Los Angeles County,13,68,4.27,41,"$54,087",191719,71,30.45,400,131,280,327,151,264
+Byron - Contra Costa County,Byron,Contra Costa County,1,783,1.54,32,"$71,483",1277,71,6.49,1,422,84,100,272,265
+Menifee - Riverside County,Menifee,Riverside County,2,26,0.43,38.1,"$54,068",77519,72,46.47,113,10,9,258,150,266
+Castaic - Los Angeles County,Castaic,Los Angeles County,2,105,2.75,35.6,"$100,625",19015,72,7.26,113,248,176,191,390,267
+Twentynine Palms - San Bernardino County,Twentynine Palms,San Bernardino County,1,40,0.17,23.5,"$43,412",25048,72,59.14,1,44,1,5,63,268
+Carpinteria - Santa Barbara County,Carpinteria,Santa Barbara County,2,153,7.72,39.5,"$68,498",13040,72,2.59,113,338,385,286,255,269
+La Mesa - San Diego County,La Mesa,San Diego County,9,158,9.91,37.1,"$54,519",57065,72,9.08,365,346,407,234,155,270
+Corning - Tehama County,Corning,Tehama County,1,130,2.82,29.2,"$38,225",7663,72,3.55,1,302,181,43,33,271
+Aliso Viejo - Orange County,Aliso Viejo,Orange County,3,63,4.02,35.1,"$99,095",47823,72,7.47,190,115,259,180,385,272
+San Dimas - Los Angeles County,San Dimas,Los Angeles County,4,120,2.66,42.6,"$74,610",33371,72,15.04,247,284,167,355,285,273
+Ukiah - Mendocino County,Ukiah,Mendocino County,3,187,6.42,35.9,"$45,577",16075,72,4.67,190,368,360,198,74,274
+Benicia - Solano County,Benicia,Solano County,4,148,3.09,42.9,"$90,338",26997,72,12.93,247,332,200,361,365,275
+Laguna Hills - Orange County,Laguna Hills,Orange County,3,99,4.50,40.8,"$85,971",30344,73,6.67,190,235,297,322,353,276
+Burbank - Los Angeles County,Burbank,Los Angeles County,16,155,9.23,38.9,"$66,024",103340,73,17.34,409,340,399,274,240,277
+Valley Center - San Diego County,Valley Center,San Diego County,1,108,0.36,42.1,"$82,379",9277,73,27.43,1,258,6,347,336,278
+Nipomo - San Luis Obispo County,Nipomo,San Luis Obispo County,2,120,1.35,37,"$61,265",16714,73,14.85,113,283,70,228,201,279
+South Lake Tahoe - El Dorado County,South Lake Tahoe,El Dorado County,4,187,3.94,35.6,"$41,685",21403,74,10.16,247,369,254,191,46,280
+Edwards Air Force Base - Kern County,Edwards Air Force Base,Kern County,1,485,0.58,23,"$77,629",2063,74,17.13,1,409,20,4,311,281
+Gold River - Sacramento County,Gold River,Sacramento County,1,126,3.79,49.7,"$112,111",7912,74,2.64,1,295,250,422,402,282
+Windsor - Sonoma County,Windsor,Sonoma County,4,149,5.50,37,"$77,157",26801,74,7.27,247,333,338,228,308,283
+Bishop - Inyo County,Bishop,Inyo County,2,516,10.75,38.9,"$34,258",3879,74,1.86,113,411,413,274,12,284
+Healdsburg - Sonoma County,Healdsburg,Sonoma County,2,178,4.48,40.8,"$63,666",11254,74,4.46,113,360,296,322,220,285
+La Verne - Los Angeles County,La Verne,Los Angeles County,4,129,4.74,42.9,"$77,088",31063,74,8.43,247,298,311,361,306,286
+Folsom - Sacramento County,Folsom,Sacramento County,12,166,5.47,37.6,"$95,143",72203,74,21.95,393,352,337,245,378,287
+Santa Cruz - Santa Cruz County,Santa Cruz,Santa Cruz County,2,33,1.57,29.9,"$63,110",59946,75,12.74,113,30,87,55,213,288
+Redondo Beach - Los Angeles County,Redondo Beach,Los Angeles County,6,90,9.68,39.3,"$94,982",66748,75,6.2,309,205,402,282,377,289
+Livermore - Alameda County,Livermore,Alameda County,11,136,4.37,38.3,"$96,322",80968,75,25.17,385,312,292,263,380,290
+Fort Bragg - Mendocino County,Fort Bragg,Mendocino County,1,137,3.64,37.4,"$35,030",7273,75,2.75,1,314,239,241,17,291
+Cloverdale - Sonoma County,Cloverdale,Sonoma County,1,116,3.77,39.7,"$56,649",8618,75,2.65,1,273,249,289,165,292
+Pleasant Hill - Contra Costa County,Pleasant Hill,Contra Costa County,6,181,8.49,40.7,"$78,765",33152,75,7.07,309,363,392,317,318,293
+Glendora - Los Angeles County,Glendora,Los Angeles County,4,80,2.06,40.2,"$75,939",50073,75,19.39,247,172,113,299,296,294
+Camarillo - Ventura County,Camarillo,Ventura County,6,92,3.07,40.8,"$84,168",65201,75,19.53,309,213,198,322,345,295
+Napa - Napa County,Napa,Napa County,9,117,5.04,37.4,"$62,642",76915,75,17.84,365,277,320,241,210,296
+Yorba Linda - Orange County,Yorba Linda,Orange County,3,47,1.54,41.7,"$115,291",64234,75,19.48,190,65,83,339,409,297
+Santa Barbara - Santa Barbara County,Santa Barbara,Santa Barbara County,8,90,4.11,36.8,"$63,401",88410,75,19.47,352,209,266,222,218,298
+Moorpark - Ventura County,Moorpark,Ventura County,3,87,2.38,34.7,"$103,009",34421,75,12.58,190,199,137,166,393,299
+Simi Valley - Ventura County,Simi Valley,Ventura County,12,97,2.89,37.8,"$89,452",124237,75,41.48,393,228,188,247,363,300
+Kingsburg - Fresno County,Kingsburg,Fresno County,1,88,3.53,33.7,"$58,091",11382,75,2.83,1,203,230,142,175,301
+Palm Springs - Riverside County,Palm Springs,Riverside County,7,157,0.74,51.6,"$45,989",44552,76,94.12,339,345,29,424,77,302
+Grover Beach - San Luis Obispo County,Grover Beach,San Luis Obispo County,1,76,4.33,36.9,"$47,708",13156,76,2.31,1,159,287,226,92,303
+Half Moon Bay - San Mateo County,Half Moon Bay,San Mateo County,1,88,1.56,43.2,"$96,208",11324,76,6.42,1,204,86,367,379,304
+Novato - Marin County,Novato,Marin County,6,116,2.19,42.6,"$78,628",51904,76,27.44,309,271,121,355,316,305
+Rohnert Park - Sonoma County,Rohnert Park,Sonoma County,6,146,8.57,33,"$56,950",40971,76,7,309,329,393,120,169,306
+Moraga - Contra Costa County,Moraga,Contra Costa County,2,125,2.12,45,"$121,875",16016,76,9.43,113,293,116,384,414,307
+Norco - Riverside County,Norco,Riverside County,3,111,2.15,39.5,"$84,812",27063,76,13.96,190,263,119,286,348,308
+Ventura - Ventura County,Ventura,Ventura County,12,113,5.54,39,"$66,226",106433,77,21.65,393,267,339,277,242,309
+Huntington Beach - Orange County,Huntington Beach,Orange County,18,95,6.73,40.2,"$80,901",189992,77,26.75,417,220,371,299,328,310
+Poway - San Diego County,Poway,San Diego County,4,84,1.02,41.3,"$94,872",47811,77,39.08,247,186,52,331,376,311
+Martinez - Contra Costa County,Martinez,Contra Costa County,5,140,4.12,42.2,"$79,705",35824,77,12.13,285,318,268,349,321,312
+San Juan Capistrano - Orange County,San Juan Capistrano,Orange County,3,87,2.12,40.2,"$73,806",34593,77,14.12,190,196,117,299,284,313
+Rolling Hills - Los Angeles County,Rolling Hills,Los Angeles County,3,1613,10.03,51.7,"$69,226",1860,77,2.99,190,428,409,425,258,314
+Ridgecrest - Kern County,Ridgecrest,Kern County,2,72,0.96,33.8,"$59,830",27616,77,20.77,113,150,48,147,187,315
+Santa Monica - Los Angeles County,Santa Monica,Los Angeles County,20,223,23.78,40.4,"$71,400",89736,78,8.41,419,384,426,305,270,316
+Paso Robles - San Luis Obispo County,Paso Robles,San Luis Obispo County,6,201,3.14,35.3,"$57,927",29793,78,19.12,309,374,202,184,173,317
+Ladera Ranch - Orange County,Ladera Ranch,Orange County,2,87,4.08,32.4,"$132,475",22980,78,4.9,113,198,264,107,421,318
+El Segundo - Los Angeles County,El Segundo,Los Angeles County,6,360,10.99,39.2,"$88,486",16654,78,5.46,309,402,415,281,360,319
+Rancho Santa Margarita - Orange County,Rancho Santa Margarita,Orange County,7,146,5.40,36,"$104,167",47853,78,12.96,339,328,333,200,394,320
+Ramona - San Diego County,Ramona,San Diego County,2,99,0.52,36.7,"$64,454",20292,78,38.41,113,233,13,218,228,321
+Monterey - Monterey County,Monterey,Monterey County,4,144,4.72,36.9,"$62,720",27810,78,8.47,247,325,310,226,211,322
+Lebec - Kern County,Lebec,Kern County,1,681,0.65,40.6,"$61,020",1468,78,15.33,1,418,23,312,197,323
+Walnut Creek - Contra Costa County,Walnut Creek,Contra Costa County,13,203,6.58,47.9,"$84,722",64173,79,19.76,400,375,366,412,347,324
+La Quinta - Riverside County,La Quinta,Riverside County,4,107,1.14,45.6,"$77,790",37467,79,35.12,247,253,56,391,312,325
+Willits - Mendocino County,Willits,Mendocino County,1,205,3.57,37.8,"$41,195",4888,79,2.8,1,378,232,247,44,326
+San Carlos - San Mateo County,San Carlos,San Mateo County,3,106,5.42,42.6,"$118,865",28406,79,5.54,190,249,335,355,413,327
+Taft - Kern County,Taft,Kern County,1,107,0.66,34.9,"$46,136",9327,79,15.11,1,255,25,173,79,328
+Roseville - Placer County,Roseville,Placer County,21,177,5.80,36.8,"$75,245",118788,79,36.22,422,359,349,222,287,329
+Eureka - Humboldt County,Eureka,Humboldt County,4,147,4.26,36.2,"$36,081",27191,79,9.38,247,331,279,207,21,330
+Yucaipa - San Bernardino County,Yucaipa,San Bernardino County,3,58,1.08,37.8,"$59,596",51367,79,27.89,190,103,54,247,184,331
+Lincoln - Placer County,Lincoln,Placer County,4,93,1.99,40.5,"$75,071",42819,80,20.11,247,217,107,308,286,332
+Ripon - San Joaquin County,Ripon,San Joaquin County,1,70,1.89,37.1,"$75,934",14297,80,5.3,1,137,100,234,295,333
+Marina del Rey - Los Angeles County,Marina del Rey,Los Angeles County,8,902,93.02,40,"$91,218",8866,80,0.86,352,423,431,295,366,334
+Mission Viejo - Orange County,Mission Viejo,Orange County,10,107,5.64,42.2,"$96,420",93305,80,17.74,376,254,343,349,381,335
+Oakdale - Stanislaus County,Oakdale,Stanislaus County,2,97,3.31,34.9,"$61,183",20675,80,6.04,113,229,217,173,200,336
+Citrus Heights - Sacramento County,Citrus Heights,Sacramento County,4,48,2.81,36.2,"$54,575",83301,80,14.23,247,71,180,207,157,337
+Thousand Oaks - Ventura County,Thousand Oaks,Ventura County,15,118,2.73,41.5,"$100,373",126683,80,55.03,407,281,174,334,387,338
+Capitola - Santa Cruz County,Capitola,Santa Cruz County,3,302,18.87,41.9,"$50,696",9918,80,1.59,190,397,423,343,114,339
+Petaluma - Sonoma County,Petaluma,Sonoma County,8,138,5.56,40.3,"$76,185",57941,80,14.38,352,316,341,304,297,340
+Laguna Niguel - Orange County,Laguna Niguel,Orange County,6,95,4.05,42.8,"$100,480",62979,80,14.83,309,222,261,360,389,341
+Carmichael - Sacramento County,Carmichael,Sacramento County,3,49,2.22,42.4,"$53,686",61762,81,13.53,190,75,124,353,145,342
+Mammoth Lakes - Mono County,Mammoth Lakes,Mono County,2,243,0.80,32.6,"$56,521",8234,81,24.87,113,387,33,117,164,343
+Red Bluff - Tehama County,Red Bluff,Tehama County,2,142,2.65,32.2,"$31,690",14076,81,7.56,113,323,164,104,10,344
+Chico - Butte County,Chico,Butte County,6,70,1.82,28.6,"$41,632",86187,81,32.92,309,136,98,30,45,345
+Fortuna - Humboldt County,Fortuna,Humboldt County,1,84,2.06,38.1,"$37,532",11926,81,4.85,1,187,112,258,29,346
+Cotati - Sonoma County,Cotati,Sonoma County,1,138,5.32,36.2,"$62,969",7265,82,1.88,1,315,330,207,212,347
+Escalon - San Joaquin County,Escalon,San Joaquin County,1,140,4.35,36,"$61,855",7132,82,2.3,1,319,289,200,203,348
+Del Rey Oaks - Monterey County,Del Rey Oaks,Monterey County,2,1232,41.67,46.2,"$76,923",1624,82,0.48,113,426,429,399,305,349
+Los Gatos - Santa Clara County,Los Gatos,Santa Clara County,5,170,4.51,45,"$122,875",29413,82,11.08,285,355,299,384,416,350
+Soquel - Santa Cruz County,Soquel,Santa Cruz County,2,207,4.35,43.2,"$69,676",9644,82,4.6,113,380,289,367,262,351
+Orcutt - Santa Barbara County,Orcutt,Santa Barbara County,1,35,0.90,42.3,"$67,453",28905,82,11.12,1,33,41,351,246,352
+Sierra Madre - Los Angeles County,Sierra Madre,Los Angeles County,1,92,3.39,46.6,"$84,487",10917,82,2.95,1,211,224,401,346,353
+Orinda - Contra Costa County,Orinda,Contra Costa County,2,113,1.58,47.8,"$157,500",17643,82,12.68,113,268,88,408,431,354
+Beverly Hills - Los Angeles County,Beverly Hills,Los Angeles County,5,147,8.76,43.6,"$85,560",34109,82,5.71,285,330,395,371,351,355
+Palm Desert - Riverside County,Palm Desert,Riverside County,10,206,3.73,53,"$53,940",48445,82,26.81,376,379,245,427,148,356
+Santee - San Diego County,Santee,San Diego County,4,75,2.46,37.2,"$69,828",53413,83,16.24,247,156,147,237,264,357
+Rocklin - Placer County,Rocklin,Placer County,8,140,4.09,36.7,"$79,675",56974,83,19.54,352,320,265,218,320,358
+Lakeport - Lake County,Lakeport,Lake County,1,210,3.27,44.2,"$45,302",4753,83,3.06,1,381,212,376,69,359
+Carlsbad - San Diego County,Carlsbad,San Diego County,9,85,2.39,40.4,"$85,743",105328,83,37.72,365,192,138,305,352,360
+Martell - Amador County,Martell,Amador County,1,3546,4.27,41.7,"$50,962",282,83,2.34,1,429,281,339,121,361
+Danville - Contra Costa County,Danville,Contra Costa County,6,143,3.33,44.5,"$133,360",42039,83,18.03,309,324,218,379,424,362
+Anderson - Shasta County,Anderson,Shasta County,2,201,3.14,34.1,"$34,862",9932,83,6.37,113,373,203,154,16,363
+El Dorado Hills - El Dorado County,El Dorado Hills,El Dorado County,4,95,0.83,40.6,"$115,121",42108,83,48.45,247,221,35,312,408,364
+Seal Beach - Orange County,Seal Beach,Orange County,3,124,2.66,57.3,"$50,958",24168,83,11.29,190,292,166,428,119,365
+Yucca Valley - San Bernardino County,Yucca Valley,San Bernardino County,1,48,0.25,40.6,"$45,502",20700,83,40.02,1,73,4,312,73,366
+Yreka - Siskiyou County,Yreka,Siskiyou County,1,129,1.00,41.7,"$31,151",7765,84,9.98,1,299,50,339,7,367
+Big Bear Lake - San Bernardino County,Big Bear Lake,San Bernardino County,2,398,3.15,46.1,"$31,541",5019,84,6.35,113,408,204,397,9,368
+Calabasas - Los Angeles County,Calabasas,Los Angeles County,3,130,2.33,41.6,"$118,182",23058,84,12.9,190,300,135,337,411,369
+Placerville - El Dorado County,Placerville,El Dorado County,3,289,5.16,40.4,"$53,385",10389,84,5.81,190,396,325,305,143,370
+Agoura Hills - Los Angeles County,Agoura Hills,Los Angeles County,2,98,2.57,42.4,"$108,820",20330,84,7.79,113,232,156,353,396,371
+Corte Madera - Marin County,Corte Madera,Marin County,3,324,9.49,44.2,"$106,541",9253,84,3.16,190,400,401,376,395,372
+San Luis Obispo - San Luis Obispo County,San Luis Obispo,San Luis Obispo County,11,244,8.61,26.5,"$42,528",45119,84,12.78,385,388,394,15,57,373
+Manhattan Beach - Los Angeles County,Manhattan Beach,Los Angeles County,3,85,7.61,40.9,"$132,752",35135,84,3.94,190,191,383,325,422,374
+Pacific Grove - Monterey County,Pacific Grove,Monterey County,1,66,3.50,48.1,"$70,211",15041,85,2.86,1,127,228,413,266,375
+Lafayette - Contra Costa County,Lafayette,Contra Costa County,3,126,1.97,45.2,"$134,871",23893,85,15.22,190,294,106,387,425,376
+Kings Beach - Placer County,Kings Beach,Placer County,1,263,2.91,31.6,"$40,060",3796,85,3.44,1,391,190,89,40,377
+Lakeside - San Diego County,Lakeside,San Diego County,1,48,1.45,39.1,"$63,852",20648,85,6.9,1,74,78,280,225,378
+Clayton - Contra Costa County,Clayton,Contra Costa County,1,92,2.60,45,"$131,991",10897,85,3.84,1,212,159,384,420,379
+Arroyo Grande - San Luis Obispo County,Arroyo Grande,San Luis Obispo County,2,116,3.42,45.4,"$64,900",17252,85,5.84,113,272,226,389,231,380
+Fair Oaks - Sacramento County,Fair Oaks,Sacramento County,5,162,4.63,45.8,"$72,381",30912,86,10.79,285,349,307,392,273,381
+McKinleyville - Humboldt County,McKinleyville,Humboldt County,1,66,0.48,36.3,"$46,696",15177,86,20.8,1,125,12,214,84,382
+Solana Beach - San Diego County,Solana Beach,San Diego County,2,155,5.68,43.7,"$85,317",12867,86,3.52,113,342,346,372,350,383
+Encinitas - San Diego County,Encinitas,San Diego County,9,151,4.78,41.5,"$88,458",59518,86,18.81,365,336,314,334,359,384
+Redding - Shasta County,Redding,Shasta County,9,100,1.51,38.5,"$43,157",89861,86,59.65,365,237,82,266,60,385
+San Clemente - Orange County,San Clemente,Orange County,6,94,3.21,39.7,"$89,289",63522,86,18.71,309,219,209,289,362,386
+Scotts Valley - Santa Cruz County,Scotts Valley,Santa Cruz County,3,259,6.54,41.7,"$99,076",11580,86,4.59,190,389,364,339,384,387
+Dana Point - Orange County,Dana Point,Orange County,5,150,7.69,44.8,"$83,306",33351,86,6.5,285,335,384,380,341,388
+Los Osos - San Luis Obispo County,Los Osos,San Luis Obispo County,1,70,0.78,47.2,"$57,500",14276,86,12.76,1,138,32,405,171,389
+Lake Arrowhead - San Bernardino County,Lake Arrowhead,San Bernardino County,1,80,0.56,43,"$63,117",12424,86,17.73,1,174,18,363,214,390
+Atascadero - San Luis Obispo County,Atascadero,San Luis Obispo County,3,106,1.17,41,"$68,502",28310,86,25.64,190,250,57,327,256,391
+Larkspur - Marin County,Larkspur,Marin County,2,168,6.60,48.5,"$86,046",11926,86,3.03,113,353,367,417,354,392
+Truckee - Nevada County,Truckee,Nevada County,3,185,0.93,38,"$68,173",16180,86,32.32,190,367,43,256,253,393
+Guerneville - Sonoma County,Guerneville,Sonoma County,1,221,1.03,48.2,"$39,459",4534,87,9.71,1,383,53,414,37,394
+Angels Camp - Calaveras County,Angels Camp,Calaveras County,1,261,2.75,45.9,"$48,614",3836,87,3.63,1,390,176,393,95,395
+Hermosa Beach - Los Angeles County,Hermosa Beach,Los Angeles County,3,154,20.98,37,"$102,289",19506,87,1.43,190,339,424,228,392,396
+Sonoma - Sonoma County,Sonoma,Sonoma County,2,188,7.30,49.2,"$63,262",10648,87,2.74,113,371,378,421,215,397
+Westwood - Lassen County,Westwood,Lassen County,1,607,1.84,41.3,"$38,512",1647,87,5.44,1,414,99,331,35,398
+Alamo - Contra Costa County,Alamo,Contra Costa County,2,137,2.07,47.7,"$149,601",14570,87,9.67,113,313,114,407,427,399
+Morro Bay - San Luis Obispo County,Morro Bay,San Luis Obispo County,1,98,1.89,48.9,"$52,582",10234,87,5.3,1,230,100,420,135,400
+Aptos - Santa Cruz County,Aptos,Santa Cruz County,2,322,3.15,46.9,"$76,862",6220,87,6.35,113,399,204,403,304,401
+Alpine - San Diego County,Alpine,San Diego County,1,70,0.37,41.9,"$76,663",14236,87,26.78,1,140,7,343,302,402
+Laguna Woods - Orange County,Laguna Woods,Orange County,1,62,3.21,77,"$35,393",16192,87,3.12,1,113,208,431,18,403
+Newport Beach - Orange County,Newport Beach,Orange County,17,200,7.14,44,"$108,946",85186,87,23.8,413,372,376,374,397,404
+Orangevale - Sacramento County,Orangevale,Sacramento County,1,29,0.87,40.7,"$68,938",33960,87,11.52,1,21,38,317,257,405
+Weaverville - Trinity County,Weaverville,Trinity County,1,278,0.96,44.4,"$42,337",3600,88,10.42,1,393,47,378,56,406
+Ojai - Ventura County,Ojai,Ventura County,1,134,2.28,47.1,"$63,750",7461,88,4.39,1,309,131,404,222,407
+Jackson - Amador County,Jackson,Amador County,1,215,2.68,46,"$48,631",4651,88,3.73,1,382,170,395,97,408
+Granite Bay - Placer County,Granite Bay,Placer County,2,98,0.93,46,"$126,937",20402,88,21.53,113,231,44,395,419,409
+Coronado - San Diego County,Coronado,San Diego County,1,53,1.26,40.7,"$93,777",18912,88,7.93,1,87,63,317,371,410
+Sebastopol - Sonoma County,Sebastopol,Sonoma County,2,271,10.81,46.1,"$60,000",7379,88,1.85,113,392,414,397,188,411
+Lake Isabella - Kern County,Lake Isabella,Kern County,1,289,0.46,47.2,"$20,833",3466,89,21.71,1,395,11,405,1,412
+Westlake Village - Los Angeles County,Westlake Village,Los Angeles County,3,363,5.78,48.7,"$113,852",8270,89,5.19,190,403,348,419,403,413
+Rancho Mirage - Riverside County,Rancho Mirage,Riverside County,3,174,1.23,62.3,"$76,261",17218,89,24.45,190,357,61,430,298,414
+Mill Valley - Marin County,Mill Valley,Marin County,4,288,8.40,46.6,"$109,759",13903,89,4.76,247,394,391,401,398,415
+Auburn - Placer County,Auburn,Placer County,7,525,9.80,45.4,"$62,600",13330,89,7.14,339,412,404,389,209,416
+Cameron Park - El Dorado County,Cameron Park,El Dorado County,3,165,2.70,40.6,"$72,562",18228,89,11.11,190,351,173,312,275,417
+Loomis - Placer County,Loomis,Placer County,1,156,1.38,42.1,"$86,990",6430,89,7.27,1,343,72,347,356,418
+Grass Valley - Nevada County,Grass Valley,Nevada County,2,156,4.22,43.2,"$35,843",12860,89,4.74,113,343,275,367,19,419
+Oakhurst - Madera County,Oakhurst,Madera County,2,707,3.33,48.4,"$37,609",2829,90,6,113,421,220,416,30,420
+Colfax - Placer County,Colfax,Placer County,1,509,7.09,37.9,"$58,750",1963,90,1.41,1,410,375,250,181,421
+Sonora - Tuolumne County,Sonora,Tuolumne County,3,612,9.80,39.7,"$31,424",4903,90,3.06,190,415,404,289,8,422
+Pollock Pines - El Dorado County,Pollock Pines,El Dorado County,1,146,1.26,44.8,"$54,478",6871,90,7.93,1,327,63,380,154,423
+San Anselmo - Marin County,San Anselmo,Marin County,1,81,3.73,44.9,"$96,639",12336,90,2.68,1,175,246,383,382,424
+Sausalito - Marin County,Sausalito,Marin County,1,142,5.65,51.1,"$110,040",7061,91,1.77,1,322,344,423,399,425
+Laguna Beach - Orange County,Laguna Beach,Orange County,4,176,4.52,48.3,"$99,190",22723,91,8.85,247,358,300,415,386,426
+Pismo Beach - San Luis Obispo County,Pismo Beach,San Luis Obispo County,1,131,2.78,51.8,"$65,682",7655,91,3.6,1,303,178,426,237,427
+Malibu - Los Angeles County,Malibu,Los Angeles County,4,316,2.02,47.8,"$132,926",12645,91,19.78,247,398,109,408,423,428
+Carmel-by-the-Sea - Monterey County,Carmel-by-the-Sea,Monterey County,2,537,18.52,59.2,"$76,463",3722,93,1.08,113,413,420,429,301,429
+Del Mar - San Diego County,Del Mar,San Diego County,4,961,23.39,48.6,"$114,531",4161,94,1.71,247,424,425,418,405,430
+Tahoe City - Placer County,Tahoe City,Placer County,2,1285,5.92,40.7,"$62,470",1557,95,3.38,113,427,352,317,207,431
+Trabuco Canyon - Orange County,Trabuco Canyon,Orange County,1,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,1,,,,,
+Travis Air Force Base - Military Area,Travis Air Force Base,Military Area,1,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,1,,,,,
