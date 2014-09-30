@@ -1,0 +1,21 @@
+ID,Service Provider,Type of Request,Year,Requests Submitted,Requests with data disclosed,Compliance Rate,Users/Accounts Affected,Items Removed,Service,Reason
+"Apple, Users' Information Disclosure - 2013",Apple,Users' Information Disclosure,2013,36,25,,,,,
+"Apple, Users' Information Disclosure - 2014",Apple,Users' Information Disclosure,2014,14,,,51,,,
+"Facebook, Users' Information Disclosure - 2013",Facebook,Users' Information Disclosure,2013,26,23,,,,,
+"Google, Removal of Content - 2010",Google,Removal of Content,2010,1,,,,4,YouTube,Other
+"Google, Removal of Content - 2012",Google,Removal of Content,2012,1,,,,370,YouTube,Copyright
+"Google, Removal of Content - 2013",Google,Removal of Content,2013,1,,,,1,Google+,National Security
+"Google, Users' Information Disclosure - 2010",Google,Users' Information Disclosure,2010,140,,,,,,
+"Google, Users' Information Disclosure - 2011",Google,Users' Information Disclosure,2011,325,155,,,,,
+"Google, Users' Information Disclosure - 2012",Google,Users' Information Disclosure,2012,447,142,,,,,
+"Google, Users' Information Disclosure - 2013",Google,Users' Information Disclosure,2013,600,214,,,,,
+"Google, Users' Information Disclosure - 2014",Google,Users' Information Disclosure,2014,359,172,,371,,,
+"LinkedIn, Users' Information Disclosure - 2014",LinkedIn,Users' Information Disclosure,2014,1,0,0%,1,,,
+"Microsoft, Users' Information Disclosure - 2012",Microsoft,Users' Information Disclosure,2012,1041,822,,,,,
+"Microsoft, Users' Information Disclosure - 2013",Microsoft,Users' Information Disclosure,2013,941,782,,,,,
+"Microsoft, Users' Information Disclosure - 2014",Microsoft,Users' Information Disclosure,2014,229,196,86%,229,,,
+"Twitter, Removal of Content - 2013",Twitter,Removal of Content,2013,1,0,0%,,5.5,,
+"Twitter, Removal of Content - 2014",Twitter,Removal of Content,2014,1,0,0%,,1,,
+"Twitter, Users' Information Disclosure - 2013",Twitter,Users' Information Disclosure,2013,5.5,0,0%,5.5,,,
+"Yahoo, Users' Information Disclosure - 2013",Yahoo,Users' Information Disclosure,2013,1384,835,,,,,
+"Yahoo, Users' Information Disclosure - 2014",Yahoo,Users' Information Disclosure,2014,24,15,63%,330,,,
