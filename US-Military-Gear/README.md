@@ -45,7 +45,6 @@ Looks at the acquisitions costs and number of items received on a per-state and 
 - Police Officers (Full-time) and Number of Police Agencies: FBI, 2012 Uniform Crime Reports, [Police Employee Tables](http://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2012/crime-in-the-u.s.-2012/police_employee_data/police_employee_data)
 - Law Enforcement Killed and Assaulted (2012)	FBI, [2012 LEOKA](http://www.fbi.gov/about-us/cjis/ucr/leoka/2012) 
 - Violent Crime Rate: FBI, 2012 Uniform Crime Reports, [Violent Crime Rates Tables](http://www.ucrdatatool.gov/Search/Crime/State/RunCrimeOneYearofData.cfm)
-- 
 
 <br>
 <br>
