@@ -1,5 +1,5 @@
 1. Sources
-The core dataset comes from the (California Department of Public Health)[http://www.cdph.ca.gov/programs/immunize/Pages/ImmunizationLevels.aspx].
+The core dataset comes from the [California Department of Public Health](http://www.cdph.ca.gov/programs/immunize/Pages/ImmunizationLevels.aspx].
 
 2. Definitions of variables in original CA Department of Public Health data
   - Up to date:
@@ -21,6 +21,6 @@ The data, originally on a per-school basis has been aggregated in the following 
 4. Aggregations
 We used U.S. Census and ACS data to retrieve additional information about each school district, for the following variables:
 
-- Children 5-17 in poverty - (Small Area Income and Poverty Estimates)[http://www.census.gov/did/www/saipe/data/statecounty/data/2012.html]
-- Free/Reduced Price Meal Count K-12  - (Student Poverty - FRPM Data)[http://www.cde.ca.gov/ds/sd/sd/filessp.asp]. In adding this information, we counted only the schools mentioned in the core dataset by California Department of Public Health
-- Families with income below poverty level - (National Center for Education Statistics)[http://nces.ed.gov/surveys/sdds/framework/tables.aspx?ds=acsProfile&y=2012]
+- Children 5-17 in poverty - [Small Area Income and Poverty Estimates](http://www.census.gov/did/www/saipe/data/statecounty/data/2012.html)
+- Free/Reduced Price Meal Count K-12  - [Student Poverty - FRPM Data](http://www.cde.ca.gov/ds/sd/sd/filessp.asp). In adding this information, we counted only the schools mentioned in the core dataset by California Department of Public Health
+- Families with income below poverty level - [National Center for Education Statistics](http://nces.ed.gov/surveys/sdds/framework/tables.aspx?ds=acsProfile&y=2012)
