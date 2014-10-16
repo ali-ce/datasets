@@ -1,5 +1,5 @@
 1. Sources
-The core dataset comes from the [California Department of Public Health](http://www.cdph.ca.gov/programs/immunize/Pages/ImmunizationLevels.aspx].
+The core dataset comes from the [California Department of Public Health](http://www.cdph.ca.gov/programs/immunize/Pages/ImmunizationLevels.aspx).
 
 2. Definitions of variables in original CA Department of Public Health data
   - Up to date:
