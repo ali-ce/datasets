@@ -2,25 +2,7 @@
 
 Only data retrieved from the official Transparency Reports of each company. Please note that not all companies publish a report, nor have they stated doing so in the same year. Links to the original reports are posted below. All the data has been carefully copied and double-checked. We cannot guarantee the complete accuracy, but have done our best to ensure it. Should you find any inaccuracy, please contact us.
 Reports: 
-[Apple](http://images.apple.com/pr/pdf/131105reportongovinforequests3.pdf)
-[AT&T](http://about.att.com/content/csr/home/frequently-requested-info/governance/transparencyreport.html)
-[CloudFlare](https://www.cloudflare.com/transparency)
-[Comcast](http://corporate.comcast.com/images/Comcast-Transparency-Report-March-2014-FINAL-FINAL.pdf)
-[CREDO](http://www.credomobile.com/misc/transparency.aspx)
-[Dropbox](https://www.dropbox.com/transparency)
-[Facebook](https://www.facebook.com/about/government_requests)
-[Google](http://www.google.com/transparencyreport/userdatarequests/?hl=en)
-[LeaseWeb](http://blog.leaseweb.com/category/transparancy-report/)
-[LinkedIn](http://help.linkedin.com/app/answers/detail/a_id/21733/related/1)
-[Microsoft](http://www.microsoft.com/about/corporatecitizenship/en-us/reporting/transparency/)
-[Pinterest](https://pinterest.zendesk.com/entries/41361803-Transparency-Report-Archive)
-[Sonic.net](https://corp.sonic.net/ceo/2012/04/13/transparency-report/) 
-[Telstra](http://exchange.telstra.com.au/wp-content/uploads/2014/03/Transparency-Report_2014.pdf)
-[Tumblr](http://transparency.tumblr.com/)
-[Twitter](https://transparency.twitter.com/)
-[Verizon](http://transparency.verizon.com/)
-[Wordpress](http://transparency.automattic.com/)
-[Yahoo](http://info.yahoo.com/transparency-report/)
+[Apple](http://images.apple.com/pr/pdf/131105reportongovinforequests3.pdf), [AT&T](http://about.att.com/content/csr/home/frequently-requested-info/governance/transparencyreport.html), [CloudFlare](https://www.cloudflare.com/transparency), [Comcast](http://corporate.comcast.com/images/Comcast-Transparency-Report-March-2014-FINAL-FINAL.pdf), [CREDO](http://www.credomobile.com/misc/transparency.aspx), [Dropbox](https://www.dropbox.com/transparency),, [Facebook](https://www.facebook.com/about/government_requests), [Google](http://www.google.com/transparencyreport/userdatarequests/?hl=en), [LeaseWeb](http://blog.leaseweb.com/category/transparancy-report/), [LinkedIn](http://help.linkedin.com/app/answers/detail/a_id/21733/related/1), [Microsoft](http://www.microsoft.com/about/corporatecitizenship/en-us/reporting/transparency/), [Pinterest](https://pinterest.zendesk.com/entries/41361803-Transparency-Report-Archive), [Sonic.net](https://corp.sonic.net/ceo/2012/04/13/transparency-report/), [Telstra](http://exchange.telstra.com.au/wp-content/uploads/2014/03/Transparency-Report_2014.pdf), [Tumblr](http://transparency.tumblr.com/), [Twitter](https://transparency.twitter.com/), [Verizon](http://transparency.verizon.com/), [Wordpress](http://transparency.automattic.com/), [Yahoo](http://info.yahoo.com/transparency-report/)
 
 <b>Methodology</b>
 
