@@ -23,6 +23,7 @@ Reports:
 [Yahoo](http://info.yahoo.com/transparency-report/)
 
 <b>Methodology</b>
+
 Every company has different standards for publishing the information.  We normalized the data to make it comparable. Here we describe the normalization methods we used. 
 
 - Twitter uses the value "< 10" for countries that submitted less than ten requests. All other service providers published the exact number. To carry out calculations and comparisons with the Twitter data, we converted " < 10"  to the medium value of 5.5.
@@ -42,3 +43,9 @@ Every company has different standards for publishing the information.  We normal
 - A note on the United States, NSL and FISA. The data in the Silk Transparency Reports database contains only requests that the United States Federal Government has submitted through defined legal processes (Court Orders, Subpoenas, Search Warrants, etc.). In January 2014, the US Department of Justice announced that it is now permissible for companies to release information on the number of National Security Letters and FISA court orders to disclose data. These disclosures will be permitted only in broad ranges. While these ranges may provide some insights, in practice it is impossible to carry out any proper data analysis using such broad measures. For this reason,  we chose to exclude this type of data from this database. Additionally, not every company has yet updated their Transparency Reports with this information.
 
 - Additionally, Transparency Reports on government information requests are not complete even in terms of governmental access to user's data. The reports contain the requests that law enforcement authorities file through standard legal procedures - thus excluding data collected through bulk surveillance programs and unauthorized interceptions, like NSA's PRISM or GCHQ's Tempora.
+
+
+<b>Usage Rights</b>
+
+This dataset is (of course) relesed under Creative Commons CC BY-SA 4.0
+You can find the proper attribution details on the [main page](https://github.com/ali-ce/datasets) of the repositary
