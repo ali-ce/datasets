@@ -44,7 +44,6 @@ Every company has different standards for publishing the information.  We normal
 
 - Additionally, Transparency Reports on government information requests are not complete even in terms of governmental access to user's data. The reports contain the requests that law enforcement authorities file through standard legal procedures - thus excluding data collected through bulk surveillance programs and unauthorized interceptions, like NSA's PRISM or GCHQ's Tempora.
 
-
 <b>Usage Rights</b>
 
 This dataset is (of course) relesed under Creative Commons CC BY-SA 4.0
