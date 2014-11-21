@@ -1,0 +1,802 @@
+Match,Teams,Team 1,Team 2,Score Team 1,Score Team 2,Date,Week,Year
+Chicago Bears vs. Dallas Cowboys (1/10/2012),"Chicago Bears, Dallas Cowboys",Chicago Bears,Dallas Cowboys,34,18,1/10/2012,4,2012
+San Diego Chargers vs. Kansas City Chiefs (1/11/2012),"San Diego Chargers, Kansas City Chiefs",San Diego Chargers,Kansas City Chiefs,31,13,1/11/2012,9,2012
+Buffalo Bills vs. Jacksonville Jaguars (2/12/2012),"Buffalo Bills, Jacksonville Jaguars",Buffalo Bills,Jacksonville Jaguars,34,18,2/12/2012,13,2012
+Cincinnati Bengals vs. San Diego Chargers (2/12/2012),"Cincinnati Bengals, San Diego Chargers",Cincinnati Bengals,San Diego Chargers,20,13,2/12/2012,13,2012
+Cleveland Browns vs. Oakland Raiders (2/12/2012),"Cleveland Browns, Oakland Raiders",Cleveland Browns,Oakland Raiders,20,17,2/12/2012,13,2012
+Dallas Cowboys vs. Philadelphia Eagles (2/12/2012),"Dallas Cowboys, Philadelphia Eagles",Dallas Cowboys,Philadelphia Eagles,38,33,2/12/2012,13,2012
+Denver Broncos vs. Tampa Bay Buccaneers (2/12/2012),"Denver Broncos, Tampa Bay Buccaneers",Denver Broncos,Tampa Bay Buccaneers,31,23,2/12/2012,13,2012
+Green Bay Packers vs. Minnesota Vikings (2/12/2012),"Green Bay Packers, Minnesota Vikings",Green Bay Packers,Minnesota Vikings,23,14,2/12/2012,13,2012
+Houston Texans vs. Tennessee Titans (2/12/2012),"Houston Texans, Tennessee Titans",Houston Texans,Tennessee Titans,24,10,2/12/2012,13,2012
+Indianapolis Colts vs. Detroit Lions (2/12/2012),"Indianapolis Colts, Detroit Lions",Indianapolis Colts,Detroit Lions,35,33,2/12/2012,13,2012
+Kansas City Chiefs vs. Carolina Panthers (2/12/2012),"Kansas City Chiefs, Carolina Panthers",Kansas City Chiefs,Carolina Panthers,27,21,2/12/2012,13,2012
+New England Patriots vs. Miami Dolphins (2/12/2012),"New England Patriots, Miami Dolphins",New England Patriots,Miami Dolphins,23,16,2/12/2012,13,2012
+New York Jets vs. Arizona Cardinals (2/12/2012),"New York Jets, Arizona Cardinals",New York Jets,Arizona Cardinals,7,6,2/12/2012,13,2012
+Pittsburgh Steelers vs. Baltimore Ravens (2/12/2012),"Pittsburgh Steelers, Baltimore Ravens",Pittsburgh Steelers,Baltimore Ravens,23,20,2/12/2012,13,2012
+Seattle Seahawks vs. Chicago Bears (2/12/2012),"Seattle Seahawks, Chicago Bears",Seattle Seahawks,Chicago Bears,23,17,2/12/2012,13,2012
+St. Louis Rams vs. San Francisco 49ers (2/12/2012),"St. Louis Rams, San Francisco 49ers",St. Louis Rams,San Francisco 49ers,16,13,2/12/2012,13,2012
+Washington Redskins vs. New York Giants (3/12/2012),"Washington Redskins, New York Giants",Washington Redskins,New York Giants,17,16,3/12/2012,13,2012
+St. Louis Rams vs. Arizona Cardinals (4/10/2012),"St. Louis Rams, Arizona Cardinals",St. Louis Rams,Arizona Cardinals,17,3,4/10/2012,5,2012
+Atlanta Falcons vs. Dallas Cowboys (4/11/2012),"Atlanta Falcons, Dallas Cowboys",Atlanta Falcons,Dallas Cowboys,19,13,4/11/2012,9,2012
+Baltimore Ravens vs. Cleveland Browns (4/11/2012),"Baltimore Ravens, Cleveland Browns",Baltimore Ravens,Cleveland Browns,25,15,4/11/2012,9,2012
+Carolina Panthers vs. Washington Redskins (4/11/2012),"Carolina Panthers, Washington Redskins",Carolina Panthers,Washington Redskins,21,13,4/11/2012,9,2012
+Chicago Bears vs. Tennessee Titans (4/11/2012),"Chicago Bears, Tennessee Titans",Chicago Bears,Tennessee Titans,51,20,4/11/2012,9,2012
+Denver Broncos vs. Cincinnati Bengals (4/11/2012),"Denver Broncos, Cincinnati Bengals",Denver Broncos,Cincinnati Bengals,31,23,4/11/2012,9,2012
+Detroit Lions vs. Jacksonville Jaguars (4/11/2012),"Detroit Lions, Jacksonville Jaguars",Detroit Lions,Jacksonville Jaguars,31,14,4/11/2012,9,2012
+Green Bay Packers vs. Arizona Cardinals (4/11/2012),"Green Bay Packers, Arizona Cardinals",Green Bay Packers,Arizona Cardinals,31,17,4/11/2012,9,2012
+Houston Texans vs. Buffalo Bills (4/11/2012),"Houston Texans, Buffalo Bills",Houston Texans,Buffalo Bills,21,9,4/11/2012,9,2012
+Indianapolis Colts vs. Miami Dolphins (4/11/2012),"Indianapolis Colts, Miami Dolphins",Indianapolis Colts,Miami Dolphins,23,20,4/11/2012,9,2012
+Pittsburgh Steelers vs. New York Giants (4/11/2012),"Pittsburgh Steelers, New York Giants",Pittsburgh Steelers,New York Giants,24,20,4/11/2012,9,2012
+Seattle Seahawks vs. Minnesota Vikings (4/11/2012),"Seattle Seahawks, Minnesota Vikings",Seattle Seahawks,Minnesota Vikings,30,20,4/11/2012,9,2012
+Tampa Bay Buccaneers vs. Oakland Raiders (4/11/2012),"Tampa Bay Buccaneers, Oakland Raiders",Tampa Bay Buccaneers,Oakland Raiders,42,32,4/11/2012,9,2012
+Dallas Cowboys vs. New York Giants (5/9/2012),"Dallas Cowboys, New York Giants",Dallas Cowboys,New York Giants,24,17,5/09/2012,1,2012
+New Orleans Saints vs. Philadelphia Eagles (5/11/2012),"New Orleans Saints, Philadelphia Eagles",New Orleans Saints,Philadelphia Eagles,28,13,5/11/2012,9,2012
+Denver Broncos vs. Oakland Raiders (6/12/2012),"Denver Broncos, Oakland Raiders",Denver Broncos,Oakland Raiders,26,13,6/12/2012,14,2012
+Atlanta Falcons vs. Washington Redskins (7/10/2012),"Atlanta Falcons, Washington Redskins",Atlanta Falcons,Washington Redskins,24,17,7/10/2012,5,2012
+Baltimore Ravens vs. Kansas City Chiefs (7/10/2012),"Baltimore Ravens, Kansas City Chiefs",Baltimore Ravens,Kansas City Chiefs,9,6,7/10/2012,5,2012
+Chicago Bears vs. Jacksonville Jaguars (7/10/2012),"Chicago Bears, Jacksonville Jaguars",Chicago Bears,Jacksonville Jaguars,41,3,7/10/2012,5,2012
+Indianapolis Colts vs. Green Bay Packers (7/10/2012),"Indianapolis Colts, Green Bay Packers",Indianapolis Colts,Green Bay Packers,30,27,7/10/2012,5,2012
+Miami Dolphins vs. Cincinnati Bengals (7/10/2012),"Miami Dolphins, Cincinnati Bengals",Miami Dolphins,Cincinnati Bengals,17,13,7/10/2012,5,2012
+Minnesota Vikings vs. Tennessee Titans (7/10/2012),"Minnesota Vikings, Tennessee Titans",Minnesota Vikings,Tennessee Titans,30,7,7/10/2012,5,2012
+New England Patriots vs. Denver Broncos (7/10/2012),"New England Patriots, Denver Broncos",New England Patriots,Denver Broncos,31,21,7/10/2012,5,2012
+New Orleans Saints vs. San Diego Chargers (7/10/2012),"New Orleans Saints, San Diego Chargers",New Orleans Saints,San Diego Chargers,31,24,7/10/2012,5,2012
+New York Giants vs. Cleveland Browns (7/10/2012),"New York Giants, Cleveland Browns",New York Giants,Cleveland Browns,41,27,7/10/2012,5,2012
+Pittsburgh Steelers vs. Philadelphia Eagles (7/10/2012),"Pittsburgh Steelers, Philadelphia Eagles",Pittsburgh Steelers,Philadelphia Eagles,16,14,7/10/2012,5,2012
+San Francisco 49ers vs. Buffalo Bills (7/10/2012),"San Francisco 49ers, Buffalo Bills",San Francisco 49ers,Buffalo Bills,45,3,7/10/2012,5,2012
+Seattle Seahawks vs. Carolina Panthers (7/10/2012),"Seattle Seahawks, Carolina Panthers",Seattle Seahawks,Carolina Panthers,16,12,7/10/2012,5,2012
+Houston Texans vs. New York Jets (8/10/2012),"Houston Texans, New York Jets",Houston Texans,New York Jets,23,17,8/10/2012,5,2012
+Indianapolis Colts vs. Jacksonville Jaguars (8/11/2012),"Indianapolis Colts, Jacksonville Jaguars",Indianapolis Colts,Jacksonville Jaguars,27,10,8/11/2012,10,2012
+Arizona Cardinals vs. Seattle Seahawks (9/9/2012),"Arizona Cardinals, Seattle Seahawks",Arizona Cardinals,Seattle Seahawks,20,16,9/09/2012,1,2012
+Atlanta Falcons vs. Kansas City Chiefs (9/9/2012),"Atlanta Falcons, Kansas City Chiefs",Atlanta Falcons,Kansas City Chiefs,40,24,9/09/2012,1,2012
+Chicago Bears vs. Indianapolis Colts (9/9/2012),"Chicago Bears, Indianapolis Colts",Chicago Bears,Indianapolis Colts,41,21,9/09/2012,1,2012
+Denver Broncos vs. Pittsburgh Steelers (9/9/2012),"Denver Broncos, Pittsburgh Steelers",Denver Broncos,Pittsburgh Steelers,31,19,9/09/2012,1,2012
+Detroit Lions vs. St. Louis Rams (9/9/2012),"Detroit Lions, St. Louis Rams",Detroit Lions,St. Louis Rams,27,23,9/09/2012,1,2012
+Houston Texans vs. Miami Dolphins (9/9/2012),"Houston Texans, Miami Dolphins",Houston Texans,Miami Dolphins,30,10,9/09/2012,1,2012
+Minnesota Vikings vs. Jacksonville Jaguars (9/9/2012),"Minnesota Vikings, Jacksonville Jaguars",Minnesota Vikings,Jacksonville Jaguars,26,23,9/09/2012,1,2012
+New England Patriots vs. Tennessee Titans (9/9/2012),"New England Patriots, Tennessee Titans",New England Patriots,Tennessee Titans,34,13,9/09/2012,1,2012
+New York Jets vs. Buffalo Bills (9/9/2012),"New York Jets, Buffalo Bills",New York Jets,Buffalo Bills,48,28,9/09/2012,1,2012
+Philadelphia Eagles vs. Cleveland Browns (9/9/2012),"Philadelphia Eagles, Cleveland Browns",Philadelphia Eagles,Cleveland Browns,17,16,9/09/2012,1,2012
+San Francisco 49ers vs. Green Bay Packers (9/9/2012),"San Francisco 49ers, Green Bay Packers",San Francisco 49ers,Green Bay Packers,30,22,9/09/2012,1,2012
+Tampa Bay Buccaneers vs. Carolina Panthers (9/9/2012),"Tampa Bay Buccaneers, Carolina Panthers",Tampa Bay Buccaneers,Carolina Panthers,16,10,9/09/2012,1,2012
+Washington Redskins vs. New Orleans Saints (9/9/2012),"Washington Redskins, New Orleans Saints",Washington Redskins,New Orleans Saints,40,32,9/09/2012,1,2012
+Carolina Panthers vs. Atlanta Falcons (9/12/2012),"Carolina Panthers, Atlanta Falcons",Carolina Panthers,Atlanta Falcons,30,20,9/12/2012,14,2012
+Cleveland Browns vs. Kansas City Chiefs (9/12/2012),"Cleveland Browns, Kansas City Chiefs",Cleveland Browns,Kansas City Chiefs,30,7,9/12/2012,14,2012
+Dallas Cowboys vs. Cincinnati Bengals (9/12/2012),"Dallas Cowboys, Cincinnati Bengals",Dallas Cowboys,Cincinnati Bengals,20,19,9/12/2012,14,2012
+Green Bay Packers vs. Detroit Lions (9/12/2012),"Green Bay Packers, Detroit Lions",Green Bay Packers,Detroit Lions,27,20,9/12/2012,14,2012
+Indianapolis Colts vs. Tennessee Titans (9/12/2012),"Indianapolis Colts, Tennessee Titans",Indianapolis Colts,Tennessee Titans,27,23,9/12/2012,14,2012
+Minnesota Vikings vs. Chicago Bears (9/12/2012),"Minnesota Vikings, Chicago Bears",Minnesota Vikings,Chicago Bears,21,14,9/12/2012,14,2012
+New York Giants vs. New Orleans Saints (9/12/2012),"New York Giants, New Orleans Saints",New York Giants,New Orleans Saints,52,27,9/12/2012,14,2012
+New York Jets vs. Jacksonville Jaguars (9/12/2012),"New York Jets, Jacksonville Jaguars",New York Jets,Jacksonville Jaguars,17,10,9/12/2012,14,2012
+Philadelphia Eagles vs. Tampa Bay Buccaneers (9/12/2012),"Philadelphia Eagles, Tampa Bay Buccaneers",Philadelphia Eagles,Tampa Bay Buccaneers,23,21,9/12/2012,14,2012
+San Diego Chargers vs. Pittsburgh Steelers (9/12/2012),"San Diego Chargers, Pittsburgh Steelers",San Diego Chargers,Pittsburgh Steelers,34,24,9/12/2012,14,2012
+San Francisco 49ers vs. Miami Dolphins (9/12/2012),"San Francisco 49ers, Miami Dolphins",San Francisco 49ers,Miami Dolphins,27,13,9/12/2012,14,2012
+Seattle Seahawks vs. Arizona Cardinals (9/12/2012),"Seattle Seahawks, Arizona Cardinals",Seattle Seahawks,Arizona Cardinals,58,0,9/12/2012,14,2012
+St. Louis Rams vs. Buffalo Bills (9/12/2012),"St. Louis Rams, Buffalo Bills",St. Louis Rams,Buffalo Bills,15,12,9/12/2012,14,2012
+Washington Redskins vs. Baltimore Ravens (9/12/2012),"Washington Redskins, Baltimore Ravens",Washington Redskins,Baltimore Ravens,31,28,9/12/2012,14,2012
+Baltimore Ravens vs. Cincinnati Bengals (10/9/2012),"Baltimore Ravens, Cincinnati Bengals",Baltimore Ravens,Cincinnati Bengals,44,13,10/09/2012,1,2012
+San Diego Chargers vs. Oakland Raiders (10/9/2012),"San Diego Chargers, Oakland Raiders",San Diego Chargers,Oakland Raiders,22,14,10/09/2012,1,2012
+New England Patriots vs. Houston Texans (10/12/2012),"New England Patriots, Houston Texans",New England Patriots,Houston Texans,42,14,10/12/2012,14,2012
+Tennessee Titans vs. Pittsburgh Steelers (11/10/2012),"Tennessee Titans, Pittsburgh Steelers",Tennessee Titans,Pittsburgh Steelers,26,23,11/10/2012,6,2012
+Baltimore Ravens vs. Oakland Raiders (11/11/2012),"Baltimore Ravens, Oakland Raiders",Baltimore Ravens,Oakland Raiders,55,20,11/11/2012,10,2012
+Cincinnati Bengals vs. New York Giants (11/11/2012),"Cincinnati Bengals, New York Giants",Cincinnati Bengals,New York Giants,31,13,11/11/2012,10,2012
+Dallas Cowboys vs. Philadelphia Eagles (11/11/2012),"Dallas Cowboys, Philadelphia Eagles",Dallas Cowboys,Philadelphia Eagles,38,23,11/11/2012,10,2012
+Denver Broncos vs. Carolina Panthers (11/11/2012),"Denver Broncos, Carolina Panthers",Denver Broncos,Carolina Panthers,36,14,11/11/2012,10,2012
+Houston Texans vs. Chicago Bears (11/11/2012),"Houston Texans, Chicago Bears",Houston Texans,Chicago Bears,13,6,11/11/2012,10,2012
+Minnesota Vikings vs. Detroit Lions (11/11/2012),"Minnesota Vikings, Detroit Lions",Minnesota Vikings,Detroit Lions,34,24,11/11/2012,10,2012
+New England Patriots vs. Buffalo Bills (11/11/2012),"New England Patriots, Buffalo Bills",New England Patriots,Buffalo Bills,37,31,11/11/2012,10,2012
+New Orleans Saints vs. Atlanta Falcons (11/11/2012),"New Orleans Saints, Atlanta Falcons",New Orleans Saints,Atlanta Falcons,31,27,11/11/2012,10,2012
+Seattle Seahawks vs. New York Jets (11/11/2012),"Seattle Seahawks, New York Jets",Seattle Seahawks,New York Jets,28,7,11/11/2012,10,2012
+St. Louis Rams vs. San Francisco 49ers (11/11/2012),"St. Louis Rams, San Francisco 49ers",St. Louis Rams,San Francisco 49ers,24,24,11/11/2012,10,2012
+Tampa Bay Buccaneers vs. San Diego Chargers (11/11/2012),"Tampa Bay Buccaneers, San Diego Chargers",Tampa Bay Buccaneers,San Diego Chargers,34,24,11/11/2012,10,2012
+Tennessee Titans vs. Miami Dolphins (11/11/2012),"Tennessee Titans, Miami Dolphins",Tennessee Titans,Miami Dolphins,37,3,11/11/2012,10,2012
+Pittsburgh Steelers vs. Kansas City Chiefs (12/11/2012),"Pittsburgh Steelers, Kansas City Chiefs",Pittsburgh Steelers,Kansas City Chiefs,16,13,12/11/2012,10,2012
+Atlanta Falcons vs. Buffalo Bills (1/12/2013),"Atlanta Falcons, Buffalo Bills",Atlanta Falcons,Buffalo Bills,34,31,1/12/2013,13,2013
+Carolina Panthers vs. Tampa Bay Buccaneers (1/12/2013),"Carolina Panthers, Tampa Bay Buccaneers",Carolina Panthers,Tampa Bay Buccaneers,27,6,1/12/2013,13,2013
+Cincinnati Bengals vs. San Diego Chargers (1/12/2013),"Cincinnati Bengals, San Diego Chargers",Cincinnati Bengals,San Diego Chargers,17,10,1/12/2013,13,2013
+Denver Broncos vs. Kansas City Chiefs (1/12/2013),"Denver Broncos, Kansas City Chiefs",Denver Broncos,Kansas City Chiefs,35,28,1/12/2013,13,2013
+Indianapolis Colts vs. Tennessee Titans (1/12/2013),"Indianapolis Colts, Tennessee Titans",Indianapolis Colts,Tennessee Titans,22,14,1/12/2013,13,2013
+Jacksonville Jaguars vs. Cleveland Browns (1/12/2013),"Jacksonville Jaguars, Cleveland Browns",Jacksonville Jaguars,Cleveland Browns,32,28,1/12/2013,13,2013
+Miami Dolphins vs. New York Jets (1/12/2013),"Miami Dolphins, New York Jets",Miami Dolphins,New York Jets,23,3,1/12/2013,13,2013
+Minnesota Vikings vs. Chicago Bears (1/12/2013),"Minnesota Vikings, Chicago Bears",Minnesota Vikings,Chicago Bears,23,20,1/12/2013,13,2013
+New England Patriots vs. Houston Texans (1/12/2013),"New England Patriots, Houston Texans",New England Patriots,Houston Texans,34,31,1/12/2013,13,2013
+New York Giants vs. Washington Redskins (1/12/2013),"New York Giants, Washington Redskins",New York Giants,Washington Redskins,24,17,1/12/2013,13,2013
+Philadelphia Eagles vs. Arizona Cardinals (1/12/2013),"Philadelphia Eagles, Arizona Cardinals",Philadelphia Eagles,Arizona Cardinals,24,21,1/12/2013,13,2013
+San Francisco 49ers vs. St. Louis Rams (1/12/2013),"San Francisco 49ers, St. Louis Rams",San Francisco 49ers,St. Louis Rams,23,13,1/12/2013,13,2013
+Seattle Seahawks vs. New Orleans Saints (2/12/2013),"Seattle Seahawks, New Orleans Saints",Seattle Seahawks,New Orleans Saints,34,7,2/12/2013,13,2013
+Baltimore Ravens vs. San Francisco 49ers (3/2/2013),"Baltimore Ravens, San Francisco 49ers",Baltimore Ravens,San Francisco 49ers,34,31,3/02/2013,21,2012
+Cleveland Browns vs. Buffalo Bills (3/10/2013),"Cleveland Browns, Buffalo Bills",Cleveland Browns,Buffalo Bills,37,24,3/10/2013,5,2013
+Carolina Panthers vs. Atlanta Falcons (3/11/2013),"Carolina Panthers, Atlanta Falcons",Carolina Panthers,Atlanta Falcons,34,10,3/11/2013,9,2013
+Cleveland Browns vs. Baltimore Ravens (3/11/2013),"Cleveland Browns, Baltimore Ravens",Cleveland Browns,Baltimore Ravens,24,18,3/11/2013,9,2013
+Dallas Cowboys vs. Minnesota Vikings (3/11/2013),"Dallas Cowboys, Minnesota Vikings",Dallas Cowboys,Minnesota Vikings,27,23,3/11/2013,9,2013
+Indianapolis Colts vs. Houston Texans (3/11/2013),"Indianapolis Colts, Houston Texans",Indianapolis Colts,Houston Texans,27,24,3/11/2013,9,2013
+Kansas City Chiefs vs. Buffalo Bills (3/11/2013),"Kansas City Chiefs, Buffalo Bills",Kansas City Chiefs,Buffalo Bills,23,13,3/11/2013,9,2013
+New England Patriots vs. Pittsburgh Steelers (3/11/2013),"New England Patriots, Pittsburgh Steelers",New England Patriots,Pittsburgh Steelers,55,31,3/11/2013,9,2013
+New York Jets vs. New Orleans Saints (3/11/2013),"New York Jets, New Orleans Saints",New York Jets,New Orleans Saints,26,20,3/11/2013,9,2013
+Philadelphia Eagles vs. Oakland Raiders (3/11/2013),"Philadelphia Eagles, Oakland Raiders",Philadelphia Eagles,Oakland Raiders,49,20,3/11/2013,9,2013
+Seattle Seahawks vs. Tampa Bay Buccaneers (3/11/2013),"Seattle Seahawks, Tampa Bay Buccaneers",Seattle Seahawks,Tampa Bay Buccaneers,27,24,3/11/2013,9,2013
+Tennessee Titans vs. St. Louis Rams (3/11/2013),"Tennessee Titans, St. Louis Rams",Tennessee Titans,St. Louis Rams,28,21,3/11/2013,9,2013
+Washington Redskins vs. San Diego Chargers (3/11/2013),"Washington Redskins, San Diego Chargers",Washington Redskins,San Diego Chargers,30,24,3/11/2013,9,2013
+Chicago Bears vs. Green Bay Packers (4/11/2013),"Chicago Bears, Green Bay Packers",Chicago Bears,Green Bay Packers,27,20,4/11/2013,9,2013
+Green Bay Packers vs. Minnesota Vikings (5/1/2013),"Green Bay Packers, Minnesota Vikings",Green Bay Packers,Minnesota Vikings,24,10,5/01/2013,18,2012
+Houston Texans vs. Cincinnati Bengals (5/1/2013),"Houston Texans, Cincinnati Bengals",Houston Texans,Cincinnati Bengals,19,13,5/01/2013,18,2012
+Denver Broncos vs. Baltimore Ravens (5/9/2013),"Denver Broncos, Baltimore Ravens",Denver Broncos,Baltimore Ravens,49,27,5/09/2013,1,2013
+Jacksonville Jaguars vs. Houston Texans (5/12/2013),"Jacksonville Jaguars, Houston Texans",Jacksonville Jaguars,Houston Texans,27,20,5/12/2013,14,2013
+Baltimore Ravens vs. Indianapolis Colts (6/1/2013),"Baltimore Ravens, Indianapolis Colts",Baltimore Ravens,Indianapolis Colts,24,9,6/01/2013,18,2012
+Seattle Seahawks vs. Washington Redskins (6/1/2013),"Seattle Seahawks, Washington Redskins",Seattle Seahawks,Washington Redskins,24,14,6/01/2013,18,2012
+Arizona Cardinals vs. Carolina Panthers (6/10/2013),"Arizona Cardinals, Carolina Panthers",Arizona Cardinals,Carolina Panthers,22,6,6/10/2013,5,2013
+Baltimore Ravens vs. Miami Dolphins (6/10/2013),"Baltimore Ravens, Miami Dolphins",Baltimore Ravens,Miami Dolphins,26,23,6/10/2013,5,2013
+Cincinnati Bengals vs. New England Patriots (6/10/2013),"Cincinnati Bengals, New England Patriots",Cincinnati Bengals,New England Patriots,13,6,6/10/2013,5,2013
+Denver Broncos vs. Dallas Cowboys (6/10/2013),"Denver Broncos, Dallas Cowboys",Denver Broncos,Dallas Cowboys,51,48,6/10/2013,5,2013
+Green Bay Packers vs. Detroit Lions (6/10/2013),"Green Bay Packers, Detroit Lions",Green Bay Packers,Detroit Lions,22,9,6/10/2013,5,2013
+Indianapolis Colts vs. Seattle Seahawks (6/10/2013),"Indianapolis Colts, Seattle Seahawks",Indianapolis Colts,Seattle Seahawks,34,28,6/10/2013,5,2013
+Kansas City Chiefs vs. Tennessee Titans (6/10/2013),"Kansas City Chiefs, Tennessee Titans",Kansas City Chiefs,Tennessee Titans,26,17,6/10/2013,5,2013
+New Orleans Saints vs. Chicago Bears (6/10/2013),"New Orleans Saints, Chicago Bears",New Orleans Saints,Chicago Bears,26,18,6/10/2013,5,2013
+Oakland Raiders vs. San Diego Chargers (6/10/2013),"Oakland Raiders, San Diego Chargers",Oakland Raiders,San Diego Chargers,27,17,6/10/2013,5,2013
+Philadelphia Eagles vs. New York Giants (6/10/2013),"Philadelphia Eagles, New York Giants",Philadelphia Eagles,New York Giants,36,21,6/10/2013,5,2013
+San Francisco 49ers vs. Houston Texans (6/10/2013),"San Francisco 49ers, Houston Texans",San Francisco 49ers,Houston Texans,34,3,6/10/2013,5,2013
+St. Louis Rams vs. Jacksonville Jaguars (6/10/2013),"St. Louis Rams, Jacksonville Jaguars",St. Louis Rams,Jacksonville Jaguars,34,20,6/10/2013,5,2013
+New York Jets vs. Atlanta Falcons (7/10/2013),"New York Jets, Atlanta Falcons",New York Jets,Atlanta Falcons,30,28,7/10/2013,5,2013
+Minnesota Vikings vs. Washington Redskins (7/11/2013),"Minnesota Vikings, Washington Redskins",Minnesota Vikings,Washington Redskins,34,27,7/11/2013,10,2013
+Chicago Bears vs. Cincinnati Bengals (8/9/2013),"Chicago Bears, Cincinnati Bengals",Chicago Bears,Cincinnati Bengals,24,21,8/09/2013,1,2013
+Dallas Cowboys vs. New York Giants (8/9/2013),"Dallas Cowboys, New York Giants",Dallas Cowboys,New York Giants,36,31,8/09/2013,1,2013
+Detroit Lions vs. Minnesota Vikings (8/9/2013),"Detroit Lions, Minnesota Vikings",Detroit Lions,Minnesota Vikings,34,24,8/09/2013,1,2013
+Indianapolis Colts vs. Oakland Raiders (8/9/2013),"Indianapolis Colts, Oakland Raiders",Indianapolis Colts,Oakland Raiders,21,17,8/09/2013,1,2013
+Kansas City Chiefs vs. Jacksonville Jaguars (8/9/2013),"Kansas City Chiefs, Jacksonville Jaguars",Kansas City Chiefs,Jacksonville Jaguars,28,2,8/09/2013,1,2013
+Miami Dolphins vs. Cleveland Browns (8/9/2013),"Miami Dolphins, Cleveland Browns",Miami Dolphins,Cleveland Browns,23,10,8/09/2013,1,2013
+New England Patriots vs. Buffalo Bills (8/9/2013),"New England Patriots, Buffalo Bills",New England Patriots,Buffalo Bills,23,21,8/09/2013,1,2013
+New Orleans Saints vs. Atlanta Falcons (8/9/2013),"New Orleans Saints, Atlanta Falcons",New Orleans Saints,Atlanta Falcons,23,17,8/09/2013,1,2013
+New York Jets vs. Tampa Bay Buccaneers (8/9/2013),"New York Jets, Tampa Bay Buccaneers",New York Jets,Tampa Bay Buccaneers,18,17,8/09/2013,1,2013
+San Francisco 49ers vs. Green Bay Packers (8/9/2013),"San Francisco 49ers, Green Bay Packers",San Francisco 49ers,Green Bay Packers,34,28,8/09/2013,1,2013
+Seattle Seahawks vs. Carolina Panthers (8/9/2013),"Seattle Seahawks, Carolina Panthers",Seattle Seahawks,Carolina Panthers,12,7,8/09/2013,1,2013
+St. Louis Rams vs. Arizona Cardinals (8/9/2013),"St. Louis Rams, Arizona Cardinals",St. Louis Rams,Arizona Cardinals,27,24,8/09/2013,1,2013
+Tennessee Titans vs. Pittsburgh Steelers (8/9/2013),"Tennessee Titans, Pittsburgh Steelers",Tennessee Titans,Pittsburgh Steelers,16,9,8/09/2013,1,2013
+Arizona Cardinals vs. St. Louis Rams (8/12/2013),"Arizona Cardinals, St. Louis Rams",Arizona Cardinals,St. Louis Rams,30,10,8/12/2013,14,2013
+Baltimore Ravens vs. Minnesota Vikings (8/12/2013),"Baltimore Ravens, Minnesota Vikings",Baltimore Ravens,Minnesota Vikings,29,26,8/12/2013,14,2013
+Cincinnati Bengals vs. Indianapolis Colts (8/12/2013),"Cincinnati Bengals, Indianapolis Colts",Cincinnati Bengals,Indianapolis Colts,42,28,8/12/2013,14,2013
+Denver Broncos vs. Tennessee Titans (8/12/2013),"Denver Broncos, Tennessee Titans",Denver Broncos,Tennessee Titans,51,28,8/12/2013,14,2013
+Green Bay Packers vs. Atlanta Falcons (8/12/2013),"Green Bay Packers, Atlanta Falcons",Green Bay Packers,Atlanta Falcons,22,21,8/12/2013,14,2013
+Kansas City Chiefs vs. Washington Redskins (8/12/2013),"Kansas City Chiefs, Washington Redskins",Kansas City Chiefs,Washington Redskins,45,10,8/12/2013,14,2013
+Miami Dolphins vs. Pittsburgh Steelers (8/12/2013),"Miami Dolphins, Pittsburgh Steelers",Miami Dolphins,Pittsburgh Steelers,34,28,8/12/2013,14,2013
+New England Patriots vs. Cleveland Browns (8/12/2013),"New England Patriots, Cleveland Browns",New England Patriots,Cleveland Browns,27,26,8/12/2013,14,2013
+New Orleans Saints vs. Carolina Panthers (8/12/2013),"New Orleans Saints, Carolina Panthers",New Orleans Saints,Carolina Panthers,31,13,8/12/2013,14,2013
+New York Jets vs. Oakland Raiders (8/12/2013),"New York Jets, Oakland Raiders",New York Jets,Oakland Raiders,37,27,8/12/2013,14,2013
+Philadelphia Eagles vs. Detroit Lions (8/12/2013),"Philadelphia Eagles, Detroit Lions",Philadelphia Eagles,Detroit Lions,34,20,8/12/2013,14,2013
+San Diego Chargers vs. New York Giants (8/12/2013),"San Diego Chargers, New York Giants",San Diego Chargers,New York Giants,37,14,8/12/2013,14,2013
+San Francisco 49ers vs. Seattle Seahawks (8/12/2013),"San Francisco 49ers, Seattle Seahawks",San Francisco 49ers,Seattle Seahawks,19,17,8/12/2013,14,2013
+Tampa Bay Buccaneers vs. Buffalo Bills (8/12/2013),"Tampa Bay Buccaneers, Buffalo Bills",Tampa Bay Buccaneers,Buffalo Bills,27,6,8/12/2013,14,2013
+Houston Texans vs. San Diego Chargers (9/9/2013),"Houston Texans, San Diego Chargers",Houston Texans,San Diego Chargers,31,28,9/09/2013,1,2013
+Philadelphia Eagles vs. Washington Redskins (9/9/2013),"Philadelphia Eagles, Washington Redskins",Philadelphia Eagles,Washington Redskins,33,27,9/09/2013,1,2013
+Chicago Bears vs. Dallas Cowboys (9/12/2013),"Chicago Bears, Dallas Cowboys",Chicago Bears,Dallas Cowboys,45,28,9/12/2013,14,2013
+Chicago Bears vs. New York Giants (10/10/2013),"Chicago Bears, New York Giants",Chicago Bears,New York Giants,27,21,10/10/2013,6,2013
+Arizona Cardinals vs. Houston Texans (10/11/2013),"Arizona Cardinals, Houston Texans",Arizona Cardinals,Houston Texans,27,24,10/11/2013,10,2013
+Baltimore Ravens vs. Cincinnati Bengals (10/11/2013),"Baltimore Ravens, Cincinnati Bengals",Baltimore Ravens,Cincinnati Bengals,20,17,10/11/2013,10,2013
+Carolina Panthers vs. San Francisco 49ers (10/11/2013),"Carolina Panthers, San Francisco 49ers",Carolina Panthers,San Francisco 49ers,10,9,10/11/2013,10,2013
+Denver Broncos vs. San Diego Chargers (10/11/2013),"Denver Broncos, San Diego Chargers",Denver Broncos,San Diego Chargers,28,20,10/11/2013,10,2013
+Detroit Lions vs. Chicago Bears (10/11/2013),"Detroit Lions, Chicago Bears",Detroit Lions,Chicago Bears,21,19,10/11/2013,10,2013
+Jacksonville Jaguars vs. Tennessee Titans (10/11/2013),"Jacksonville Jaguars, Tennessee Titans",Jacksonville Jaguars,Tennessee Titans,29,27,10/11/2013,10,2013
+New Orleans Saints vs. Dallas Cowboys (10/11/2013),"New Orleans Saints, Dallas Cowboys",New Orleans Saints,Dallas Cowboys,49,17,10/11/2013,10,2013
+New York Giants vs. Oakland Raiders (10/11/2013),"New York Giants, Oakland Raiders",New York Giants,Oakland Raiders,24,20,10/11/2013,10,2013
+Philadelphia Eagles vs. Green Bay Packers (10/11/2013),"Philadelphia Eagles, Green Bay Packers",Philadelphia Eagles,Green Bay Packers,27,13,10/11/2013,10,2013
+Pittsburgh Steelers vs. Buffalo Bills (10/11/2013),"Pittsburgh Steelers, Buffalo Bills",Pittsburgh Steelers,Buffalo Bills,23,10,10/11/2013,10,2013
+Seattle Seahawks vs. Atlanta Falcons (10/11/2013),"Seattle Seahawks, Atlanta Falcons",Seattle Seahawks,Atlanta Falcons,33,10,10/11/2013,10,2013
+St. Louis Rams vs. Indianapolis Colts (10/11/2013),"St. Louis Rams, Indianapolis Colts",St. Louis Rams,Indianapolis Colts,38,8,10/11/2013,10,2013
+Tampa Bay Buccaneers vs. Miami Dolphins (11/11/2013),"Tampa Bay Buccaneers, Miami Dolphins",Tampa Bay Buccaneers,Miami Dolphins,22,19,11/11/2013,10,2013
+Baltimore Ravens vs. Denver Broncos (12/1/2013),"Baltimore Ravens, Denver Broncos",Baltimore Ravens,Denver Broncos,38,35,12/01/2013,19,2012
+San Francisco 49ers vs. Green Bay Packers (12/1/2013),"San Francisco 49ers, Green Bay Packers",San Francisco 49ers,Green Bay Packers,46,31,12/01/2013,19,2012
+New England Patriots vs. New York Jets (12/9/2013),"New England Patriots, New York Jets",New England Patriots,New York Jets,13,10,12/09/2013,2,2013
+San Diego Chargers vs. Denver Broncos (12/12/2013),"San Diego Chargers, Denver Broncos",San Diego Chargers,Denver Broncos,27,20,12/12/2013,15,2013
+Miami Dolphins vs. New York Jets (1/12/2014),"Miami Dolphins, New York Jets",Miami Dolphins,New York Jets,,,1/12/2014,13,2014
+Seattle Seahawks vs. Denver Broncos (2/2/2014),"Seattle Seahawks, Denver Broncos",Seattle Seahawks,Denver Broncos,43,8,2/02/2014,21,2013
+Green Bay Packers vs. Minnesota Vikings (2/10/2014),"Green Bay Packers, Minnesota Vikings",Green Bay Packers,Minnesota Vikings,42,10,2/10/2014,5,2014
+Arizona Cardinals vs. Dallas Cowboys (2/11/2014),"Arizona Cardinals, Dallas Cowboys",Arizona Cardinals,Dallas Cowboys,28,17,2/11/2014,9,2014
+Cincinnati Bengals vs. Jacksonville Jaguars (2/11/2014),"Cincinnati Bengals, Jacksonville Jaguars",Cincinnati Bengals,Jacksonville Jaguars,33,23,2/11/2014,9,2014
+Cleveland Browns vs. Tampa Bay Buccaneers (2/11/2014),"Cleveland Browns, Tampa Bay Buccaneers",Cleveland Browns,Tampa Bay Buccaneers,22,17,2/11/2014,9,2014
+Kansas City Chiefs vs. New York Jets (2/11/2014),"Kansas City Chiefs, New York Jets",Kansas City Chiefs,New York Jets,24,10,2/11/2014,9,2014
+Miami Dolphins vs. San Diego Chargers (2/11/2014),"Miami Dolphins, San Diego Chargers",Miami Dolphins,San Diego Chargers,37,0,2/11/2014,9,2014
+Minnesota Vikings vs. Washington Redskins (2/11/2014),"Minnesota Vikings, Washington Redskins",Minnesota Vikings,Washington Redskins,29,26,2/11/2014,9,2014
+New England Patriots vs. Denver Broncos (2/11/2014),"New England Patriots, Denver Broncos",New England Patriots,Denver Broncos,43,21,2/11/2014,9,2014
+Philadelphia Eagles vs. Houston Texans (2/11/2014),"Philadelphia Eagles, Houston Texans",Philadelphia Eagles,Houston Texans,31,21,2/11/2014,9,2014
+Pittsburgh Steelers vs. Baltimore Ravens (2/11/2014),"Pittsburgh Steelers, Baltimore Ravens",Pittsburgh Steelers,Baltimore Ravens,43,23,2/11/2014,9,2014
+Seattle Seahawks vs. Oakland Raiders (2/11/2014),"Seattle Seahawks, Oakland Raiders",Seattle Seahawks,Oakland Raiders,30,24,2/11/2014,9,2014
+St. Louis Rams vs. San Francisco 49ers (2/11/2014),"St. Louis Rams, San Francisco 49ers",St. Louis Rams,San Francisco 49ers,13,10,2/11/2014,9,2014
+Indianapolis Colts vs. New York Giants (3/11/2014),"Indianapolis Colts, New York Giants",Indianapolis Colts,New York Giants,40,24,3/11/2014,9,2014
+Indianapolis Colts vs. Kansas City Chiefs (4/1/2014),"Indianapolis Colts, Kansas City Chiefs",Indianapolis Colts,Kansas City Chiefs,45,44,4/01/2014,18,2013
+New Orleans Saints vs. Philadelphia Eagles (4/1/2014),"New Orleans Saints, Philadelphia Eagles",New Orleans Saints,Philadelphia Eagles,26,24,4/01/2014,18,2013
+Seattle Seahawks vs. Green Bay Packers (4/9/2014),"Seattle Seahawks, Green Bay Packers",Seattle Seahawks,Green Bay Packers,36,16,4/09/2014,1,2014
+Dallas Cowboys vs. Chicago Bears (4/12/2014),"Dallas Cowboys, Chicago Bears",Dallas Cowboys,Chicago Bears,,,4/12/2014,14,2014
+San Diego Chargers vs. Cincinnati Bengals (5/1/2014),"San Diego Chargers, Cincinnati Bengals",San Diego Chargers,Cincinnati Bengals,27,10,5/01/2014,18,2013
+San Francisco 49ers vs. Green Bay Packers (5/1/2014),"San Francisco 49ers, Green Bay Packers",San Francisco 49ers,Green Bay Packers,23,20,5/01/2014,18,2013
+Buffalo Bills vs. Detroit Lions (5/10/2014),"Buffalo Bills, Detroit Lions",Buffalo Bills,Detroit Lions,17,14,5/10/2014,5,2014
+Carolina Panthers vs. Chicago Bears (5/10/2014),"Carolina Panthers, Chicago Bears",Carolina Panthers,Chicago Bears,31,24,5/10/2014,5,2014
+Cleveland Browns vs. Tennessee Titans (5/10/2014),"Cleveland Browns, Tennessee Titans",Cleveland Browns,Tennessee Titans,29,28,5/10/2014,5,2014
+Dallas Cowboys vs. Houston Texans (5/10/2014),"Dallas Cowboys, Houston Texans",Dallas Cowboys,Houston Texans,20,17,5/10/2014,5,2014
+Denver Broncos vs. Arizona Cardinals (5/10/2014),"Denver Broncos, Arizona Cardinals",Denver Broncos,Arizona Cardinals,41,20,5/10/2014,5,2014
+Indianapolis Colts vs. Baltimore Ravens (5/10/2014),"Indianapolis Colts, Baltimore Ravens",Indianapolis Colts,Baltimore Ravens,20,13,5/10/2014,5,2014
+New England Patriots vs. Cincinnati Bengals (5/10/2014),"New England Patriots, Cincinnati Bengals",New England Patriots,Cincinnati Bengals,43,17,5/10/2014,5,2014
+New Orleans Saints vs. Tampa Bay Buccaneers (5/10/2014),"New Orleans Saints, Tampa Bay Buccaneers",New Orleans Saints,Tampa Bay Buccaneers,37,31,5/10/2014,5,2014
+New York Giants vs. Atlanta Falcons (5/10/2014),"New York Giants, Atlanta Falcons",New York Giants,Atlanta Falcons,30,20,5/10/2014,5,2014
+Philadelphia Eagles vs. St. Louis Rams (5/10/2014),"Philadelphia Eagles, St. Louis Rams",Philadelphia Eagles,St. Louis Rams,34,28,5/10/2014,5,2014
+Pittsburgh Steelers vs. Jacksonville Jaguars (5/10/2014),"Pittsburgh Steelers, Jacksonville Jaguars",Pittsburgh Steelers,Jacksonville Jaguars,17,9,5/10/2014,5,2014
+San Diego Chargers vs. New York Jets (5/10/2014),"San Diego Chargers, New York Jets",San Diego Chargers,New York Jets,31,0,5/10/2014,5,2014
+San Francisco 49ers vs. Kansas City Chiefs (5/10/2014),"San Francisco 49ers, Kansas City Chiefs",San Francisco 49ers,Kansas City Chiefs,22,17,5/10/2014,5,2014
+Seattle Seahawks vs. Washington Redskins (6/10/2014),"Seattle Seahawks, Washington Redskins",Seattle Seahawks,Washington Redskins,27,17,6/10/2014,5,2014
+Cleveland Browns vs. Cincinnati Bengals (6/11/2014),"Cleveland Browns, Cincinnati Bengals",Cleveland Browns,Cincinnati Bengals,24,3,6/11/2014,10,2014
+Atlanta Falcons vs. New Orleans Saints (7/9/2014),"Atlanta Falcons, New Orleans Saints",Atlanta Falcons,New Orleans Saints,37,34,7/09/2014,1,2014
+Buffalo Bills vs. Chicago Bears (7/9/2014),"Buffalo Bills, Chicago Bears",Buffalo Bills,Chicago Bears,23,20,7/09/2014,1,2014
+Carolina Panthers vs. Tampa Bay Buccaneers (7/9/2014),"Carolina Panthers, Tampa Bay Buccaneers",Carolina Panthers,Tampa Bay Buccaneers,20,14,7/09/2014,1,2014
+Cincinnati Bengals vs. Baltimore Ravens (7/9/2014),"Cincinnati Bengals, Baltimore Ravens",Cincinnati Bengals,Baltimore Ravens,23,16,7/09/2014,1,2014
+Denver Broncos vs. Indianapolis Colts (7/9/2014),"Denver Broncos, Indianapolis Colts",Denver Broncos,Indianapolis Colts,31,24,7/09/2014,1,2014
+Houston Texans vs. Washington Redskins (7/9/2014),"Houston Texans, Washington Redskins",Houston Texans,Washington Redskins,17,6,7/09/2014,1,2014
+Miami Dolphins vs. New England Patriots (7/9/2014),"Miami Dolphins, New England Patriots",Miami Dolphins,New England Patriots,33,20,7/09/2014,1,2014
+Minnesota Vikings vs. St. Louis Rams (7/9/2014),"Minnesota Vikings, St. Louis Rams",Minnesota Vikings,St. Louis Rams,34,6,7/09/2014,1,2014
+New York Jets vs. Oakland Raiders (7/9/2014),"New York Jets, Oakland Raiders",New York Jets,Oakland Raiders,19,14,7/09/2014,1,2014
+Philadelphia Eagles vs. Jacksonville Jaguars (7/9/2014),"Philadelphia Eagles, Jacksonville Jaguars",Philadelphia Eagles,Jacksonville Jaguars,34,17,7/09/2014,1,2014
+Pittsburgh Steelers vs. Cleveland Browns (7/9/2014),"Pittsburgh Steelers, Cleveland Browns",Pittsburgh Steelers,Cleveland Browns,30,27,7/09/2014,1,2014
+San Francisco 49ers vs. Dallas Cowboys (7/9/2014),"San Francisco 49ers, Dallas Cowboys",San Francisco 49ers,Dallas Cowboys,28,17,7/09/2014,1,2014
+Tennessee Titans vs. Kansas City Chiefs (7/9/2014),"Tennessee Titans, Kansas City Chiefs",Tennessee Titans,Kansas City Chiefs,26,10,7/09/2014,1,2014
+Baltimore Ravens vs. Miami Dolphins (7/12/2014),"Baltimore Ravens, Miami Dolphins",Baltimore Ravens,Miami Dolphins,,,7/12/2014,14,2014
+Buffalo Bills vs. Denver Broncos (7/12/2014),"Buffalo Bills, Denver Broncos",Buffalo Bills,Denver Broncos,,,7/12/2014,14,2014
+Carolina Panthers vs. New Orleans Saints (7/12/2014),"Carolina Panthers, New Orleans Saints",Carolina Panthers,New Orleans Saints,,,7/12/2014,14,2014
+Green Bay Packers vs. New Orleans Saints (7/12/2014),"Green Bay Packers, New Orleans Saints",Green Bay Packers,New Orleans Saints,,,7/12/2014,14,2014
+Green Bay Packers vs. San Diego Chargers (7/12/2014),"Green Bay Packers, San Diego Chargers",Green Bay Packers,San Diego Chargers,,,7/12/2014,14,2014
+Houston Texans vs. Jacksonville Jaguars (7/12/2014),"Houston Texans, Jacksonville Jaguars",Houston Texans,Jacksonville Jaguars,,,7/12/2014,14,2014
+Indianapolis Colts vs. Cleveland Browns (7/12/2014),"Indianapolis Colts, Cleveland Browns",Indianapolis Colts,Cleveland Browns,,,7/12/2014,14,2014
+Kansas City Chiefs vs. Arizona Cardinals (7/12/2014),"Kansas City Chiefs, Arizona Cardinals",Kansas City Chiefs,Arizona Cardinals,,,7/12/2014,14,2014
+New England Patriots vs. San Diego Chargers (7/12/2014),"New England Patriots, San Diego Chargers",New England Patriots,San Diego Chargers,,,7/12/2014,14,2014
+New York Giants vs. Tennessee Titans (7/12/2014),"New York Giants, Tennessee Titans",New York Giants,Tennessee Titans,,,7/12/2014,14,2014
+New York Jets vs. Minnesota Vikings (7/12/2014),"New York Jets, Minnesota Vikings",New York Jets,Minnesota Vikings,,,7/12/2014,14,2014
+Pittsburgh Steelers vs. Cincinnati Bengals (7/12/2014),"Pittsburgh Steelers, Cincinnati Bengals",Pittsburgh Steelers,Cincinnati Bengals,,,7/12/2014,14,2014
+San Francisco 49ers vs. Oakland Raiders (7/12/2014),"San Francisco 49ers, Oakland Raiders",San Francisco 49ers,Oakland Raiders,,,7/12/2014,14,2014
+Seattle Seahawks vs. Philadelphia Eagles (7/12/2014),"Seattle Seahawks, Philadelphia Eagles",Seattle Seahawks,Philadelphia Eagles,,,7/12/2014,14,2014
+St. Louis Rams vs. Washington Redskins (7/12/2014),"St. Louis Rams, Washington Redskins",St. Louis Rams,Washington Redskins,,,7/12/2014,14,2014
+Tampa Bay Buccaneers vs. Detroit Lions (7/12/2014),"Tampa Bay Buccaneers, Detroit Lions",Tampa Bay Buccaneers,Detroit Lions,,,7/12/2014,14,2014
+Arizona Cardinals vs. San Diego Chargers (8/9/2014),"Arizona Cardinals, San Diego Chargers",Arizona Cardinals,San Diego Chargers,18,17,8/09/2014,1,2014
+Detroit Lions vs. New York Giants (8/9/2014),"Detroit Lions, New York Giants",Detroit Lions,New York Giants,35,14,8/09/2014,1,2014
+Atlanta Falcons vs. Green Bay Packers (8/12/2014),"Atlanta Falcons, Green Bay Packers",Atlanta Falcons,Green Bay Packers,,,8/12/2014,14,2014
+Indianapolis Colts vs. Houston Texans (9/10/2014),"Indianapolis Colts, Houston Texans",Indianapolis Colts,Houston Texans,33,28,9/10/2014,6,2014
+Arizona Cardinals vs. St. Louis Rams (9/11/2014),"Arizona Cardinals, St. Louis Rams",Arizona Cardinals,St. Louis Rams,31,14,9/11/2014,10,2014
+Atlanta Falcons vs. Tampa Bay Buccaneers (9/11/2014),"Atlanta Falcons, Tampa Bay Buccaneers",Atlanta Falcons,Tampa Bay Buccaneers,27,17,9/11/2014,10,2014
+Baltimore Ravens vs. Tennessee Titans (9/11/2014),"Baltimore Ravens, Tennessee Titans",Baltimore Ravens,Tennessee Titans,21,7,9/11/2014,10,2014
+Dallas Cowboys vs. Jacksonville Jaguars (9/11/2014),"Dallas Cowboys, Jacksonville Jaguars",Dallas Cowboys,Jacksonville Jaguars,31,17,9/11/2014,10,2014
+Denver Broncos vs. Oakland Raiders (9/11/2014),"Denver Broncos, Oakland Raiders",Denver Broncos,Oakland Raiders,41,17,9/11/2014,10,2014
+Detroit Lions vs. Miami Dolphins (9/11/2014),"Detroit Lions, Miami Dolphins",Detroit Lions,Miami Dolphins,20,16,9/11/2014,10,2014
+Green Bay Packers vs. Chicago Bears (9/11/2014),"Green Bay Packers, Chicago Bears",Green Bay Packers,Chicago Bears,55,14,9/11/2014,10,2014
+Kansas City Chiefs vs. Buffalo Bills (9/11/2014),"Kansas City Chiefs, Buffalo Bills",Kansas City Chiefs,Buffalo Bills,17,13,9/11/2014,10,2014
+New York Jets vs. Pittsburgh Steelers (9/11/2014),"New York Jets, Pittsburgh Steelers",New York Jets,Pittsburgh Steelers,20,13,9/11/2014,10,2014
+San Francisco 49ers vs. New Orleans Saints (9/11/2014),"San Francisco 49ers, New Orleans Saints",San Francisco 49ers,New Orleans Saints,27,24,9/11/2014,10,2014
+Seattle Seahawks vs. New York Giants (9/11/2014),"Seattle Seahawks, New York Giants",Seattle Seahawks,New York Giants,38,17,9/11/2014,10,2014
+Philadelphia Eagles vs. Carolina Panthers (10/11/2014),"Philadelphia Eagles, Carolina Panthers",Philadelphia Eagles,Carolina Panthers,45,21,10/11/2014,10,2014
+New England Patriots vs. Indianapolis Colts (11/1/2014),"New England Patriots, Indianapolis Colts",New England Patriots,Indianapolis Colts,43,22,11/01/2014,19,2013
+Seattle Seahawks vs. New Orleans Saints (11/1/2014),"Seattle Seahawks, New Orleans Saints",Seattle Seahawks,New Orleans Saints,23,15,11/01/2014,19,2013
+Baltimore Ravens vs. Pittsburgh Steelers (11/9/2014),"Baltimore Ravens, Pittsburgh Steelers",Baltimore Ravens,Pittsburgh Steelers,26,6,11/09/2014,2,2014
+Arizona Cardinals vs. St. Louis Rams (11/12/2014),"Arizona Cardinals, St. Louis Rams",Arizona Cardinals,St. Louis Rams,,,11/12/2014,15,2014
+Denver Broncos vs. San Diego Chargers (12/1/2014),"Denver Broncos, San Diego Chargers",Denver Broncos,San Diego Chargers,24,17,12/01/2014,19,2013
+San Francisco 49ers vs. Carolina Panthers (12/1/2014),"San Francisco 49ers, Carolina Panthers",San Francisco 49ers,Carolina Panthers,23,10,12/01/2014,19,2013
+Arizona Cardinals vs. Washington Redskins (12/10/2014),"Arizona Cardinals, Washington Redskins",Arizona Cardinals,Washington Redskins,30,20,12/10/2014,6,2014
+Baltimore Ravens vs. Tampa Bay Buccaneers (12/10/2014),"Baltimore Ravens, Tampa Bay Buccaneers",Baltimore Ravens,Tampa Bay Buccaneers,48,17,12/10/2014,6,2014
+Carolina Panthers vs. Cincinnati Bengals (12/10/2014),"Carolina Panthers, Cincinnati Bengals",Carolina Panthers,Cincinnati Bengals,37,37,12/10/2014,6,2014
+Chicago Bears vs. Atlanta Falcons (12/10/2014),"Chicago Bears, Atlanta Falcons",Chicago Bears,Atlanta Falcons,27,13,12/10/2014,6,2014
+Cleveland Browns vs. Pittsburgh Steelers (12/10/2014),"Cleveland Browns, Pittsburgh Steelers",Cleveland Browns,Pittsburgh Steelers,31,10,12/10/2014,6,2014
+Dallas Cowboys vs. Seattle Seahawks (12/10/2014),"Dallas Cowboys, Seattle Seahawks",Dallas Cowboys,Seattle Seahawks,30,23,12/10/2014,6,2014
+Denver Broncos vs. New York Jets (12/10/2014),"Denver Broncos, New York Jets",Denver Broncos,New York Jets,31,17,12/10/2014,6,2014
+Detroit Lions vs. Minnesota Vikings (12/10/2014),"Detroit Lions, Minnesota Vikings",Detroit Lions,Minnesota Vikings,17,3,12/10/2014,6,2014
+Green Bay Packers vs. Miami Dolphins (12/10/2014),"Green Bay Packers, Miami Dolphins",Green Bay Packers,Miami Dolphins,27,24,12/10/2014,6,2014
+New England Patriots vs. Buffalo Bills (12/10/2014),"New England Patriots, Buffalo Bills",New England Patriots,Buffalo Bills,37,22,12/10/2014,6,2014
+Philadelphia Eagles vs. New York Giants (12/10/2014),"Philadelphia Eagles, New York Giants",Philadelphia Eagles,New York Giants,27,0,12/10/2014,6,2014
+San Diego Chargers vs. Oakland Raiders (12/10/2014),"San Diego Chargers, Oakland Raiders",San Diego Chargers,Oakland Raiders,31,28,12/10/2014,6,2014
+Tennessee Titans vs. Jacksonville Jaguars (12/10/2014),"Tennessee Titans, Jacksonville Jaguars",Tennessee Titans,Jacksonville Jaguars,16,14,12/10/2014,6,2014
+Atlanta Falcons vs. Seattle Seahawks (13/1/2013),"Atlanta Falcons, Seattle Seahawks",Atlanta Falcons,Seattle Seahawks,30,28,13/01/2013,19,2012
+New England Patriots vs. Houston Texans (13/1/2013),"New England Patriots, Houston Texans",New England Patriots,Houston Texans,41,28,13/01/2013,19,2012
+Carolina Panthers vs. Minnesota Vikings (13/10/2013),"Carolina Panthers, Minnesota Vikings",Carolina Panthers,Minnesota Vikings,35,10,13/10/2013,6,2013
+Cincinnati Bengals vs. Buffalo Bills (13/10/2013),"Cincinnati Bengals, Buffalo Bills",Cincinnati Bengals,Buffalo Bills,27,24,13/10/2013,6,2013
+Dallas Cowboys vs. Washington Redskins (13/10/2013),"Dallas Cowboys, Washington Redskins",Dallas Cowboys,Washington Redskins,31,16,13/10/2013,6,2013
+Denver Broncos vs. Jacksonville Jaguars (13/10/2013),"Denver Broncos, Jacksonville Jaguars",Denver Broncos,Jacksonville Jaguars,35,19,13/10/2013,6,2013
+Detroit Lions vs. Cleveland Browns (13/10/2013),"Detroit Lions, Cleveland Browns",Detroit Lions,Cleveland Browns,31,17,13/10/2013,6,2013
+Green Bay Packers vs. Baltimore Ravens (13/10/2013),"Green Bay Packers, Baltimore Ravens",Green Bay Packers,Baltimore Ravens,19,17,13/10/2013,6,2013
+Kansas City Chiefs vs. Oakland Raiders (13/10/2013),"Kansas City Chiefs, Oakland Raiders",Kansas City Chiefs,Oakland Raiders,24,7,13/10/2013,6,2013
+New England Patriots vs. New Orleans Saints (13/10/2013),"New England Patriots, New Orleans Saints",New England Patriots,New Orleans Saints,30,27,13/10/2013,6,2013
+Philadelphia Eagles vs. Tampa Bay Buccaneers (13/10/2013),"Philadelphia Eagles, Tampa Bay Buccaneers",Philadelphia Eagles,Tampa Bay Buccaneers,31,20,13/10/2013,6,2013
+Pittsburgh Steelers vs. New York Jets (13/10/2013),"Pittsburgh Steelers, New York Jets",Pittsburgh Steelers,New York Jets,19,6,13/10/2013,6,2013
+San Francisco 49ers vs. Arizona Cardinals (13/10/2013),"San Francisco 49ers, Arizona Cardinals",San Francisco 49ers,Arizona Cardinals,32,20,13/10/2013,6,2013
+Seattle Seahawks vs. Tennessee Titans (13/10/2013),"Seattle Seahawks, Tennessee Titans",Seattle Seahawks,Tennessee Titans,20,13,13/10/2013,6,2013
+St. Louis Rams vs. Houston Texans (13/10/2013),"St. Louis Rams, Houston Texans",St. Louis Rams,Houston Texans,38,13,13/10/2013,6,2013
+San Francisco 49ers vs. St. Louis Rams (13/10/2014),"San Francisco 49ers, St. Louis Rams",San Francisco 49ers,St. Louis Rams,31,17,13/10/2014,6,2014
+Miami Dolphins vs. Buffalo Bills (13/11/2014),"Miami Dolphins, Buffalo Bills",Miami Dolphins,Buffalo Bills,22,9,13/11/2014,11,2014
+Cincinnati Bengals vs. Philadelphia Eagles (13/12/2012),"Cincinnati Bengals, Philadelphia Eagles",Cincinnati Bengals,Philadelphia Eagles,34,13,13/12/2012,15,2012
+Green Bay Packers vs. Chicago Bears (13/9/2012),"Green Bay Packers, Chicago Bears",Green Bay Packers,Chicago Bears,23,10,13/09/2012,2,2012
+Atlanta Falcons vs. Oakland Raiders (14/10/2012),"Atlanta Falcons, Oakland Raiders",Atlanta Falcons,Oakland Raiders,23,20,14/10/2012,6,2012
+Baltimore Ravens vs. Dallas Cowboys (14/10/2012),"Baltimore Ravens, Dallas Cowboys",Baltimore Ravens,Dallas Cowboys,31,29,14/10/2012,6,2012
+Buffalo Bills vs. Arizona Cardinals (14/10/2012),"Buffalo Bills, Arizona Cardinals",Buffalo Bills,Arizona Cardinals,19,16,14/10/2012,6,2012
+Cleveland Browns vs. Cincinnati Bengals (14/10/2012),"Cleveland Browns, Cincinnati Bengals",Cleveland Browns,Cincinnati Bengals,34,24,14/10/2012,6,2012
+Detroit Lions vs. Philadelphia Eagles (14/10/2012),"Detroit Lions, Philadelphia Eagles",Detroit Lions,Philadelphia Eagles,26,23,14/10/2012,6,2012
+Green Bay Packers vs. Houston Texans (14/10/2012),"Green Bay Packers, Houston Texans",Green Bay Packers,Houston Texans,42,24,14/10/2012,6,2012
+Miami Dolphins vs. St. Louis Rams (14/10/2012),"Miami Dolphins, St. Louis Rams",Miami Dolphins,St. Louis Rams,17,14,14/10/2012,6,2012
+New York Giants vs. San Francisco 49ers (14/10/2012),"New York Giants, San Francisco 49ers",New York Giants,San Francisco 49ers,26,3,14/10/2012,6,2012
+New York Jets vs. Indianapolis Colts (14/10/2012),"New York Jets, Indianapolis Colts",New York Jets,Indianapolis Colts,35,9,14/10/2012,6,2012
+Seattle Seahawks vs. New England Patriots (14/10/2012),"Seattle Seahawks, New England Patriots",Seattle Seahawks,New England Patriots,24,23,14/10/2012,6,2012
+Tampa Bay Buccaneers vs. Kansas City Chiefs (14/10/2012),"Tampa Bay Buccaneers, Kansas City Chiefs",Tampa Bay Buccaneers,Kansas City Chiefs,38,10,14/10/2012,6,2012
+Washington Redskins vs. Minnesota Vikings (14/10/2012),"Washington Redskins, Minnesota Vikings",Washington Redskins,Minnesota Vikings,38,26,14/10/2012,6,2012
+San Diego Chargers vs. Indianapolis Colts (14/10/2013),"San Diego Chargers, Indianapolis Colts",San Diego Chargers,Indianapolis Colts,19,9,14/10/2013,6,2013
+Indianapolis Colts vs. Tennessee Titans (14/11/2013),"Indianapolis Colts, Tennessee Titans",Indianapolis Colts,Tennessee Titans,30,27,14/11/2013,11,2013
+Cincinnati Bengals vs. Cleveland Browns (14/12/2014),"Cincinnati Bengals, Cleveland Browns",Cincinnati Bengals,Cleveland Browns,,,14/12/2014,15,2014
+Dallas Cowboys vs. Philadelphia Eagles (14/12/2014),"Dallas Cowboys, Philadelphia Eagles",Dallas Cowboys,Philadelphia Eagles,,,14/12/2014,15,2014
+Denver Broncos vs. San Diego Chargers (14/12/2014),"Denver Broncos, San Diego Chargers",Denver Broncos,San Diego Chargers,,,14/12/2014,15,2014
+Green Bay Packers vs. Buffalo Bills (14/12/2014),"Green Bay Packers, Buffalo Bills",Green Bay Packers,Buffalo Bills,,,14/12/2014,15,2014
+Houston Texans vs. Indianapolis Colts (14/12/2014),"Houston Texans, Indianapolis Colts",Houston Texans,Indianapolis Colts,,,14/12/2014,15,2014
+Jacksonville Jaguars vs. Baltimore Ravens (14/12/2014),"Jacksonville Jaguars, Baltimore Ravens",Jacksonville Jaguars,Baltimore Ravens,,,14/12/2014,15,2014
+Miami Dolphins vs. Green Bay Packers (14/12/2014),"Miami Dolphins, Green Bay Packers",Miami Dolphins,Green Bay Packers,,,14/12/2014,15,2014
+Miami Dolphins vs. New England Patriots (14/12/2014),"Miami Dolphins, New England Patriots",Miami Dolphins,New England Patriots,,,14/12/2014,15,2014
+Minnesota Vikings vs. Detroit Lions (14/12/2014),"Minnesota Vikings, Detroit Lions",Minnesota Vikings,Detroit Lions,,,14/12/2014,15,2014
+New York Jets vs. Tennessee Titans (14/12/2014),"New York Jets, Tennessee Titans",New York Jets,Tennessee Titans,,,14/12/2014,15,2014
+Oakland Raiders vs. Kansas City Chiefs (14/12/2014),"Oakland Raiders, Kansas City Chiefs",Oakland Raiders,Kansas City Chiefs,,,14/12/2014,15,2014
+Pittsburgh Steelers vs. Atlanta Falcons (14/12/2014),"Pittsburgh Steelers, Atlanta Falcons",Pittsburgh Steelers,Atlanta Falcons,,,14/12/2014,15,2014
+San Francisco 49ers vs. Seattle Seahawks (14/12/2014),"San Francisco 49ers, Seattle Seahawks",San Francisco 49ers,Seattle Seahawks,,,14/12/2014,15,2014
+Tampa Bay Buccaneers vs. Carolina Panthers (14/12/2014),"Tampa Bay Buccaneers, Carolina Panthers",Tampa Bay Buccaneers,Carolina Panthers,,,14/12/2014,15,2014
+Tampa Bay Buccaneers vs. Green Bay Packers (14/12/2014),"Tampa Bay Buccaneers, Green Bay Packers",Tampa Bay Buccaneers,Green Bay Packers,,,14/12/2014,15,2014
+Washington Redskins vs. New York Giants (14/12/2014),"Washington Redskins, New York Giants",Washington Redskins,New York Giants,,,14/12/2014,15,2014
+Arizona Cardinals vs. New York Giants (14/9/2014),"Arizona Cardinals, New York Giants",Arizona Cardinals,New York Giants,25,14,14/09/2014,2,2014
+Buffalo Bills vs. Miami Dolphins (14/9/2014),"Buffalo Bills, Miami Dolphins",Buffalo Bills,Miami Dolphins,29,10,14/09/2014,2,2014
+Carolina Panthers vs. Detroit Lions (14/9/2014),"Carolina Panthers, Detroit Lions",Carolina Panthers,Detroit Lions,24,7,14/09/2014,2,2014
+Chicago Bears vs. San Francisco 49ers (14/9/2014),"Chicago Bears, San Francisco 49ers",Chicago Bears,San Francisco 49ers,28,20,14/09/2014,2,2014
+Cincinnati Bengals vs. Atlanta Falcons (14/9/2014),"Cincinnati Bengals, Atlanta Falcons",Cincinnati Bengals,Atlanta Falcons,24,10,14/09/2014,2,2014
+Cleveland Browns vs. New Orleans Saints (14/9/2014),"Cleveland Browns, New Orleans Saints",Cleveland Browns,New Orleans Saints,26,24,14/09/2014,2,2014
+Dallas Cowboys vs. Tennessee Titans (14/9/2014),"Dallas Cowboys, Tennessee Titans",Dallas Cowboys,Tennessee Titans,26,10,14/09/2014,2,2014
+Denver Broncos vs. Kansas City Chiefs (14/9/2014),"Denver Broncos, Kansas City Chiefs",Denver Broncos,Kansas City Chiefs,24,17,14/09/2014,2,2014
+Green Bay Packers vs. New York Jets (14/9/2014),"Green Bay Packers, New York Jets",Green Bay Packers,New York Jets,31,24,14/09/2014,2,2014
+Houston Texans vs. Oakland Raiders (14/9/2014),"Houston Texans, Oakland Raiders",Houston Texans,Oakland Raiders,30,14,14/09/2014,2,2014
+New England Patriots vs. Minnesota Vikings (14/9/2014),"New England Patriots, Minnesota Vikings",New England Patriots,Minnesota Vikings,30,7,14/09/2014,2,2014
+San Diego Chargers vs. Seattle Seahawks (14/9/2014),"San Diego Chargers, Seattle Seahawks",San Diego Chargers,Seattle Seahawks,30,21,14/09/2014,2,2014
+St. Louis Rams vs. Tampa Bay Buccaneers (14/9/2014),"St. Louis Rams, Tampa Bay Buccaneers",St. Louis Rams,Tampa Bay Buccaneers,19,17,14/09/2014,2,2014
+Washington Redskins vs. Jacksonville Jaguars (14/9/2014),"Washington Redskins, Jacksonville Jaguars",Washington Redskins,Jacksonville Jaguars,41,10,14/09/2014,2,2014
+Denver Broncos vs. San Diego Chargers (15/10/2012),"Denver Broncos, San Diego Chargers",Denver Broncos,San Diego Chargers,35,24,15/10/2012,6,2012
+Buffalo Bills vs. Miami Dolphins (15/11/2012),"Buffalo Bills, Miami Dolphins",Buffalo Bills,Miami Dolphins,19,14,15/11/2012,11,2012
+Arizona Cardinals vs. Tennessee Titans (15/12/2013),"Arizona Cardinals, Tennessee Titans",Arizona Cardinals,Tennessee Titans,37,34,15/12/2013,15,2013
+Atlanta Falcons vs. Washington Redskins (15/12/2013),"Atlanta Falcons, Washington Redskins",Atlanta Falcons,Washington Redskins,27,26,15/12/2013,15,2013
+Buffalo Bills vs. Jacksonville Jaguars (15/12/2013),"Buffalo Bills, Jacksonville Jaguars",Buffalo Bills,Jacksonville Jaguars,27,20,15/12/2013,15,2013
+Carolina Panthers vs. New York Jets (15/12/2013),"Carolina Panthers, New York Jets",Carolina Panthers,New York Jets,30,20,15/12/2013,15,2013
+Chicago Bears vs. Cleveland Browns (15/12/2013),"Chicago Bears, Cleveland Browns",Chicago Bears,Cleveland Browns,38,31,15/12/2013,15,2013
+Green Bay Packers vs. Dallas Cowboys (15/12/2013),"Green Bay Packers, Dallas Cowboys",Green Bay Packers,Dallas Cowboys,37,36,15/12/2013,15,2013
+Indianapolis Colts vs. Houston Texans (15/12/2013),"Indianapolis Colts, Houston Texans",Indianapolis Colts,Houston Texans,25,3,15/12/2013,15,2013
+Kansas City Chiefs vs. Oakland Raiders (15/12/2013),"Kansas City Chiefs, Oakland Raiders",Kansas City Chiefs,Oakland Raiders,56,31,15/12/2013,15,2013
+Miami Dolphins vs. New England Patriots (15/12/2013),"Miami Dolphins, New England Patriots",Miami Dolphins,New England Patriots,24,20,15/12/2013,15,2013
+Minnesota Vikings vs. Philadelphia Eagles (15/12/2013),"Minnesota Vikings, Philadelphia Eagles",Minnesota Vikings,Philadelphia Eagles,48,30,15/12/2013,15,2013
+Pittsburgh Steelers vs. Cincinnati Bengals (15/12/2013),"Pittsburgh Steelers, Cincinnati Bengals",Pittsburgh Steelers,Cincinnati Bengals,30,20,15/12/2013,15,2013
+San Francisco 49ers vs. Tampa Bay Buccaneers (15/12/2013),"San Francisco 49ers, Tampa Bay Buccaneers",San Francisco 49ers,Tampa Bay Buccaneers,33,14,15/12/2013,15,2013
+Seattle Seahawks vs. New York Giants (15/12/2013),"Seattle Seahawks, New York Giants",Seattle Seahawks,New York Giants,23,0,15/12/2013,15,2013
+St. Louis Rams vs. New Orleans Saints (15/12/2013),"St. Louis Rams, New Orleans Saints",St. Louis Rams,New Orleans Saints,27,16,15/12/2013,15,2013
+New Orleans Saints vs. Chicago Bears (15/12/2014),"New Orleans Saints, Chicago Bears",New Orleans Saints,Chicago Bears,,,15/12/2014,15,2014
+Arizona Cardinals vs. Detroit Lions (15/9/2013),"Arizona Cardinals, Detroit Lions",Arizona Cardinals,Detroit Lions,25,21,15/09/2013,2,2013
+Atlanta Falcons vs. St. Louis Rams (15/9/2013),"Atlanta Falcons, St. Louis Rams",Atlanta Falcons,St. Louis Rams,31,24,15/09/2013,2,2013
+Baltimore Ravens vs. Cleveland Browns (15/9/2013),"Baltimore Ravens, Cleveland Browns",Baltimore Ravens,Cleveland Browns,14,6,15/09/2013,2,2013
+Buffalo Bills vs. Carolina Panthers (15/9/2013),"Buffalo Bills, Carolina Panthers",Buffalo Bills,Carolina Panthers,24,23,15/09/2013,2,2013
+Chicago Bears vs. Minnesota Vikings (15/9/2013),"Chicago Bears, Minnesota Vikings",Chicago Bears,Minnesota Vikings,31,30,15/09/2013,2,2013
+Denver Broncos vs. New York Giants (15/9/2013),"Denver Broncos, New York Giants",Denver Broncos,New York Giants,41,23,15/09/2013,2,2013
+Green Bay Packers vs. Washington Redskins (15/9/2013),"Green Bay Packers, Washington Redskins",Green Bay Packers,Washington Redskins,38,20,15/09/2013,2,2013
+Houston Texans vs. Tennessee Titans (15/9/2013),"Houston Texans, Tennessee Titans",Houston Texans,Tennessee Titans,30,24,15/09/2013,2,2013
+Kansas City Chiefs vs. Dallas Cowboys (15/9/2013),"Kansas City Chiefs, Dallas Cowboys",Kansas City Chiefs,Dallas Cowboys,17,16,15/09/2013,2,2013
+Miami Dolphins vs. Indianapolis Colts (15/9/2013),"Miami Dolphins, Indianapolis Colts",Miami Dolphins,Indianapolis Colts,24,20,15/09/2013,2,2013
+New Orleans Saints vs. Tampa Bay Buccaneers (15/9/2013),"New Orleans Saints, Tampa Bay Buccaneers",New Orleans Saints,Tampa Bay Buccaneers,16,14,15/09/2013,2,2013
+Oakland Raiders vs. Jacksonville Jaguars (15/9/2013),"Oakland Raiders, Jacksonville Jaguars",Oakland Raiders,Jacksonville Jaguars,19,9,15/09/2013,2,2013
+San Diego Chargers vs. Philadelphia Eagles (15/9/2013),"San Diego Chargers, Philadelphia Eagles",San Diego Chargers,Philadelphia Eagles,33,30,15/09/2013,2,2013
+Seattle Seahawks vs. San Francisco 49ers (15/9/2013),"Seattle Seahawks, San Francisco 49ers",Seattle Seahawks,San Francisco 49ers,29,3,15/09/2013,2,2013
+Philadelphia Eagles vs. Indianapolis Colts (15/9/2014),"Philadelphia Eagles, Indianapolis Colts",Philadelphia Eagles,Indianapolis Colts,30,27,15/09/2014,2,2014
+New England Patriots vs. New York Jets (16/10/2014),"New England Patriots, New York Jets",New England Patriots,New York Jets,27,25,16/10/2014,7,2014
+Arizona Cardinals vs. Detroit Lions (16/11/2014),"Arizona Cardinals, Detroit Lions",Arizona Cardinals,Detroit Lions,14,6,16/11/2014,11,2014
+Atlanta Falcons vs. Carolina Panthers (16/11/2014),"Atlanta Falcons, Carolina Panthers",Atlanta Falcons,Carolina Panthers,19,17,16/11/2014,11,2014
+Chicago Bears vs. Minnesota Vikings (16/11/2014),"Chicago Bears, Minnesota Vikings",Chicago Bears,Minnesota Vikings,21,13,16/11/2014,11,2014
+Cincinnati Bengals vs. New Orleans Saints (16/11/2014),"Cincinnati Bengals, New Orleans Saints",Cincinnati Bengals,New Orleans Saints,27,10,16/11/2014,11,2014
+Green Bay Packers vs. Philadelphia Eagles (16/11/2014),"Green Bay Packers, Philadelphia Eagles",Green Bay Packers,Philadelphia Eagles,53,20,16/11/2014,11,2014
+Houston Texans vs. Cleveland Browns (16/11/2014),"Houston Texans, Cleveland Browns",Houston Texans,Cleveland Browns,23,7,16/11/2014,11,2014
+Kansas City Chiefs vs. Seattle Seahawks (16/11/2014),"Kansas City Chiefs, Seattle Seahawks",Kansas City Chiefs,Seattle Seahawks,24,20,16/11/2014,11,2014
+New England Patriots vs. Indianapolis Colts (16/11/2014),"New England Patriots, Indianapolis Colts",New England Patriots,Indianapolis Colts,42,20,16/11/2014,11,2014
+San Diego Chargers vs. Oakland Raiders (16/11/2014),"San Diego Chargers, Oakland Raiders",San Diego Chargers,Oakland Raiders,13,6,16/11/2014,11,2014
+San Francisco 49ers vs. New York Giants (16/11/2014),"San Francisco 49ers, New York Giants",San Francisco 49ers,New York Giants,16,10,16/11/2014,11,2014
+St. Louis Rams vs. Denver Broncos (16/11/2014),"St. Louis Rams, Denver Broncos",St. Louis Rams,Denver Broncos,22,7,16/11/2014,11,2014
+Tampa Bay Buccaneers vs. Washington Redskins (16/11/2014),"Tampa Bay Buccaneers, Washington Redskins",Tampa Bay Buccaneers,Washington Redskins,27,7,16/11/2014,11,2014
+Arizona Cardinals vs. Detroit Lions (16/12/2012),"Arizona Cardinals, Detroit Lions",Arizona Cardinals,Detroit Lions,38,10,16/12/2012,15,2012
+Atlanta Falcons vs. New York Giants (16/12/2012),"Atlanta Falcons, New York Giants",Atlanta Falcons,New York Giants,34,0,16/12/2012,15,2012
+Carolina Panthers vs. San Diego Chargers (16/12/2012),"Carolina Panthers, San Diego Chargers",Carolina Panthers,San Diego Chargers,31,7,16/12/2012,15,2012
+Dallas Cowboys vs. Pittsburgh Steelers (16/12/2012),"Dallas Cowboys, Pittsburgh Steelers",Dallas Cowboys,Pittsburgh Steelers,27,24,16/12/2012,15,2012
+Denver Broncos vs. Baltimore Ravens (16/12/2012),"Denver Broncos, Baltimore Ravens",Denver Broncos,Baltimore Ravens,34,17,16/12/2012,15,2012
+Green Bay Packers vs. Chicago Bears (16/12/2012),"Green Bay Packers, Chicago Bears",Green Bay Packers,Chicago Bears,21,13,16/12/2012,15,2012
+Houston Texans vs. Indianapolis Colts (16/12/2012),"Houston Texans, Indianapolis Colts",Houston Texans,Indianapolis Colts,29,17,16/12/2012,15,2012
+Miami Dolphins vs. Jacksonville Jaguars (16/12/2012),"Miami Dolphins, Jacksonville Jaguars",Miami Dolphins,Jacksonville Jaguars,24,3,16/12/2012,15,2012
+Minnesota Vikings vs. St. Louis Rams (16/12/2012),"Minnesota Vikings, St. Louis Rams",Minnesota Vikings,St. Louis Rams,36,22,16/12/2012,15,2012
+New Orleans Saints vs. Tampa Bay Buccaneers (16/12/2012),"New Orleans Saints, Tampa Bay Buccaneers",New Orleans Saints,Tampa Bay Buccaneers,41,0,16/12/2012,15,2012
+Oakland Raiders vs. Kansas City Chiefs (16/12/2012),"Oakland Raiders, Kansas City Chiefs",Oakland Raiders,Kansas City Chiefs,15,0,16/12/2012,15,2012
+San Francisco 49ers vs. New England Patriots (16/12/2012),"San Francisco 49ers, New England Patriots",San Francisco 49ers,New England Patriots,41,34,16/12/2012,15,2012
+Seattle Seahawks vs. Buffalo Bills (16/12/2012),"Seattle Seahawks, Buffalo Bills",Seattle Seahawks,Buffalo Bills,50,17,16/12/2012,15,2012
+Washington Redskins vs. Cleveland Browns (16/12/2012),"Washington Redskins, Cleveland Browns",Washington Redskins,Cleveland Browns,38,21,16/12/2012,15,2012
+Baltimore Ravens vs. Detroit Lions (16/12/2013),"Baltimore Ravens, Detroit Lions",Baltimore Ravens,Detroit Lions,18,16,16/12/2013,15,2013
+Arizona Cardinals vs. New England Patriots (16/9/2012),"Arizona Cardinals, New England Patriots",Arizona Cardinals,New England Patriots,20,18,16/09/2012,2,2012
+Buffalo Bills vs. Kansas City Chiefs (16/9/2012),"Buffalo Bills, Kansas City Chiefs",Buffalo Bills,Kansas City Chiefs,35,17,16/09/2012,2,2012
+Carolina Panthers vs. New Orleans Saints (16/9/2012),"Carolina Panthers, New Orleans Saints",Carolina Panthers,New Orleans Saints,35,27,16/09/2012,2,2012
+Cincinnati Bengals vs. Cleveland Browns (16/9/2012),"Cincinnati Bengals, Cleveland Browns",Cincinnati Bengals,Cleveland Browns,34,27,16/09/2012,2,2012
+Houston Texans vs. Jacksonville Jaguars (16/9/2012),"Houston Texans, Jacksonville Jaguars",Houston Texans,Jacksonville Jaguars,27,7,16/09/2012,2,2012
+Indianapolis Colts vs. Minnesota Vikings (16/9/2012),"Indianapolis Colts, Minnesota Vikings",Indianapolis Colts,Minnesota Vikings,23,20,16/09/2012,2,2012
+Miami Dolphins vs. Oakland Raiders (16/9/2012),"Miami Dolphins, Oakland Raiders",Miami Dolphins,Oakland Raiders,35,13,16/09/2012,2,2012
+New York Giants vs. Tampa Bay Buccaneers (16/9/2012),"New York Giants, Tampa Bay Buccaneers",New York Giants,Tampa Bay Buccaneers,41,34,16/09/2012,2,2012
+Philadelphia Eagles vs. Baltimore Ravens (16/9/2012),"Philadelphia Eagles, Baltimore Ravens",Philadelphia Eagles,Baltimore Ravens,24,23,16/09/2012,2,2012
+Pittsburgh Steelers vs. New York Jets (16/9/2012),"Pittsburgh Steelers, New York Jets",Pittsburgh Steelers,New York Jets,27,10,16/09/2012,2,2012
+San Diego Chargers vs. Tennessee Titans (16/9/2012),"San Diego Chargers, Tennessee Titans",San Diego Chargers,Tennessee Titans,38,10,16/09/2012,2,2012
+San Francisco 49ers vs. Detroit Lions (16/9/2012),"San Francisco 49ers, Detroit Lions",San Francisco 49ers,Detroit Lions,27,19,16/09/2012,2,2012
+Seattle Seahawks vs. Dallas Cowboys (16/9/2012),"Seattle Seahawks, Dallas Cowboys",Seattle Seahawks,Dallas Cowboys,27,7,16/09/2012,2,2012
+St. Louis Rams vs. Washington Redskins (16/9/2012),"St. Louis Rams, Washington Redskins",St. Louis Rams,Washington Redskins,31,28,16/09/2012,2,2012
+Cincinnati Bengals vs. Pittsburgh Steelers (16/9/2013),"Cincinnati Bengals, Pittsburgh Steelers",Cincinnati Bengals,Pittsburgh Steelers,20,10,16/09/2013,2,2013
+Seattle Seahawks vs. Arizona Cardinals (17/10/2013),"Seattle Seahawks, Arizona Cardinals",Seattle Seahawks,Arizona Cardinals,34,22,17/10/2013,7,2013
+Arizona Cardinals vs. Jacksonville Jaguars (17/11/2013),"Arizona Cardinals, Jacksonville Jaguars",Arizona Cardinals,Jacksonville Jaguars,27,14,17/11/2013,11,2013
+Buffalo Bills vs. New York Jets (17/11/2013),"Buffalo Bills, New York Jets",Buffalo Bills,New York Jets,37,14,17/11/2013,11,2013
+Chicago Bears vs. Baltimore Ravens (17/11/2013),"Chicago Bears, Baltimore Ravens",Chicago Bears,Baltimore Ravens,23,20,17/11/2013,11,2013
+Cincinnati Bengals vs. Cleveland Browns (17/11/2013),"Cincinnati Bengals, Cleveland Browns",Cincinnati Bengals,Cleveland Browns,41,20,17/11/2013,11,2013
+Denver Broncos vs. Kansas City Chiefs (17/11/2013),"Denver Broncos, Kansas City Chiefs",Denver Broncos,Kansas City Chiefs,27,17,17/11/2013,11,2013
+Miami Dolphins vs. San Diego Chargers (17/11/2013),"Miami Dolphins, San Diego Chargers",Miami Dolphins,San Diego Chargers,20,16,17/11/2013,11,2013
+New Orleans Saints vs. San Francisco 49ers (17/11/2013),"New Orleans Saints, San Francisco 49ers",New Orleans Saints,San Francisco 49ers,23,20,17/11/2013,11,2013
+New York Giants vs. Green Bay Packers (17/11/2013),"New York Giants, Green Bay Packers",New York Giants,Green Bay Packers,27,13,17/11/2013,11,2013
+Oakland Raiders vs. Houston Texans (17/11/2013),"Oakland Raiders, Houston Texans",Oakland Raiders,Houston Texans,28,23,17/11/2013,11,2013
+Philadelphia Eagles vs. Washington Redskins (17/11/2013),"Philadelphia Eagles, Washington Redskins",Philadelphia Eagles,Washington Redskins,24,16,17/11/2013,11,2013
+Pittsburgh Steelers vs. Detroit Lions (17/11/2013),"Pittsburgh Steelers, Detroit Lions",Pittsburgh Steelers,Detroit Lions,37,27,17/11/2013,11,2013
+Seattle Seahawks vs. Minnesota Vikings (17/11/2013),"Seattle Seahawks, Minnesota Vikings",Seattle Seahawks,Minnesota Vikings,41,20,17/11/2013,11,2013
+Tampa Bay Buccaneers vs. Atlanta Falcons (17/11/2013),"Tampa Bay Buccaneers, Atlanta Falcons",Tampa Bay Buccaneers,Atlanta Falcons,41,28,17/11/2013,11,2013
+Pittsburgh Steelers vs. Tennessee Titans (17/11/2014),"Pittsburgh Steelers, Tennessee Titans",Pittsburgh Steelers,Tennessee Titans,,,17/11/2014,11,2014
+Tennessee Titans vs. New York Jets (17/12/2012),"Tennessee Titans, New York Jets",Tennessee Titans,New York Jets,14,10,17/12/2012,15,2012
+Atlanta Falcons vs. Denver Broncos (17/9/2012),"Atlanta Falcons, Denver Broncos",Atlanta Falcons,Denver Broncos,27,21,17/09/2012,2,2012
+San Francisco 49ers vs. Seattle Seahawks (18/10/2012),"San Francisco 49ers, Seattle Seahawks",San Francisco 49ers,Seattle Seahawks,13,6,18/10/2012,7,2012
+Atlanta Falcons vs. Arizona Cardinals (18/11/2012),"Atlanta Falcons, Arizona Cardinals",Atlanta Falcons,Arizona Cardinals,23,19,18/11/2012,11,2012
+Baltimore Ravens vs. Pittsburgh Steelers (18/11/2012),"Baltimore Ravens, Pittsburgh Steelers",Baltimore Ravens,Pittsburgh Steelers,13,10,18/11/2012,11,2012
+Cincinnati Bengals vs. Kansas City Chiefs (18/11/2012),"Cincinnati Bengals, Kansas City Chiefs",Cincinnati Bengals,Kansas City Chiefs,28,6,18/11/2012,11,2012
+Dallas Cowboys vs. Cleveland Browns (18/11/2012),"Dallas Cowboys, Cleveland Browns",Dallas Cowboys,Cleveland Browns,23,20,18/11/2012,11,2012
+Denver Broncos vs. San Diego Chargers (18/11/2012),"Denver Broncos, San Diego Chargers",Denver Broncos,San Diego Chargers,30,23,18/11/2012,11,2012
+Green Bay Packers vs. Detroit Lions (18/11/2012),"Green Bay Packers, Detroit Lions",Green Bay Packers,Detroit Lions,24,20,18/11/2012,11,2012
+Houston Texans vs. Jacksonville Jaguars (18/11/2012),"Houston Texans, Jacksonville Jaguars",Houston Texans,Jacksonville Jaguars,43,37,18/11/2012,11,2012
+New England Patriots vs. Indianapolis Colts (18/11/2012),"New England Patriots, Indianapolis Colts",New England Patriots,Indianapolis Colts,59,24,18/11/2012,11,2012
+New Orleans Saints vs. Oakland Raiders (18/11/2012),"New Orleans Saints, Oakland Raiders",New Orleans Saints,Oakland Raiders,38,17,18/11/2012,11,2012
+New York Jets vs. St. Louis Rams (18/11/2012),"New York Jets, St. Louis Rams",New York Jets,St. Louis Rams,27,13,18/11/2012,11,2012
+Tampa Bay Buccaneers vs. Carolina Panthers (18/11/2012),"Tampa Bay Buccaneers, Carolina Panthers",Tampa Bay Buccaneers,Carolina Panthers,27,21,18/11/2012,11,2012
+Washington Redskins vs. Philadelphia Eagles (18/11/2012),"Washington Redskins, Philadelphia Eagles",Washington Redskins,Philadelphia Eagles,31,6,18/11/2012,11,2012
+Carolina Panthers vs. New England Patriots (18/11/2013),"Carolina Panthers, New England Patriots",Carolina Panthers,New England Patriots,24,20,18/11/2013,11,2013
+Tennessee Titans vs. Jacksonville Jaguars (18/12/2014),"Tennessee Titans, Jacksonville Jaguars",Tennessee Titans,Jacksonville Jaguars,,,18/12/2014,16,2014
+Atlanta Falcons vs. Tampa Bay Buccaneers (18/9/2014),"Atlanta Falcons, Tampa Bay Buccaneers",Atlanta Falcons,Tampa Bay Buccaneers,56,14,18/09/2014,3,2014
+Denver Broncos vs. New England Patriots (19/1/2014),"Denver Broncos, New England Patriots",Denver Broncos,New England Patriots,26,16,19/01/2014,20,2013
+Seattle Seahawks vs. San Francisco 49ers (19/1/2014),"Seattle Seahawks, San Francisco 49ers",Seattle Seahawks,San Francisco 49ers,23,17,19/01/2014,20,2013
+Arizona Cardinals vs. Oakland Raiders (19/10/2014),"Arizona Cardinals, Oakland Raiders",Arizona Cardinals,Oakland Raiders,24,13,19/10/2014,7,2014
+Baltimore Ravens vs. Atlanta Falcons (19/10/2014),"Baltimore Ravens, Atlanta Falcons",Baltimore Ravens,Atlanta Falcons,29,7,19/10/2014,7,2014
+Buffalo Bills vs. Minnesota Vikings (19/10/2014),"Buffalo Bills, Minnesota Vikings",Buffalo Bills,Minnesota Vikings,17,16,19/10/2014,7,2014
+Dallas Cowboys vs. New York Giants (19/10/2014),"Dallas Cowboys, New York Giants",Dallas Cowboys,New York Giants,31,21,19/10/2014,7,2014
+Denver Broncos vs. San Francisco 49ers (19/10/2014),"Denver Broncos, San Francisco 49ers",Denver Broncos,San Francisco 49ers,42,17,19/10/2014,7,2014
+Detroit Lions vs. New Orleans Saints (19/10/2014),"Detroit Lions, New Orleans Saints",Detroit Lions,New Orleans Saints,24,23,19/10/2014,7,2014
+Green Bay Packers vs. Carolina Panthers (19/10/2014),"Green Bay Packers, Carolina Panthers",Green Bay Packers,Carolina Panthers,38,17,19/10/2014,7,2014
+Indianapolis Colts vs. Cincinnati Bengals (19/10/2014),"Indianapolis Colts, Cincinnati Bengals",Indianapolis Colts,Cincinnati Bengals,27,0,19/10/2014,7,2014
+Jacksonville Jaguars vs. Cleveland Browns (19/10/2014),"Jacksonville Jaguars, Cleveland Browns",Jacksonville Jaguars,Cleveland Browns,24,6,19/10/2014,7,2014
+Kansas City Chiefs vs. San Diego Chargers (19/10/2014),"Kansas City Chiefs, San Diego Chargers",Kansas City Chiefs,San Diego Chargers,23,20,19/10/2014,7,2014
+Miami Dolphins vs. Chicago Bears (19/10/2014),"Miami Dolphins, Chicago Bears",Miami Dolphins,Chicago Bears,27,14,19/10/2014,7,2014
+St. Louis Rams vs. Seattle Seahawks (19/10/2014),"St. Louis Rams, Seattle Seahawks",St. Louis Rams,Seattle Seahawks,28,26,19/10/2014,7,2014
+Washington Redskins vs. Tennessee Titans (19/10/2014),"Washington Redskins, Tennessee Titans",Washington Redskins,Tennessee Titans,19,17,19/10/2014,7,2014
+San Francisco 49ers vs. Chicago Bears (19/11/2012),"San Francisco 49ers, Chicago Bears",San Francisco 49ers,Chicago Bears,32,7,19/11/2012,11,2012
+Kansas City Chiefs vs. Philadelphia Eagles (19/9/2013),"Kansas City Chiefs, Philadelphia Eagles",Kansas City Chiefs,Philadelphia Eagles,26,16,19/09/2013,3,2013
+Baltimore Ravens vs. New England Patriots (20/1/2013),"Baltimore Ravens, New England Patriots",Baltimore Ravens,New England Patriots,28,13,20/01/2013,20,2012
+San Francisco 49ers vs. Atlanta Falcons (20/1/2013),"San Francisco 49ers, Atlanta Falcons",San Francisco 49ers,Atlanta Falcons,28,24,20/01/2013,20,2012
+Atlanta Falcons vs. Tampa Bay Buccaneers (20/10/2013),"Atlanta Falcons, Tampa Bay Buccaneers",Atlanta Falcons,Tampa Bay Buccaneers,31,23,20/10/2013,7,2013
+Buffalo Bills vs. Miami Dolphins (20/10/2013),"Buffalo Bills, Miami Dolphins",Buffalo Bills,Miami Dolphins,23,21,20/10/2013,7,2013
+Carolina Panthers vs. St. Louis Rams (20/10/2013),"Carolina Panthers, St. Louis Rams",Carolina Panthers,St. Louis Rams,30,15,20/10/2013,7,2013
+Cincinnati Bengals vs. Detroit Lions (20/10/2013),"Cincinnati Bengals, Detroit Lions",Cincinnati Bengals,Detroit Lions,27,24,20/10/2013,7,2013
+Dallas Cowboys vs. Philadelphia Eagles (20/10/2013),"Dallas Cowboys, Philadelphia Eagles",Dallas Cowboys,Philadelphia Eagles,17,3,20/10/2013,7,2013
+Green Bay Packers vs. Cleveland Browns (20/10/2013),"Green Bay Packers, Cleveland Browns",Green Bay Packers,Cleveland Browns,31,13,20/10/2013,7,2013
+Indianapolis Colts vs. Denver Broncos (20/10/2013),"Indianapolis Colts, Denver Broncos",Indianapolis Colts,Denver Broncos,39,33,20/10/2013,7,2013
+Kansas City Chiefs vs. Houston Texans (20/10/2013),"Kansas City Chiefs, Houston Texans",Kansas City Chiefs,Houston Texans,17,16,20/10/2013,7,2013
+New York Jets vs. New England Patriots (20/10/2013),"New York Jets, New England Patriots",New York Jets,New England Patriots,30,27,20/10/2013,7,2013
+Pittsburgh Steelers vs. Baltimore Ravens (20/10/2013),"Pittsburgh Steelers, Baltimore Ravens",Pittsburgh Steelers,Baltimore Ravens,19,16,20/10/2013,7,2013
+San Diego Chargers vs. Jacksonville Jaguars (20/10/2013),"San Diego Chargers, Jacksonville Jaguars",San Diego Chargers,Jacksonville Jaguars,24,6,20/10/2013,7,2013
+San Francisco 49ers vs. Tennessee Titans (20/10/2013),"San Francisco 49ers, Tennessee Titans",San Francisco 49ers,Tennessee Titans,31,17,20/10/2013,7,2013
+Washington Redskins vs. Chicago Bears (20/10/2013),"Washington Redskins, Chicago Bears",Washington Redskins,Chicago Bears,45,41,20/10/2013,7,2013
+Pittsburgh Steelers vs. Houston Texans (20/10/2014),"Pittsburgh Steelers, Houston Texans",Pittsburgh Steelers,Houston Texans,30,23,20/10/2014,7,2014
+Kansas City Chiefs vs. Oakland Raiders (20/11/2014),"Kansas City Chiefs, Oakland Raiders",Kansas City Chiefs,Oakland Raiders,,,20/11/2014,12,2014
+Philadelphia Eagles vs. Washington Redskins (20/12/2014),"Philadelphia Eagles, Washington Redskins",Philadelphia Eagles,Washington Redskins,,,20/12/2014,16,2014
+San Diego Chargers vs. San Francisco 49ers (20/12/2014),"San Diego Chargers, San Francisco 49ers",San Diego Chargers,San Francisco 49ers,,,20/12/2014,16,2014
+New York Giants vs. Carolina Panthers (20/9/2012),"New York Giants, Carolina Panthers",New York Giants,Carolina Panthers,36,7,20/09/2012,3,2012
+Dallas Cowboys vs. Carolina Panthers (21/10/2012),"Dallas Cowboys, Carolina Panthers",Dallas Cowboys,Carolina Panthers,19,14,21/10/2012,7,2012
+Green Bay Packers vs. St. Louis Rams (21/10/2012),"Green Bay Packers, St. Louis Rams",Green Bay Packers,St. Louis Rams,30,20,21/10/2012,7,2012
+Houston Texans vs. Baltimore Ravens (21/10/2012),"Houston Texans, Baltimore Ravens",Houston Texans,Baltimore Ravens,43,13,21/10/2012,7,2012
+Indianapolis Colts vs. Cleveland Browns (21/10/2012),"Indianapolis Colts, Cleveland Browns",Indianapolis Colts,Cleveland Browns,17,13,21/10/2012,7,2012
+Minnesota Vikings vs. Arizona Cardinals (21/10/2012),"Minnesota Vikings, Arizona Cardinals",Minnesota Vikings,Arizona Cardinals,21,14,21/10/2012,7,2012
+New England Patriots vs. New York Jets (21/10/2012),"New England Patriots, New York Jets",New England Patriots,New York Jets,29,26,21/10/2012,7,2012
+New Orleans Saints vs. Tampa Bay Buccaneers (21/10/2012),"New Orleans Saints, Tampa Bay Buccaneers",New Orleans Saints,Tampa Bay Buccaneers,35,28,21/10/2012,7,2012
+New York Giants vs. Washington Redskins (21/10/2012),"New York Giants, Washington Redskins",New York Giants,Washington Redskins,27,23,21/10/2012,7,2012
+Oakland Raiders vs. Jacksonville Jaguars (21/10/2012),"Oakland Raiders, Jacksonville Jaguars",Oakland Raiders,Jacksonville Jaguars,26,23,21/10/2012,7,2012
+Pittsburgh Steelers vs. Cincinnati Bengals (21/10/2012),"Pittsburgh Steelers, Cincinnati Bengals",Pittsburgh Steelers,Cincinnati Bengals,24,17,21/10/2012,7,2012
+Tennessee Titans vs. Buffalo Bills (21/10/2012),"Tennessee Titans, Buffalo Bills",Tennessee Titans,Buffalo Bills,35,34,21/10/2012,7,2012
+New York Giants vs. Minnesota Vikings (21/10/2013),"New York Giants, Minnesota Vikings",New York Giants,Minnesota Vikings,23,7,21/10/2013,7,2013
+New Orleans Saints vs. Atlanta Falcons (21/11/2013),"New Orleans Saints, Atlanta Falcons",New Orleans Saints,Atlanta Falcons,17,13,21/11/2013,12,2013
+Atlanta Falcons vs. New Orleans Saints (21/12/2014),"Atlanta Falcons, New Orleans Saints",Atlanta Falcons,New Orleans Saints,,,21/12/2014,16,2014
+Baltimore Ravens vs. Houston Texans (21/12/2014),"Baltimore Ravens, Houston Texans",Baltimore Ravens,Houston Texans,,,21/12/2014,16,2014
+Buffalo Bills vs. Oakland Raiders (21/12/2014),"Buffalo Bills, Oakland Raiders",Buffalo Bills,Oakland Raiders,,,21/12/2014,16,2014
+Cleveland Browns vs. Carolina Panthers (21/12/2014),"Cleveland Browns, Carolina Panthers",Cleveland Browns,Carolina Panthers,,,21/12/2014,16,2014
+Cleveland Browns vs. Green Bay Packers (21/12/2014),"Cleveland Browns, Green Bay Packers",Cleveland Browns,Green Bay Packers,,,21/12/2014,16,2014
+Detroit Lions vs. Chicago Bears (21/12/2014),"Detroit Lions, Chicago Bears",Detroit Lions,Chicago Bears,,,21/12/2014,16,2014
+Green Bay Packers vs. New York Jets (21/12/2014),"Green Bay Packers, New York Jets",Green Bay Packers,New York Jets,,,21/12/2014,16,2014
+Green Bay Packers vs. Tampa Bay Buccaneers (21/12/2014),"Green Bay Packers, Tampa Bay Buccaneers",Green Bay Packers,Tampa Bay Buccaneers,,,21/12/2014,16,2014
+Indianapolis Colts vs. Dallas Cowboys (21/12/2014),"Indianapolis Colts, Dallas Cowboys",Indianapolis Colts,Dallas Cowboys,,,21/12/2014,16,2014
+Kansas City Chiefs vs. Pittsburgh Steelers (21/12/2014),"Kansas City Chiefs, Pittsburgh Steelers",Kansas City Chiefs,Pittsburgh Steelers,,,21/12/2014,16,2014
+Minnesota Vikings vs. Miami Dolphins (21/12/2014),"Minnesota Vikings, Miami Dolphins",Minnesota Vikings,Miami Dolphins,,,21/12/2014,16,2014
+New England Patriots vs. New York Jets (21/12/2014),"New England Patriots, New York Jets",New England Patriots,New York Jets,,,21/12/2014,16,2014
+New York Giants vs. St. Louis Rams (21/12/2014),"New York Giants, St. Louis Rams",New York Giants,St. Louis Rams,,,21/12/2014,16,2014
+Seattle Seahawks vs. Arizona Cardinals (21/12/2014),"Seattle Seahawks, Arizona Cardinals",Seattle Seahawks,Arizona Cardinals,,,21/12/2014,16,2014
+Arizona Cardinals vs. San Francisco 49ers (21/9/2014),"Arizona Cardinals, San Francisco 49ers",Arizona Cardinals,San Francisco 49ers,23,14,21/09/2014,3,2014
+Baltimore Ravens vs. Cleveland Browns (21/9/2014),"Baltimore Ravens, Cleveland Browns",Baltimore Ravens,Cleveland Browns,23,21,21/09/2014,3,2014
+Cincinnati Bengals vs. Tennessee Titans (21/9/2014),"Cincinnati Bengals, Tennessee Titans",Cincinnati Bengals,Tennessee Titans,33,7,21/09/2014,3,2014
+Dallas Cowboys vs. St. Louis Rams (21/9/2014),"Dallas Cowboys, St. Louis Rams",Dallas Cowboys,St. Louis Rams,34,31,21/09/2014,3,2014
+Detroit Lions vs. Green Bay Packers (21/9/2014),"Detroit Lions, Green Bay Packers",Detroit Lions,Green Bay Packers,19,7,21/09/2014,3,2014
+Indianapolis Colts vs. Jacksonville Jaguars (21/9/2014),"Indianapolis Colts, Jacksonville Jaguars",Indianapolis Colts,Jacksonville Jaguars,44,17,21/09/2014,3,2014
+Kansas City Chiefs vs. Miami Dolphins (21/9/2014),"Kansas City Chiefs, Miami Dolphins",Kansas City Chiefs,Miami Dolphins,34,15,21/09/2014,3,2014
+New England Patriots vs. Oakland Raiders (21/9/2014),"New England Patriots, Oakland Raiders",New England Patriots,Oakland Raiders,16,9,21/09/2014,3,2014
+New Orleans Saints vs. Minnesota Vikings (21/9/2014),"New Orleans Saints, Minnesota Vikings",New Orleans Saints,Minnesota Vikings,20,9,21/09/2014,3,2014
+New York Giants vs. Houston Texans (21/9/2014),"New York Giants, Houston Texans",New York Giants,Houston Texans,30,17,21/09/2014,3,2014
+Philadelphia Eagles vs. Washington Redskins (21/9/2014),"Philadelphia Eagles, Washington Redskins",Philadelphia Eagles,Washington Redskins,37,34,21/09/2014,3,2014
+Pittsburgh Steelers vs. Carolina Panthers (21/9/2014),"Pittsburgh Steelers, Carolina Panthers",Pittsburgh Steelers,Carolina Panthers,37,19,21/09/2014,3,2014
+San Diego Chargers vs. Buffalo Bills (21/9/2014),"San Diego Chargers, Buffalo Bills",San Diego Chargers,Buffalo Bills,22,10,21/09/2014,3,2014
+Seattle Seahawks vs. Denver Broncos (21/9/2014),"Seattle Seahawks, Denver Broncos",Seattle Seahawks,Denver Broncos,26,20,21/09/2014,3,2014
+Chicago Bears vs. Detroit Lions (22/10/2012),"Chicago Bears, Detroit Lions",Chicago Bears,Detroit Lions,13,7,22/10/2012,7,2012
+Houston Texans vs. Detroit Lions (22/11/2012),"Houston Texans, Detroit Lions",Houston Texans,Detroit Lions,34,31,22/11/2012,12,2012
+New England Patriots vs. New York Jets (22/11/2012),"New England Patriots, New York Jets",New England Patriots,New York Jets,49,19,22/11/2012,12,2012
+Washington Redskins vs. Dallas Cowboys (22/11/2012),"Washington Redskins, Dallas Cowboys",Washington Redskins,Dallas Cowboys,38,31,22/11/2012,12,2012
+Atlanta Falcons vs. Detroit Lions (22/12/2012),"Atlanta Falcons, Detroit Lions",Atlanta Falcons,Detroit Lions,31,18,22/12/2012,16,2012
+Arizona Cardinals vs. Seattle Seahawks (22/12/2013),"Arizona Cardinals, Seattle Seahawks",Arizona Cardinals,Seattle Seahawks,17,10,22/12/2013,16,2013
+Buffalo Bills vs. Miami Dolphins (22/12/2013),"Buffalo Bills, Miami Dolphins",Buffalo Bills,Miami Dolphins,19,0,22/12/2013,16,2013
+Carolina Panthers vs. New Orleans Saints (22/12/2013),"Carolina Panthers, New Orleans Saints",Carolina Panthers,New Orleans Saints,17,13,22/12/2013,16,2013
+Cincinnati Bengals vs. Minnesota Vikings (22/12/2013),"Cincinnati Bengals, Minnesota Vikings",Cincinnati Bengals,Minnesota Vikings,42,14,22/12/2013,16,2013
+Dallas Cowboys vs. Washington Redskins (22/12/2013),"Dallas Cowboys, Washington Redskins",Dallas Cowboys,Washington Redskins,24,23,22/12/2013,16,2013
+Denver Broncos vs. Houston Texans (22/12/2013),"Denver Broncos, Houston Texans",Denver Broncos,Houston Texans,37,13,22/12/2013,16,2013
+Indianapolis Colts vs. Kansas City Chiefs (22/12/2013),"Indianapolis Colts, Kansas City Chiefs",Indianapolis Colts,Kansas City Chiefs,23,7,22/12/2013,16,2013
+New England Patriots vs. Baltimore Ravens (22/12/2013),"New England Patriots, Baltimore Ravens",New England Patriots,Baltimore Ravens,41,7,22/12/2013,16,2013
+New York Giants vs. Detroit Lions (22/12/2013),"New York Giants, Detroit Lions",New York Giants,Detroit Lions,23,20,22/12/2013,16,2013
+New York Jets vs. Cleveland Browns (22/12/2013),"New York Jets, Cleveland Browns",New York Jets,Cleveland Browns,24,13,22/12/2013,16,2013
+Philadelphia Eagles vs. Chicago Bears (22/12/2013),"Philadelphia Eagles, Chicago Bears",Philadelphia Eagles,Chicago Bears,54,11,22/12/2013,16,2013
+Pittsburgh Steelers vs. Green Bay Packers (22/12/2013),"Pittsburgh Steelers, Green Bay Packers",Pittsburgh Steelers,Green Bay Packers,38,31,22/12/2013,16,2013
+San Diego Chargers vs. Oakland Raiders (22/12/2013),"San Diego Chargers, Oakland Raiders",San Diego Chargers,Oakland Raiders,26,13,22/12/2013,16,2013
+St. Louis Rams vs. Tampa Bay Buccaneers (22/12/2013),"St. Louis Rams, Tampa Bay Buccaneers",St. Louis Rams,Tampa Bay Buccaneers,23,13,22/12/2013,16,2013
+Tennessee Titans vs. Jacksonville Jaguars (22/12/2013),"Tennessee Titans, Jacksonville Jaguars",Tennessee Titans,Jacksonville Jaguars,20,16,22/12/2013,16,2013
+Denver Broncos vs. Cincinnati Bengals (22/12/2014),"Denver Broncos, Cincinnati Bengals",Denver Broncos,Cincinnati Bengals,,,22/12/2014,16,2014
+Baltimore Ravens vs. Houston Texans (22/9/2013),"Baltimore Ravens, Houston Texans",Baltimore Ravens,Houston Texans,30,9,22/09/2013,3,2013
+Carolina Panthers vs. New York Giants (22/9/2013),"Carolina Panthers, New York Giants",Carolina Panthers,New York Giants,38,0,22/09/2013,3,2013
+Chicago Bears vs. Pittsburgh Steelers (22/9/2013),"Chicago Bears, Pittsburgh Steelers",Chicago Bears,Pittsburgh Steelers,40,23,22/09/2013,3,2013
+Cincinnati Bengals vs. Green Bay Packers (22/9/2013),"Cincinnati Bengals, Green Bay Packers",Cincinnati Bengals,Green Bay Packers,34,30,22/09/2013,3,2013
+Cleveland Browns vs. Minnesota Vikings (22/9/2013),"Cleveland Browns, Minnesota Vikings",Cleveland Browns,Minnesota Vikings,31,27,22/09/2013,3,2013
+Dallas Cowboys vs. St. Louis Rams (22/9/2013),"Dallas Cowboys, St. Louis Rams",Dallas Cowboys,St. Louis Rams,31,7,22/09/2013,3,2013
+Detroit Lions vs. Washington Redskins (22/9/2013),"Detroit Lions, Washington Redskins",Detroit Lions,Washington Redskins,27,20,22/09/2013,3,2013
+Indianapolis Colts vs. San Francisco 49ers (22/9/2013),"Indianapolis Colts, San Francisco 49ers",Indianapolis Colts,San Francisco 49ers,27,7,22/09/2013,3,2013
+Miami Dolphins vs. Atlanta Falcons (22/9/2013),"Miami Dolphins, Atlanta Falcons",Miami Dolphins,Atlanta Falcons,27,23,22/09/2013,3,2013
+New England Patriots vs. Tampa Bay Buccaneers (22/9/2013),"New England Patriots, Tampa Bay Buccaneers",New England Patriots,Tampa Bay Buccaneers,23,3,22/09/2013,3,2013
+New Orleans Saints vs. Arizona Cardinals (22/9/2013),"New Orleans Saints, Arizona Cardinals",New Orleans Saints,Arizona Cardinals,31,7,22/09/2013,3,2013
+New York Jets vs. Buffalo Bills (22/9/2013),"New York Jets, Buffalo Bills",New York Jets,Buffalo Bills,27,20,22/09/2013,3,2013
+Seattle Seahawks vs. Jacksonville Jaguars (22/9/2013),"Seattle Seahawks, Jacksonville Jaguars",Seattle Seahawks,Jacksonville Jaguars,45,17,22/09/2013,3,2013
+Tennessee Titans vs. San Diego Chargers (22/9/2013),"Tennessee Titans, San Diego Chargers",Tennessee Titans,San Diego Chargers,20,17,22/09/2013,3,2013
+Chicago Bears vs. New York Jets (22/9/2014),"Chicago Bears, New York Jets",Chicago Bears,New York Jets,27,19,22/09/2014,3,2014
+Denver Broncos vs. San Diego Chargers (23/10/2014),"Denver Broncos, San Diego Chargers",Denver Broncos,San Diego Chargers,35,21,23/10/2014,8,2014
+Arizona Cardinals vs. Seattle Seahawks (23/11/2014),"Arizona Cardinals, Seattle Seahawks",Arizona Cardinals,Seattle Seahawks,,,23/11/2014,12,2014
+Cincinnati Bengals vs. Houston Texans (23/11/2014),"Cincinnati Bengals, Houston Texans",Cincinnati Bengals,Houston Texans,,,23/11/2014,12,2014
+Cleveland Browns vs. Atlanta Falcons (23/11/2014),"Cleveland Browns, Atlanta Falcons",Cleveland Browns,Atlanta Falcons,,,23/11/2014,12,2014
+Dallas Cowboys vs. New York Giants (23/11/2014),"Dallas Cowboys, New York Giants",Dallas Cowboys,New York Giants,,,23/11/2014,12,2014
+Detroit Lions vs. Green Bay Packers (23/11/2014),"Detroit Lions, Green Bay Packers",Detroit Lions,Green Bay Packers,,,23/11/2014,12,2014
+Detroit Lions vs. New England Patriots (23/11/2014),"Detroit Lions, New England Patriots",Detroit Lions,New England Patriots,,,23/11/2014,12,2014
+Green Bay Packers vs. Minnesota Vikings (23/11/2014),"Green Bay Packers, Minnesota Vikings",Green Bay Packers,Minnesota Vikings,,,23/11/2014,12,2014
+Jacksonville Jaguars vs. Indianapolis Colts (23/11/2014),"Jacksonville Jaguars, Indianapolis Colts",Jacksonville Jaguars,Indianapolis Colts,,,23/11/2014,12,2014
+Miami Dolphins vs. Denver Broncos (23/11/2014),"Miami Dolphins, Denver Broncos",Miami Dolphins,Denver Broncos,,,23/11/2014,12,2014
+New York Jets vs. Buffalo Bills (23/11/2014),"New York Jets, Buffalo Bills",New York Jets,Buffalo Bills,,,23/11/2014,12,2014
+St. Louis Rams vs. San Diego Chargers (23/11/2014),"St. Louis Rams, San Diego Chargers",St. Louis Rams,San Diego Chargers,,,23/11/2014,12,2014
+Tampa Bay Buccaneers vs. Chicago Bears (23/11/2014),"Tampa Bay Buccaneers, Chicago Bears",Tampa Bay Buccaneers,Chicago Bears,,,23/11/2014,12,2014
+Tennessee Titans vs. Philadelphia Eagles (23/11/2014),"Tennessee Titans, Philadelphia Eagles",Tennessee Titans,Philadelphia Eagles,,,23/11/2014,12,2014
+Washington Redskins vs. San Francisco 49ers (23/11/2014),"Washington Redskins, San Francisco 49ers",Washington Redskins,San Francisco 49ers,,,23/11/2014,12,2014
+Baltimore Ravens vs. New York Giants (23/12/2012),"Baltimore Ravens, New York Giants",Baltimore Ravens,New York Giants,33,14,23/12/2012,16,2012
+Carolina Panthers vs. Oakland Raiders (23/12/2012),"Carolina Panthers, Oakland Raiders",Carolina Panthers,Oakland Raiders,17,6,23/12/2012,16,2012
+Chicago Bears vs. Arizona Cardinals (23/12/2012),"Chicago Bears, Arizona Cardinals",Chicago Bears,Arizona Cardinals,28,13,23/12/2012,16,2012
+Cincinnati Bengals vs. Pittsburgh Steelers (23/12/2012),"Cincinnati Bengals, Pittsburgh Steelers",Cincinnati Bengals,Pittsburgh Steelers,13,10,23/12/2012,16,2012
+Denver Broncos vs. Cleveland Browns (23/12/2012),"Denver Broncos, Cleveland Browns",Denver Broncos,Cleveland Browns,34,12,23/12/2012,16,2012
+Green Bay Packers vs. Tennessee Titans (23/12/2012),"Green Bay Packers, Tennessee Titans",Green Bay Packers,Tennessee Titans,55,7,23/12/2012,16,2012
+Indianapolis Colts vs. Kansas City Chiefs (23/12/2012),"Indianapolis Colts, Kansas City Chiefs",Indianapolis Colts,Kansas City Chiefs,20,13,23/12/2012,16,2012
+Miami Dolphins vs. Buffalo Bills (23/12/2012),"Miami Dolphins, Buffalo Bills",Miami Dolphins,Buffalo Bills,24,10,23/12/2012,16,2012
+Minnesota Vikings vs. Houston Texans (23/12/2012),"Minnesota Vikings, Houston Texans",Minnesota Vikings,Houston Texans,23,6,23/12/2012,16,2012
+New England Patriots vs. Jacksonville Jaguars (23/12/2012),"New England Patriots, Jacksonville Jaguars",New England Patriots,Jacksonville Jaguars,23,16,23/12/2012,16,2012
+New Orleans Saints vs. Dallas Cowboys (23/12/2012),"New Orleans Saints, Dallas Cowboys",New Orleans Saints,Dallas Cowboys,34,31,23/12/2012,16,2012
+San Diego Chargers vs. New York Jets (23/12/2012),"San Diego Chargers, New York Jets",San Diego Chargers,New York Jets,27,17,23/12/2012,16,2012
+Seattle Seahawks vs. San Francisco 49ers (23/12/2012),"Seattle Seahawks, San Francisco 49ers",Seattle Seahawks,San Francisco 49ers,42,13,23/12/2012,16,2012
+St. Louis Rams vs. Tampa Bay Buccaneers (23/12/2012),"St. Louis Rams, Tampa Bay Buccaneers",St. Louis Rams,Tampa Bay Buccaneers,28,13,23/12/2012,16,2012
+Washington Redskins vs. Philadelphia Eagles (23/12/2012),"Washington Redskins, Philadelphia Eagles",Washington Redskins,Philadelphia Eagles,27,20,23/12/2012,16,2012
+San Francisco 49ers vs. Atlanta Falcons (23/12/2013),"San Francisco 49ers, Atlanta Falcons",San Francisco 49ers,Atlanta Falcons,34,24,23/12/2013,16,2013
+Arizona Cardinals vs. Philadelphia Eagles (23/9/2012),"Arizona Cardinals, Philadelphia Eagles",Arizona Cardinals,Philadelphia Eagles,27,6,23/09/2012,3,2012
+Atlanta Falcons vs. San Diego Chargers (23/9/2012),"Atlanta Falcons, San Diego Chargers",Atlanta Falcons,San Diego Chargers,27,3,23/09/2012,3,2012
+Baltimore Ravens vs. New England Patriots (23/9/2012),"Baltimore Ravens, New England Patriots",Baltimore Ravens,New England Patriots,31,30,23/09/2012,3,2012
+Buffalo Bills vs. Cleveland Browns (23/9/2012),"Buffalo Bills, Cleveland Browns",Buffalo Bills,Cleveland Browns,24,14,23/09/2012,3,2012
+Chicago Bears vs. St. Louis Rams (23/9/2012),"Chicago Bears, St. Louis Rams",Chicago Bears,St. Louis Rams,23,6,23/09/2012,3,2012
+Cincinnati Bengals vs. Washington Redskins (23/9/2012),"Cincinnati Bengals, Washington Redskins",Cincinnati Bengals,Washington Redskins,38,31,23/09/2012,3,2012
+Dallas Cowboys vs. Tampa Bay Buccaneers (23/9/2012),"Dallas Cowboys, Tampa Bay Buccaneers",Dallas Cowboys,Tampa Bay Buccaneers,16,10,23/09/2012,3,2012
+Houston Texans vs. Denver Broncos (23/9/2012),"Houston Texans, Denver Broncos",Houston Texans,Denver Broncos,31,25,23/09/2012,3,2012
+Jacksonville Jaguars vs. Indianapolis Colts (23/9/2012),"Jacksonville Jaguars, Indianapolis Colts",Jacksonville Jaguars,Indianapolis Colts,22,17,23/09/2012,3,2012
+Kansas City Chiefs vs. New Orleans Saints (23/9/2012),"Kansas City Chiefs, New Orleans Saints",Kansas City Chiefs,New Orleans Saints,27,24,23/09/2012,3,2012
+Minnesota Vikings vs. San Francisco 49ers (23/9/2012),"Minnesota Vikings, San Francisco 49ers",Minnesota Vikings,San Francisco 49ers,24,13,23/09/2012,3,2012
+New York Jets vs. Miami Dolphins (23/9/2012),"New York Jets, Miami Dolphins",New York Jets,Miami Dolphins,23,20,23/09/2012,3,2012
+Oakland Raiders vs. Pittsburgh Steelers (23/9/2012),"Oakland Raiders, Pittsburgh Steelers",Oakland Raiders,Pittsburgh Steelers,34,31,23/09/2012,3,2012
+Tennessee Titans vs. Detroit Lions (23/9/2012),"Tennessee Titans, Detroit Lions",Tennessee Titans,Detroit Lions,44,41,23/09/2012,3,2012
+Denver Broncos vs. Oakland Raiders (23/9/2013),"Denver Broncos, Oakland Raiders",Denver Broncos,Oakland Raiders,37,21,23/09/2013,3,2013
+Carolina Panthers vs. Tampa Bay Buccaneers (24/10/2013),"Carolina Panthers, Tampa Bay Buccaneers",Carolina Panthers,Tampa Bay Buccaneers,31,13,24/10/2013,8,2013
+Arizona Cardinals vs. Indianapolis Colts (24/11/2013),"Arizona Cardinals, Indianapolis Colts",Arizona Cardinals,Indianapolis Colts,40,11,24/11/2013,12,2013
+Baltimore Ravens vs. New York Jets (24/11/2013),"Baltimore Ravens, New York Jets",Baltimore Ravens,New York Jets,19,3,24/11/2013,12,2013
+Carolina Panthers vs. Miami Dolphins (24/11/2013),"Carolina Panthers, Miami Dolphins",Carolina Panthers,Miami Dolphins,20,16,24/11/2013,12,2013
+Dallas Cowboys vs. New York Giants (24/11/2013),"Dallas Cowboys, New York Giants",Dallas Cowboys,New York Giants,24,21,24/11/2013,12,2013
+Jacksonville Jaguars vs. Houston Texans (24/11/2013),"Jacksonville Jaguars, Houston Texans",Jacksonville Jaguars,Houston Texans,13,6,24/11/2013,12,2013
+Minnesota Vikings vs. Green Bay Packers (24/11/2013),"Minnesota Vikings, Green Bay Packers",Minnesota Vikings,Green Bay Packers,26,26,24/11/2013,12,2013
+New England Patriots vs. Denver Broncos (24/11/2013),"New England Patriots, Denver Broncos",New England Patriots,Denver Broncos,34,31,24/11/2013,12,2013
+Pittsburgh Steelers vs. Cleveland Browns (24/11/2013),"Pittsburgh Steelers, Cleveland Browns",Pittsburgh Steelers,Cleveland Browns,27,11,24/11/2013,12,2013
+San Diego Chargers vs. Kansas City Chiefs (24/11/2013),"San Diego Chargers, Kansas City Chiefs",San Diego Chargers,Kansas City Chiefs,41,38,24/11/2013,12,2013
+St. Louis Rams vs. Chicago Bears (24/11/2013),"St. Louis Rams, Chicago Bears",St. Louis Rams,Chicago Bears,42,21,24/11/2013,12,2013
+Tampa Bay Buccaneers vs. Detroit Lions (24/11/2013),"Tampa Bay Buccaneers, Detroit Lions",Tampa Bay Buccaneers,Detroit Lions,24,21,24/11/2013,12,2013
+Tennessee Titans vs. Oakland Raiders (24/11/2013),"Tennessee Titans, Oakland Raiders",Tennessee Titans,Oakland Raiders,23,19,24/11/2013,12,2013
+Baltimore Ravens vs. New Orleans Saints (24/11/2014),"Baltimore Ravens, New Orleans Saints",Baltimore Ravens,New Orleans Saints,,,24/11/2014,12,2014
+Seattle Seahawks vs. Green Bay Packers (24/9/2012),"Seattle Seahawks, Green Bay Packers",Seattle Seahawks,Green Bay Packers,14,12,24/09/2012,3,2012
+Tampa Bay Buccaneers vs. Minnesota Vikings (25/10/2012),"Tampa Bay Buccaneers, Minnesota Vikings",Tampa Bay Buccaneers,Minnesota Vikings,36,17,25/10/2012,8,2012
+Atlanta Falcons vs. Tampa Bay Buccaneers (25/11/2012),"Atlanta Falcons, Tampa Bay Buccaneers",Atlanta Falcons,Tampa Bay Buccaneers,24,23,25/11/2012,12,2012
+Baltimore Ravens vs. San Diego Chargers (25/11/2012),"Baltimore Ravens, San Diego Chargers",Baltimore Ravens,San Diego Chargers,16,13,25/11/2012,12,2012
+Chicago Bears vs. Minnesota Vikings (25/11/2012),"Chicago Bears, Minnesota Vikings",Chicago Bears,Minnesota Vikings,28,10,25/11/2012,12,2012
+Cincinnati Bengals vs. Oakland Raiders (25/11/2012),"Cincinnati Bengals, Oakland Raiders",Cincinnati Bengals,Oakland Raiders,34,10,25/11/2012,12,2012
+Cleveland Browns vs. Pittsburgh Steelers (25/11/2012),"Cleveland Browns, Pittsburgh Steelers",Cleveland Browns,Pittsburgh Steelers,20,14,25/11/2012,12,2012
+Denver Broncos vs. Kansas City Chiefs (25/11/2012),"Denver Broncos, Kansas City Chiefs",Denver Broncos,Kansas City Chiefs,17,9,25/11/2012,12,2012
+Indianapolis Colts vs. Buffalo Bills (25/11/2012),"Indianapolis Colts, Buffalo Bills",Indianapolis Colts,Buffalo Bills,20,13,25/11/2012,12,2012
+Jacksonville Jaguars vs. Tennessee Titans (25/11/2012),"Jacksonville Jaguars, Tennessee Titans",Jacksonville Jaguars,Tennessee Titans,24,19,25/11/2012,12,2012
+Miami Dolphins vs. Seattle Seahawks (25/11/2012),"Miami Dolphins, Seattle Seahawks",Miami Dolphins,Seattle Seahawks,24,21,25/11/2012,12,2012
+New York Giants vs. Green Bay Packers (25/11/2012),"New York Giants, Green Bay Packers",New York Giants,Green Bay Packers,38,10,25/11/2012,12,2012
+San Francisco 49ers vs. New Orleans Saints (25/11/2012),"San Francisco 49ers, New Orleans Saints",San Francisco 49ers,New Orleans Saints,31,21,25/11/2012,12,2012
+St. Louis Rams vs. Arizona Cardinals (25/11/2012),"St. Louis Rams, Arizona Cardinals",St. Louis Rams,Arizona Cardinals,31,17,25/11/2012,12,2012
+San Francisco 49ers vs. Washington Redskins (25/11/2013),"San Francisco 49ers, Washington Redskins",San Francisco 49ers,Washington Redskins,27,6,25/11/2013,12,2013
+New York Giants vs. Washington Redskins (25/9/2014),"New York Giants, Washington Redskins",New York Giants,Washington Redskins,45,14,25/09/2014,4,2014
+Arizona Cardinals vs. Philadelphia Eagles (26/10/2014),"Arizona Cardinals, Philadelphia Eagles",Arizona Cardinals,Philadelphia Eagles,24,20,26/10/2014,8,2014
+Buffalo Bills vs. New York Jets (26/10/2014),"Buffalo Bills, New York Jets",Buffalo Bills,New York Jets,43,23,26/10/2014,8,2014
+Cincinnati Bengals vs. Baltimore Ravens (26/10/2014),"Cincinnati Bengals, Baltimore Ravens",Cincinnati Bengals,Baltimore Ravens,27,24,26/10/2014,8,2014
+Cleveland Browns vs. Oakland Raiders (26/10/2014),"Cleveland Browns, Oakland Raiders",Cleveland Browns,Oakland Raiders,23,13,26/10/2014,8,2014
+Detroit Lions vs. Atlanta Falcons (26/10/2014),"Detroit Lions, Atlanta Falcons",Detroit Lions,Atlanta Falcons,22,21,26/10/2014,8,2014
+Houston Texans vs. Tennessee Titans (26/10/2014),"Houston Texans, Tennessee Titans",Houston Texans,Tennessee Titans,30,16,26/10/2014,8,2014
+Kansas City Chiefs vs. St. Louis Rams (26/10/2014),"Kansas City Chiefs, St. Louis Rams",Kansas City Chiefs,St. Louis Rams,34,7,26/10/2014,8,2014
+Miami Dolphins vs. Jacksonville Jaguars (26/10/2014),"Miami Dolphins, Jacksonville Jaguars",Miami Dolphins,Jacksonville Jaguars,27,13,26/10/2014,8,2014
+Minnesota Vikings vs. Tampa Bay Buccaneers (26/10/2014),"Minnesota Vikings, Tampa Bay Buccaneers",Minnesota Vikings,Tampa Bay Buccaneers,19,13,26/10/2014,8,2014
+New England Patriots vs. Chicago Bears (26/10/2014),"New England Patriots, Chicago Bears",New England Patriots,Chicago Bears,51,23,26/10/2014,8,2014
+New Orleans Saints vs. Green Bay Packers (26/10/2014),"New Orleans Saints, Green Bay Packers",New Orleans Saints,Green Bay Packers,44,23,26/10/2014,8,2014
+Pittsburgh Steelers vs. Indianapolis Colts (26/10/2014),"Pittsburgh Steelers, Indianapolis Colts",Pittsburgh Steelers,Indianapolis Colts,51,34,26/10/2014,8,2014
+Seattle Seahawks vs. Carolina Panthers (26/10/2014),"Seattle Seahawks, Carolina Panthers",Seattle Seahawks,Carolina Panthers,13,9,26/10/2014,8,2014
+Carolina Panthers vs. Philadelphia Eagles (26/11/2012),"Carolina Panthers, Philadelphia Eagles",Carolina Panthers,Philadelphia Eagles,30,22,26/11/2012,12,2012
+San Francisco 49ers vs. St. Louis Rams (26/9/2013),"San Francisco 49ers, St. Louis Rams",San Francisco 49ers,St. Louis Rams,35,11,26/09/2013,4,2013
+Arizona Cardinals vs. Atlanta Falcons (27/10/2013),"Arizona Cardinals, Atlanta Falcons",Arizona Cardinals,Atlanta Falcons,27,13,27/10/2013,8,2013
+Cincinnati Bengals vs. New York Jets (27/10/2013),"Cincinnati Bengals, New York Jets",Cincinnati Bengals,New York Jets,49,9,27/10/2013,8,2013
+Denver Broncos vs. Washington Redskins (27/10/2013),"Denver Broncos, Washington Redskins",Denver Broncos,Washington Redskins,45,21,27/10/2013,8,2013
+Detroit Lions vs. Dallas Cowboys (27/10/2013),"Detroit Lions, Dallas Cowboys",Detroit Lions,Dallas Cowboys,31,30,27/10/2013,8,2013
+Green Bay Packers vs. Minnesota Vikings (27/10/2013),"Green Bay Packers, Minnesota Vikings",Green Bay Packers,Minnesota Vikings,44,31,27/10/2013,8,2013
+Kansas City Chiefs vs. Cleveland Browns (27/10/2013),"Kansas City Chiefs, Cleveland Browns",Kansas City Chiefs,Cleveland Browns,23,17,27/10/2013,8,2013
+New England Patriots vs. Miami Dolphins (27/10/2013),"New England Patriots, Miami Dolphins",New England Patriots,Miami Dolphins,27,17,27/10/2013,8,2013
+New Orleans Saints vs. Buffalo Bills (27/10/2013),"New Orleans Saints, Buffalo Bills",New Orleans Saints,Buffalo Bills,35,17,27/10/2013,8,2013
+New York Giants vs. Philadelphia Eagles (27/10/2013),"New York Giants, Philadelphia Eagles",New York Giants,Philadelphia Eagles,15,7,27/10/2013,8,2013
+Oakland Raiders vs. Pittsburgh Steelers (27/10/2013),"Oakland Raiders, Pittsburgh Steelers",Oakland Raiders,Pittsburgh Steelers,21,18,27/10/2013,8,2013
+San Francisco 49ers vs. Jacksonville Jaguars (27/10/2013),"San Francisco 49ers, Jacksonville Jaguars",San Francisco 49ers,Jacksonville Jaguars,42,10,27/10/2013,8,2013
+Washington Redskins vs. Dallas Cowboys (27/10/2014),"Washington Redskins, Dallas Cowboys",Washington Redskins,Dallas Cowboys,20,17,27/10/2014,8,2014
+Chicago Bears vs. Detroit Lions (27/11/2014),"Chicago Bears, Detroit Lions",Chicago Bears,Detroit Lions,,,27/11/2014,13,2014
+Philadelphia Eagles vs. Dallas Cowboys (27/11/2014),"Philadelphia Eagles, Dallas Cowboys",Philadelphia Eagles,Dallas Cowboys,,,27/11/2014,13,2014
+Seattle Seahawks vs. San Francisco 49ers (27/11/2014),"Seattle Seahawks, San Francisco 49ers",Seattle Seahawks,San Francisco 49ers,,,27/11/2014,13,2014
+Baltimore Ravens vs. Cleveland Browns (27/9/2012),"Baltimore Ravens, Cleveland Browns",Baltimore Ravens,Cleveland Browns,23,16,27/09/2012,4,2012
+Atlanta Falcons vs. Philadelphia Eagles (28/10/2012),"Atlanta Falcons, Philadelphia Eagles",Atlanta Falcons,Philadelphia Eagles,30,17,28/10/2012,8,2012
+Chicago Bears vs. Carolina Panthers (28/10/2012),"Chicago Bears, Carolina Panthers",Chicago Bears,Carolina Panthers,23,22,28/10/2012,8,2012
+Cleveland Browns vs. San Diego Chargers (28/10/2012),"Cleveland Browns, San Diego Chargers",Cleveland Browns,San Diego Chargers,7,6,28/10/2012,8,2012
+Denver Broncos vs. New Orleans Saints (28/10/2012),"Denver Broncos, New Orleans Saints",Denver Broncos,New Orleans Saints,34,14,28/10/2012,8,2012
+Detroit Lions vs. Seattle Seahawks (28/10/2012),"Detroit Lions, Seattle Seahawks",Detroit Lions,Seattle Seahawks,28,24,28/10/2012,8,2012
+Green Bay Packers vs. Jacksonville Jaguars (28/10/2012),"Green Bay Packers, Jacksonville Jaguars",Green Bay Packers,Jacksonville Jaguars,24,15,28/10/2012,8,2012
+Indianapolis Colts vs. Tennessee Titans (28/10/2012),"Indianapolis Colts, Tennessee Titans",Indianapolis Colts,Tennessee Titans,19,13,28/10/2012,8,2012
+Miami Dolphins vs. New York Jets (28/10/2012),"Miami Dolphins, New York Jets",Miami Dolphins,New York Jets,30,9,28/10/2012,8,2012
+New England Patriots vs. St. Louis Rams (28/10/2012),"New England Patriots, St. Louis Rams",New England Patriots,St. Louis Rams,45,7,28/10/2012,8,2012
+New York Giants vs. Dallas Cowboys (28/10/2012),"New York Giants, Dallas Cowboys",New York Giants,Dallas Cowboys,29,24,28/10/2012,8,2012
+Oakland Raiders vs. Kansas City Chiefs (28/10/2012),"Oakland Raiders, Kansas City Chiefs",Oakland Raiders,Kansas City Chiefs,26,16,28/10/2012,8,2012
+Pittsburgh Steelers vs. Washington Redskins (28/10/2012),"Pittsburgh Steelers, Washington Redskins",Pittsburgh Steelers,Washington Redskins,27,12,28/10/2012,8,2012
+Seattle Seahawks vs. St. Louis Rams (28/10/2013),"Seattle Seahawks, St. Louis Rams",Seattle Seahawks,St. Louis Rams,14,9,28/10/2013,8,2013
+Baltimore Ravens vs. Pittsburgh Steelers (28/11/2013),"Baltimore Ravens, Pittsburgh Steelers",Baltimore Ravens,Pittsburgh Steelers,22,20,28/11/2013,13,2013
+Dallas Cowboys vs. Oakland Raiders (28/11/2013),"Dallas Cowboys, Oakland Raiders",Dallas Cowboys,Oakland Raiders,31,24,28/11/2013,13,2013
+Detroit Lions vs. Green Bay Packers (28/11/2013),"Detroit Lions, Green Bay Packers",Detroit Lions,Green Bay Packers,40,10,28/11/2013,13,2013
+Arizona Cardinals vs. San Francisco 49ers (28/12/2014),"Arizona Cardinals, San Francisco 49ers",Arizona Cardinals,San Francisco 49ers,,,28/12/2014,17,2014
+Buffalo Bills vs. Green Bay Packers (28/12/2014),"Buffalo Bills, Green Bay Packers",Buffalo Bills,Green Bay Packers,,,28/12/2014,17,2014
+Buffalo Bills vs. New England Patriots (28/12/2014),"Buffalo Bills, New England Patriots",Buffalo Bills,New England Patriots,,,28/12/2014,17,2014
+Carolina Panthers vs. Atlanta Falcons (28/12/2014),"Carolina Panthers, Atlanta Falcons",Carolina Panthers,Atlanta Falcons,,,28/12/2014,17,2014
+Chicago Bears vs. Minnesota Vikings (28/12/2014),"Chicago Bears, Minnesota Vikings",Chicago Bears,Minnesota Vikings,,,28/12/2014,17,2014
+Cincinnati Bengals vs. Pittsburgh Steelers (28/12/2014),"Cincinnati Bengals, Pittsburgh Steelers",Cincinnati Bengals,Pittsburgh Steelers,,,28/12/2014,17,2014
+Cleveland Browns vs. Baltimore Ravens (28/12/2014),"Cleveland Browns, Baltimore Ravens",Cleveland Browns,Baltimore Ravens,,,28/12/2014,17,2014
+Dallas Cowboys vs. Washington Redskins (28/12/2014),"Dallas Cowboys, Washington Redskins",Dallas Cowboys,Washington Redskins,,,28/12/2014,17,2014
+Detroit Lions vs. Green Bay Packers (28/12/2014),"Detroit Lions, Green Bay Packers",Detroit Lions,Green Bay Packers,,,28/12/2014,17,2014
+Green Bay Packers vs. Atlanta Falcons (28/12/2014),"Green Bay Packers, Atlanta Falcons",Green Bay Packers,Atlanta Falcons,,,28/12/2014,17,2014
+Indianapolis Colts vs. Tennessee Titans (28/12/2014),"Indianapolis Colts, Tennessee Titans",Indianapolis Colts,Tennessee Titans,,,28/12/2014,17,2014
+Jacksonville Jaguars vs. Houston Texans (28/12/2014),"Jacksonville Jaguars, Houston Texans",Jacksonville Jaguars,Houston Texans,,,28/12/2014,17,2014
+New Orleans Saints vs. Tampa Bay Buccaneers (28/12/2014),"New Orleans Saints, Tampa Bay Buccaneers",New Orleans Saints,Tampa Bay Buccaneers,,,28/12/2014,17,2014
+New York Jets vs. Miami Dolphins (28/12/2014),"New York Jets, Miami Dolphins",New York Jets,Miami Dolphins,,,28/12/2014,17,2014
+Oakland Raiders vs. Denver Broncos (28/12/2014),"Oakland Raiders, Denver Broncos",Oakland Raiders,Denver Broncos,,,28/12/2014,17,2014
+Philadelphia Eagles vs. New York Giants (28/12/2014),"Philadelphia Eagles, New York Giants",Philadelphia Eagles,New York Giants,,,28/12/2014,17,2014
+San Diego Chargers vs. Kansas City Chiefs (28/12/2014),"San Diego Chargers, Kansas City Chiefs",San Diego Chargers,Kansas City Chiefs,,,28/12/2014,17,2014
+St. Louis Rams vs. Seattle Seahawks (28/12/2014),"St. Louis Rams, Seattle Seahawks",St. Louis Rams,Seattle Seahawks,,,28/12/2014,17,2014
+Baltimore Ravens vs. Carolina Panthers (28/9/2014),"Baltimore Ravens, Carolina Panthers",Baltimore Ravens,Carolina Panthers,38,10,28/09/2014,4,2014
+Dallas Cowboys vs. New Orleans Saints (28/9/2014),"Dallas Cowboys, New Orleans Saints",Dallas Cowboys,New Orleans Saints,38,17,28/09/2014,4,2014
+Detroit Lions vs. New York Jets (28/9/2014),"Detroit Lions, New York Jets",Detroit Lions,New York Jets,24,17,28/09/2014,4,2014
+Green Bay Packers vs. Chicago Bears (28/9/2014),"Green Bay Packers, Chicago Bears",Green Bay Packers,Chicago Bears,38,17,28/09/2014,4,2014
+Houston Texans vs. Buffalo Bills (28/9/2014),"Houston Texans, Buffalo Bills",Houston Texans,Buffalo Bills,23,17,28/09/2014,4,2014
+Indianapolis Colts vs. Tennessee Titans (28/9/2014),"Indianapolis Colts, Tennessee Titans",Indianapolis Colts,Tennessee Titans,41,17,28/09/2014,4,2014
+Miami Dolphins vs. Oakland Raiders (28/9/2014),"Miami Dolphins, Oakland Raiders",Miami Dolphins,Oakland Raiders,38,14,28/09/2014,4,2014
+Minnesota Vikings vs. Atlanta Falcons (28/9/2014),"Minnesota Vikings, Atlanta Falcons",Minnesota Vikings,Atlanta Falcons,41,28,28/09/2014,4,2014
+San Diego Chargers vs. Jacksonville Jaguars (28/9/2014),"San Diego Chargers, Jacksonville Jaguars",San Diego Chargers,Jacksonville Jaguars,33,14,28/09/2014,4,2014
+San Francisco 49ers vs. Philadelphia Eagles (28/9/2014),"San Francisco 49ers, Philadelphia Eagles",San Francisco 49ers,Philadelphia Eagles,26,21,28/09/2014,4,2014
+Tampa Bay Buccaneers vs. Pittsburgh Steelers (28/9/2014),"Tampa Bay Buccaneers, Pittsburgh Steelers",Tampa Bay Buccaneers,Pittsburgh Steelers,27,24,28/09/2014,4,2014
+San Francisco 49ers vs. Arizona Cardinals (29/10/2012),"San Francisco 49ers, Arizona Cardinals",San Francisco 49ers,Arizona Cardinals,24,3,29/10/2012,8,2012
+Atlanta Falcons vs. New Orleans Saints (29/11/2012),"Atlanta Falcons, New Orleans Saints",Atlanta Falcons,New Orleans Saints,23,13,29/11/2012,13,2012
+Carolina Panthers vs. Atlanta Falcons (29/12/2013),"Carolina Panthers, Atlanta Falcons",Carolina Panthers,Atlanta Falcons,21,20,29/12/2013,17,2013
+Cincinnati Bengals vs. Baltimore Ravens (29/12/2013),"Cincinnati Bengals, Baltimore Ravens",Cincinnati Bengals,Baltimore Ravens,34,17,29/12/2013,17,2013
+Denver Broncos vs. Oakland Raiders (29/12/2013),"Denver Broncos, Oakland Raiders",Denver Broncos,Oakland Raiders,34,14,29/12/2013,17,2013
+Green Bay Packers vs. Chicago Bears (29/12/2013),"Green Bay Packers, Chicago Bears",Green Bay Packers,Chicago Bears,33,28,29/12/2013,17,2013
+Indianapolis Colts vs. Jacksonville Jaguars (29/12/2013),"Indianapolis Colts, Jacksonville Jaguars",Indianapolis Colts,Jacksonville Jaguars,30,10,29/12/2013,17,2013
+Minnesota Vikings vs. Detroit Lions (29/12/2013),"Minnesota Vikings, Detroit Lions",Minnesota Vikings,Detroit Lions,14,13,29/12/2013,17,2013
+New England Patriots vs. Buffalo Bills (29/12/2013),"New England Patriots, Buffalo Bills",New England Patriots,Buffalo Bills,34,20,29/12/2013,17,2013
+New Orleans Saints vs. Tampa Bay Buccaneers (29/12/2013),"New Orleans Saints, Tampa Bay Buccaneers",New Orleans Saints,Tampa Bay Buccaneers,42,17,29/12/2013,17,2013
+New York Giants vs. Washington Redskins (29/12/2013),"New York Giants, Washington Redskins",New York Giants,Washington Redskins,20,6,29/12/2013,17,2013
+New York Jets vs. Miami Dolphins (29/12/2013),"New York Jets, Miami Dolphins",New York Jets,Miami Dolphins,20,7,29/12/2013,17,2013
+Philadelphia Eagles vs. Dallas Cowboys (29/12/2013),"Philadelphia Eagles, Dallas Cowboys",Philadelphia Eagles,Dallas Cowboys,24,22,29/12/2013,17,2013
+Pittsburgh Steelers vs. Cleveland Browns (29/12/2013),"Pittsburgh Steelers, Cleveland Browns",Pittsburgh Steelers,Cleveland Browns,20,7,29/12/2013,17,2013
+San Diego Chargers vs. Kansas City Chiefs (29/12/2013),"San Diego Chargers, Kansas City Chiefs",San Diego Chargers,Kansas City Chiefs,27,24,29/12/2013,17,2013
+San Francisco 49ers vs. Arizona Cardinals (29/12/2013),"San Francisco 49ers, Arizona Cardinals",San Francisco 49ers,Arizona Cardinals,23,20,29/12/2013,17,2013
+Seattle Seahawks vs. St. Louis Rams (29/12/2013),"Seattle Seahawks, St. Louis Rams",Seattle Seahawks,St. Louis Rams,27,9,29/12/2013,17,2013
+Tennessee Titans vs. Houston Texans (29/12/2013),"Tennessee Titans, Houston Texans",Tennessee Titans,Houston Texans,16,10,29/12/2013,17,2013
+Arizona Cardinals vs. Tampa Bay Buccaneers (29/9/2013),"Arizona Cardinals, Tampa Bay Buccaneers",Arizona Cardinals,Tampa Bay Buccaneers,13,10,29/09/2013,4,2013
+Buffalo Bills vs. Baltimore Ravens (29/9/2013),"Buffalo Bills, Baltimore Ravens",Buffalo Bills,Baltimore Ravens,23,20,29/09/2013,4,2013
+Cleveland Browns vs. Cincinnati Bengals (29/9/2013),"Cleveland Browns, Cincinnati Bengals",Cleveland Browns,Cincinnati Bengals,17,6,29/09/2013,4,2013
+Denver Broncos vs. Philadelphia Eagles (29/9/2013),"Denver Broncos, Philadelphia Eagles",Denver Broncos,Philadelphia Eagles,52,20,29/09/2013,4,2013
+Detroit Lions vs. Chicago Bears (29/9/2013),"Detroit Lions, Chicago Bears",Detroit Lions,Chicago Bears,40,32,29/09/2013,4,2013
+Indianapolis Colts vs. Jacksonville Jaguars (29/9/2013),"Indianapolis Colts, Jacksonville Jaguars",Indianapolis Colts,Jacksonville Jaguars,37,3,29/09/2013,4,2013
+Kansas City Chiefs vs. New York Giants (29/9/2013),"Kansas City Chiefs, New York Giants",Kansas City Chiefs,New York Giants,31,7,29/09/2013,4,2013
+Minnesota Vikings vs. Pittsburgh Steelers (29/9/2013),"Minnesota Vikings, Pittsburgh Steelers",Minnesota Vikings,Pittsburgh Steelers,34,27,29/09/2013,4,2013
+New England Patriots vs. Atlanta Falcons (29/9/2013),"New England Patriots, Atlanta Falcons",New England Patriots,Atlanta Falcons,30,23,29/09/2013,4,2013
+San Diego Chargers vs. Dallas Cowboys (29/9/2013),"San Diego Chargers, Dallas Cowboys",San Diego Chargers,Dallas Cowboys,30,21,29/09/2013,4,2013
+Seattle Seahawks vs. Houston Texans (29/9/2013),"Seattle Seahawks, Houston Texans",Seattle Seahawks,Houston Texans,23,20,29/09/2013,4,2013
+Tennessee Titans vs. New York Jets (29/9/2013),"Tennessee Titans, New York Jets",Tennessee Titans,New York Jets,38,13,29/09/2013,4,2013
+Washington Redskins vs. Oakland Raiders (29/9/2013),"Washington Redskins, Oakland Raiders",Washington Redskins,Oakland Raiders,24,14,29/09/2013,4,2013
+Kansas City Chiefs vs. New England Patriots (29/9/2014),"Kansas City Chiefs, New England Patriots",Kansas City Chiefs,New England Patriots,41,14,29/09/2014,4,2014
+New Orleans Saints vs. Carolina Panthers (30/10/2014),"New Orleans Saints, Carolina Panthers",New Orleans Saints,Carolina Panthers,28,10,30/10/2014,9,2014
+Arizona Cardinals vs. Atlanta Falcons (30/11/2014),"Arizona Cardinals, Atlanta Falcons",Arizona Cardinals,Atlanta Falcons,,,30/11/2014,13,2014
+Carolina Panthers vs. Minnesota Vikings (30/11/2014),"Carolina Panthers, Minnesota Vikings",Carolina Panthers,Minnesota Vikings,,,30/11/2014,13,2014
+Cincinnati Bengals vs. Tampa Bay Buccaneers (30/11/2014),"Cincinnati Bengals, Tampa Bay Buccaneers",Cincinnati Bengals,Tampa Bay Buccaneers,,,30/11/2014,13,2014
+Cleveland Browns vs. Buffalo Bills (30/11/2014),"Cleveland Browns, Buffalo Bills",Cleveland Browns,Buffalo Bills,,,30/11/2014,13,2014
+Denver Broncos vs. Kansas City Chiefs (30/11/2014),"Denver Broncos, Kansas City Chiefs",Denver Broncos,Kansas City Chiefs,,,30/11/2014,13,2014
+Green Bay Packers vs. Green Bay Packers (30/11/2014),"Green Bay Packers, Green Bay Packers",Green Bay Packers,Green Bay Packers,,,30/11/2014,13,2014
+Green Bay Packers vs. Minnesota Vikings (30/11/2014),"Green Bay Packers, Minnesota Vikings",Green Bay Packers,Minnesota Vikings,,,30/11/2014,13,2014
+New England Patriots vs. Green Bay Packers (30/11/2014),"New England Patriots, Green Bay Packers",New England Patriots,Green Bay Packers,,,30/11/2014,13,2014
+New Orleans Saints vs. Pittsburgh Steelers (30/11/2014),"New Orleans Saints, Pittsburgh Steelers",New Orleans Saints,Pittsburgh Steelers,,,30/11/2014,13,2014
+New York Giants vs. Jacksonville Jaguars (30/11/2014),"New York Giants, Jacksonville Jaguars",New York Giants,Jacksonville Jaguars,,,30/11/2014,13,2014
+Oakland Raiders vs. St. Louis Rams (30/11/2014),"Oakland Raiders, St. Louis Rams",Oakland Raiders,St. Louis Rams,,,30/11/2014,13,2014
+San Diego Chargers vs. Baltimore Ravens (30/11/2014),"San Diego Chargers, Baltimore Ravens",San Diego Chargers,Baltimore Ravens,,,30/11/2014,13,2014
+Tennessee Titans vs. Houston Texans (30/11/2014),"Tennessee Titans, Houston Texans",Tennessee Titans,Houston Texans,,,30/11/2014,13,2014
+Washington Redskins vs. Indianapolis Colts (30/11/2014),"Washington Redskins, Indianapolis Colts",Washington Redskins,Indianapolis Colts,,,30/11/2014,13,2014
+Buffalo Bills vs. New York Jets (30/12/2012),"Buffalo Bills, New York Jets",Buffalo Bills,New York Jets,28,9,30/12/2012,17,2012
+Carolina Panthers vs. New Orleans Saints (30/12/2012),"Carolina Panthers, New Orleans Saints",Carolina Panthers,New Orleans Saints,44,38,30/12/2012,17,2012
+Chicago Bears vs. Detroit Lions (30/12/2012),"Chicago Bears, Detroit Lions",Chicago Bears,Detroit Lions,26,24,30/12/2012,17,2012
+Cincinnati Bengals vs. Baltimore Ravens (30/12/2012),"Cincinnati Bengals, Baltimore Ravens",Cincinnati Bengals,Baltimore Ravens,23,17,30/12/2012,17,2012
+Denver Broncos vs. Kansas City Chiefs (30/12/2012),"Denver Broncos, Kansas City Chiefs",Denver Broncos,Kansas City Chiefs,38,3,30/12/2012,17,2012
+Indianapolis Colts vs. Houston Texans (30/12/2012),"Indianapolis Colts, Houston Texans",Indianapolis Colts,Houston Texans,28,16,30/12/2012,17,2012
+Minnesota Vikings vs. Green Bay Packers (30/12/2012),"Minnesota Vikings, Green Bay Packers",Minnesota Vikings,Green Bay Packers,37,34,30/12/2012,17,2012
+New England Patriots vs. Miami Dolphins (30/12/2012),"New England Patriots, Miami Dolphins",New England Patriots,Miami Dolphins,28,0,30/12/2012,17,2012
+New York Giants vs. Philadelphia Eagles (30/12/2012),"New York Giants, Philadelphia Eagles",New York Giants,Philadelphia Eagles,42,7,30/12/2012,17,2012
+Pittsburgh Steelers vs. Cleveland Browns (30/12/2012),"Pittsburgh Steelers, Cleveland Browns",Pittsburgh Steelers,Cleveland Browns,24,10,30/12/2012,17,2012
+San Diego Chargers vs. Oakland Raiders (30/12/2012),"San Diego Chargers, Oakland Raiders",San Diego Chargers,Oakland Raiders,24,21,30/12/2012,17,2012
+San Francisco 49ers vs. Arizona Cardinals (30/12/2012),"San Francisco 49ers, Arizona Cardinals",San Francisco 49ers,Arizona Cardinals,27,13,30/12/2012,17,2012
+Seattle Seahawks vs. St. Louis Rams (30/12/2012),"Seattle Seahawks, St. Louis Rams",Seattle Seahawks,St. Louis Rams,20,13,30/12/2012,17,2012
+Tampa Bay Buccaneers vs. Atlanta Falcons (30/12/2012),"Tampa Bay Buccaneers, Atlanta Falcons",Tampa Bay Buccaneers,Atlanta Falcons,22,17,30/12/2012,17,2012
+Tennessee Titans vs. Jacksonville Jaguars (30/12/2012),"Tennessee Titans, Jacksonville Jaguars",Tennessee Titans,Jacksonville Jaguars,38,20,30/12/2012,17,2012
+Washington Redskins vs. Dallas Cowboys (30/12/2012),"Washington Redskins, Dallas Cowboys",Washington Redskins,Dallas Cowboys,28,18,30/12/2012,17,2012
+Arizona Cardinals vs. Miami Dolphins (30/9/2012),"Arizona Cardinals, Miami Dolphins",Arizona Cardinals,Miami Dolphins,24,21,30/09/2012,4,2012
+Atlanta Falcons vs. Carolina Panthers (30/9/2012),"Atlanta Falcons, Carolina Panthers",Atlanta Falcons,Carolina Panthers,30,28,30/09/2012,4,2012
+Cincinnati Bengals vs. Jacksonville Jaguars (30/9/2012),"Cincinnati Bengals, Jacksonville Jaguars",Cincinnati Bengals,Jacksonville Jaguars,27,10,30/09/2012,4,2012
+Denver Broncos vs. Oakland Raiders (30/9/2012),"Denver Broncos, Oakland Raiders",Denver Broncos,Oakland Raiders,37,6,30/09/2012,4,2012
+Green Bay Packers vs. New Orleans Saints (30/9/2012),"Green Bay Packers, New Orleans Saints",Green Bay Packers,New Orleans Saints,28,27,30/09/2012,4,2012
+Houston Texans vs. Tennessee Titans (30/9/2012),"Houston Texans, Tennessee Titans",Houston Texans,Tennessee Titans,38,14,30/09/2012,4,2012
+Minnesota Vikings vs. Detroit Lions (30/9/2012),"Minnesota Vikings, Detroit Lions",Minnesota Vikings,Detroit Lions,20,13,30/09/2012,4,2012
+New England Patriots vs. Buffalo Bills (30/9/2012),"New England Patriots, Buffalo Bills",New England Patriots,Buffalo Bills,52,28,30/09/2012,4,2012
+Philadelphia Eagles vs. New York Giants (30/9/2012),"Philadelphia Eagles, New York Giants",Philadelphia Eagles,New York Giants,19,17,30/09/2012,4,2012
+San Diego Chargers vs. Kansas City Chiefs (30/9/2012),"San Diego Chargers, Kansas City Chiefs",San Diego Chargers,Kansas City Chiefs,37,20,30/09/2012,4,2012
+San Francisco 49ers vs. New York Jets (30/9/2012),"San Francisco 49ers, New York Jets",San Francisco 49ers,New York Jets,34,0,30/09/2012,4,2012
+St. Louis Rams vs. Seattle Seahawks (30/9/2012),"St. Louis Rams, Seattle Seahawks",St. Louis Rams,Seattle Seahawks,19,13,30/09/2012,4,2012
+Washington Redskins vs. Tampa Bay Buccaneers (30/9/2012),"Washington Redskins, Tampa Bay Buccaneers",Washington Redskins,Tampa Bay Buccaneers,24,22,30/09/2012,4,2012
+New Orleans Saints vs. Miami Dolphins (30/9/2013),"New Orleans Saints, Miami Dolphins",New Orleans Saints,Miami Dolphins,38,17,30/09/2013,4,2013
+Miami Dolphins vs. Cincinnati Bengals (31/10/2013),"Miami Dolphins, Cincinnati Bengals",Miami Dolphins,Cincinnati Bengals,22,20,31/10/2013,9,2013
