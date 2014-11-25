@@ -1,20 +1,20 @@
-Brand,Number of Samples,Logo,Tests Failed by its sampled oils,Imported or Local?
-Newmans Own Organics,3,http://ecx.images-amazon.com/images/I/61FjfO-C0ML._SY679_.jpg,"1,2-Diacylglycerol Content",Imported
-Bertolli,3,http://www.villabertolli.com/Images/524/524-114714.png,"1,2-Diacylglycerol Content | Sensory",Imported
-Colavita,3,http://www.goodhousekeeping.com/cm/goodhousekeeping/images/L2/colavita-extra-virgin-olive-oil-mdn.jpg,"1,2-Diacylglycerol Content | Sensory",Imported
-Pompeian,3,http://www.goodhousekeeping.com/cm/goodhousekeeping/images/vi/pompeian-extra-virgin-olive-oil-mdn.jpg,"1,2-Diacylglycerol Content | Sensory",Imported
-Rachael Ray,3,http://iweb.cooking.com/images/products/enlarge/620321e.jpg,"1,2-Diacylglycerol Content | Sensory",Imported
-Star,3,http://shop.starfinefoods.com/img/product/star-00011.jpg,"1,2-Diacylglycerol Content | Sensory",Imported
-California Olive Ranch,2,http://www.plummarket.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/8/5/850687104009.jpg,None,California Brand
-Corto Olive,2,http://www.gourmetitalian.com/v/vspfiles/photos/corto-3.jpg,None,California Brand
-Lucero (Ascolano),2,http://cdn.nexternal.com/grow/images/ascolano%202001.jpg,None,California Brand
-McEvoy Ranch Organic,2,http://www.mcevoyranch.com/media/catalog/product/cache/1/image/270x/9df78eab33525d08d6e5fb8d27136e95/o/i/oil2010trad375bottlel_1_1_1_1_1.jpg,None,California Brand
-Kirkland Organic,3,http://content.costco.com/Images/Content/Product/692731b.jpg,Pyropheophytins,Imported
-365 100% Italian,3,http://ecx.images-amazon.com/images/I/91MULS8SHLL._SY355_.jpg,"Pyropheophytins | 1,2-Diacylglycerol Content | Sensory",Imported
-Carapelli,3,http://www.thismamacooks.com/images/2011/11/carapellioliveoils.jpg,"Pyropheophytins | 1,2-Diacylglycerol Content | Sensory",Imported
-Mezzetta,3,http://www.mezzetta.com/mm5/graphics/00000001/Extra-Virgin-Olive-Oil_500_lg_2.png,"Pyropheophytins | 1,2-Diacylglycerol Content | Sensory",Imported
-Bariani,2,http://www.freshtomarket.com/03-15/bariani-olive-oil.jpg,Sensory,California Brand
-Filippo Berio,3,http://www.goodhousekeeping.com/cm/goodhousekeeping/images/yJ/filippo-berio-extra-virgin-olive-oil-mdn.jpg,Sensory,Imported
-Great Value 100%,3,http://i5.walmartimages.com/dfw/dce07b8c-a4d2/k2-_32f0c92a-4b31-423b-97ed-d9caf7bc3027.v1.jpg,Sensory,Imported
-Safeway Select,3,http://static.caloriecount.about.com/images/medium/safeway-select-olive-oil-20486.jpg,Sensory,Imported
-Mazola,3,http://c2.soap.com/images/products/p/dcs/dcs-1562_1z.jpg,"UV Absorption | 1,2-Diacylglycerol Content | Sensory",Imported
+Brand,Number of Samples,Logo,Tests Failed by its sampled oils,Imported or Local?,Average tests failed by its samples,Number of tests failed by its samples
+365 100% Italian,3,http://ecx.images-amazon.com/images/I/91MULS8SHLL._SY355_.jpg,"Pyropheophytins | 1,2-Diacylglycerol Content | Sensory",Imported,2.0,6
+Bariani,2,http://www.freshtomarket.com/03-15/bariani-olive-oil.jpg,Sensory,California Brand,0.5,1
+Bertolli,3,http://www.villabertolli.com/Images/524/524-114714.png,"1,2-Diacylglycerol Content | Sensory",Imported,2.0,6
+California Olive Ranch,2,http://www.plummarket.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/8/5/850687104009.jpg,None,California Brand,0.0,0
+Carapelli,3,http://www.thismamacooks.com/images/2011/11/carapellioliveoils.jpg,"Pyropheophytins | 1,2-Diacylglycerol Content | Sensory",Imported,3.3,10
+Colavita,3,http://www.goodhousekeeping.com/cm/goodhousekeeping/images/L2/colavita-extra-virgin-olive-oil-mdn.jpg,"1,2-Diacylglycerol Content | Sensory",Imported,2.0,6
+Corto Olive,2,http://www.gourmetitalian.com/v/vspfiles/photos/corto-3.jpg,None,California Brand,0.0,0
+Filippo Berio,3,http://www.goodhousekeeping.com/cm/goodhousekeeping/images/yJ/filippo-berio-extra-virgin-olive-oil-mdn.jpg,Sensory,Imported,0.7,2
+Great Value 100%,3,http://i5.walmartimages.com/dfw/dce07b8c-a4d2/k2-_32f0c92a-4b31-423b-97ed-d9caf7bc3027.v1.jpg,Sensory,Imported,0.3,1
+Kirkland Organic,3,http://content.costco.com/Images/Content/Product/692731b.jpg,Pyropheophytins,Imported,0.3,1
+Lucero (Ascolano),2,http://cdn.nexternal.com/grow/images/ascolano%202001.jpg,None,California Brand,0.0,0
+Mazola,3,http://c2.soap.com/images/products/p/dcs/dcs-1562_1z.jpg,"UV Absorption | 1,2-Diacylglycerol Content | Sensory",Imported,3.7,11
+McEvoy Ranch Organic,2,http://www.mcevoyranch.com/media/catalog/product/cache/1/image/270x/9df78eab33525d08d6e5fb8d27136e95/o/i/oil2010trad375bottlel_1_1_1_1_1.jpg,None,California Brand,0.0,0
+Mezzetta,3,http://www.mezzetta.com/mm5/graphics/00000001/Extra-Virgin-Olive-Oil_500_lg_2.png,"Pyropheophytins | 1,2-Diacylglycerol Content | Sensory",Imported,3.0,9
+Newmans Own Organics,3,http://ecx.images-amazon.com/images/I/61FjfO-C0ML._SY679_.jpg,"1,2-Diacylglycerol Content",Imported,2.0,6
+Pompeian,3,http://www.goodhousekeeping.com/cm/goodhousekeeping/images/vi/pompeian-extra-virgin-olive-oil-mdn.jpg,"1,2-Diacylglycerol Content | Sensory",Imported,3.0,9
+Rachael Ray,3,http://iweb.cooking.com/images/products/enlarge/620321e.jpg,"1,2-Diacylglycerol Content | Sensory",Imported,1.3,4
+Safeway Select,3,http://static.caloriecount.about.com/images/medium/safeway-select-olive-oil-20486.jpg,Sensory,Imported,2.0,6
+Star,3,http://shop.starfinefoods.com/img/product/star-00011.jpg,"1,2-Diacylglycerol Content | Sensory",Imported,1.3,4
